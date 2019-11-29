@@ -13,15 +13,15 @@
             "id": "https://dansgithubuser.github.io/pmc-website/hello.html",
             "url": "https://dansgithubuser.github.io/pmc-website/hello.html",
             "title": "hello",
-            "summary": "I am a banana.",
-            "content_html": "I am a banana.",
+            "summary": "I am a banana.This text is untouched by Javascript.",
+            "content_html": "I am a banana.\n<div id=\"asdf\">This text is untouched by Javascript.</div>\n<script>// <![CDATA[\n  asdf = document.getElementById('asdf')\n  asdf.innerHTML = '<h>jAvAsCriPt WaS HeRe</h>'\n// ]]></script>",
             "author": {
                 "name": "Dan"
             },
             "tags": [
             ],
             "date_published": "2019-11-29T12:43:15-05:00",
-            "date_modified": "2019-11-29T12:45:14-05:00"
+            "date_modified": "2019-11-29T13:08:21-05:00"
         }
     ]
 }

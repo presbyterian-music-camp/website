@@ -3,7 +3,7 @@
     <title>Presbyterian Music Camp</title>
     <link href="https://dansgithubuser.github.io/pmc-website/feed.xml" rel="self" />
     <link href="https://dansgithubuser.github.io/pmc-website" />
-    <updated>2019-11-29T13:03:32-05:00</updated>
+    <updated>2019-11-29T13:08:27-05:00</updated>
     <author>
         <name>Dan</name>
     </author>
@@ -17,15 +17,20 @@
         <link href="https://dansgithubuser.github.io/pmc-website/hello.html"/>
         <id>https://dansgithubuser.github.io/pmc-website/hello.html</id>
 
-        <updated>2019-11-29T12:45:14-05:00</updated>
+        <updated>2019-11-29T13:08:21-05:00</updated>
             <summary>
                 <![CDATA[
-                    I am a banana.
+                    I am a banana.This text is untouched by Javascript.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 I am a banana.
+<div id="asdf">This text is untouched by Javascript.</div>
+<script>// <![CDATA[
+  asdf = document.getElementById('asdf')
+  asdf.innerHTML = '<h>jAvAsCriPt WaS HeRe</h>'
+// ]]></script>
             ]]>
         </content>
     </entry>
