@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Presbyterian Music Camp",
+    "description": "",
+    "home_page_url": "https://dansgithubuser.github.io/pmc-website",
+    "feed_url": "https://dansgithubuser.github.io/pmc-website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Dan"
+    },
+    "items": [
+        {
+            "id": "https://dansgithubuser.github.io/pmc-website/hello.html",
+            "url": "https://dansgithubuser.github.io/pmc-website/hello.html",
+            "title": "hello",
+            "summary": "I am a banana.",
+            "content_html": "I am a banana.",
+            "author": {
+                "name": "Dan"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-29T12:43:15-05:00",
+            "date_modified": "2019-11-29T12:45:14-05:00"
+        }
+    ]
+}
