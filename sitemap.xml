@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://dansgithubuser.github.io/pmc-website/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://presbyterian-music-camp.github.io/website/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://dansgithubuser.github.io/pmc-website/</loc>
+<loc>https://presbyterian-music-camp.github.io/website/</loc>
 </url>
 <url>
-<loc>https://dansgithubuser.github.io/pmc-website/hello.html</loc>
+<loc>https://presbyterian-music-camp.github.io/website/hello.html</loc>
 <lastmod>2019-11-29T13:08:21-05:00</lastmod>
 </url>
 </urlset>

@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Presbyterian Music Camp",
     "description": "",
-    "home_page_url": "https://dansgithubuser.github.io/pmc-website",
-    "feed_url": "https://dansgithubuser.github.io/pmc-website/feed.json",
+    "home_page_url": "https://presbyterian-music-camp.github.io/website",
+    "feed_url": "https://presbyterian-music-camp.github.io/website/feed.json",
     "user_comment": "",
     "author": {
         "name": "Dan"
     },
     "items": [
         {
-            "id": "https://dansgithubuser.github.io/pmc-website/hello.html",
-            "url": "https://dansgithubuser.github.io/pmc-website/hello.html",
+            "id": "https://presbyterian-music-camp.github.io/website/hello.html",
+            "url": "https://presbyterian-music-camp.github.io/website/hello.html",
             "title": "hello",
             "summary": "I am a banana.This text is untouched by Javascript.",
             "content_html": "I am a banana.\n<div id=\"asdf\">This text is untouched by Javascript.</div>\n<script>// <![CDATA[\n  asdf = document.getElementById('asdf')\n  asdf.innerHTML = '<h>jAvAsCriPt WaS HeRe</h>'\n// ]]></script>",

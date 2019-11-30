@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Presbyterian Music Camp</title>
-    <link href="https://dansgithubuser.github.io/pmc-website/feed.xml" rel="self" />
-    <link href="https://dansgithubuser.github.io/pmc-website" />
-    <updated>2019-11-29T13:08:27-05:00</updated>
+    <link href="https://presbyterian-music-camp.github.io/website/feed.xml" rel="self" />
+    <link href="https://presbyterian-music-camp.github.io/website" />
+    <updated>2019-11-30T15:04:10-05:00</updated>
     <author>
         <name>Dan</name>
     </author>
-    <id>https://dansgithubuser.github.io/pmc-website</id>
+    <id>https://presbyterian-music-camp.github.io/website</id>
 
     <entry>
         <title>hello</title>
         <author>
             <name>Dan</name>
         </author>
-        <link href="https://dansgithubuser.github.io/pmc-website/hello.html"/>
-        <id>https://dansgithubuser.github.io/pmc-website/hello.html</id>
+        <link href="https://presbyterian-music-camp.github.io/website/hello.html"/>
+        <id>https://presbyterian-music-camp.github.io/website/hello.html</id>
 
         <updated>2019-11-29T13:08:21-05:00</updated>
             <summary>
