@@ -5,6 +5,7 @@
     "home_page_url": "https://presbyterian-music-camp.github.io/website",
     "feed_url": "https://presbyterian-music-camp.github.io/website/feed.json",
     "user_comment": "",
+    "icon": "https://presbyterian-music-camp.github.io/website/media/website/logo.png",
     "author": {
         "name": "Dan"
     },
@@ -14,14 +15,14 @@
             "url": "https://presbyterian-music-camp.github.io/website/hello.html",
             "title": "hello",
             "summary": "I am a banana.This text is untouched by Javascript.",
-            "content_html": "I am a banana.\n<div id=\"asdf\">This text is untouched by Javascript.</div>\n<script>// <![CDATA[\n  asdf = document.getElementById('asdf')\n  asdf.innerHTML = '<h>jAvAsCriPt WaS HeRe</h>'\n// ]]></script>",
+            "content_html": "I am a banana.\n<div id=\"asdf\">This text is untouched by Javascript.</div>",
             "author": {
                 "name": "Dan"
             },
             "tags": [
             ],
             "date_published": "2019-11-29T12:43:15-05:00",
-            "date_modified": "2019-11-29T13:08:21-05:00"
+            "date_modified": "2019-12-01T22:07:00-05:00"
         }
     ]
 }

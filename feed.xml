@@ -3,7 +3,7 @@
     <title>Presbyterian Music Camp</title>
     <link href="https://presbyterian-music-camp.github.io/website/feed.xml" rel="self" />
     <link href="https://presbyterian-music-camp.github.io/website" />
-    <updated>2019-12-01T21:44:31-05:00</updated>
+    <updated>2019-12-01T22:36:22-05:00</updated>
     <author>
         <name>Dan</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://presbyterian-music-camp.github.io/website/hello.html"/>
         <id>https://presbyterian-music-camp.github.io/website/hello.html</id>
 
-        <updated>2019-11-29T13:08:21-05:00</updated>
+        <updated>2019-12-01T22:07:00-05:00</updated>
             <summary>
                 <![CDATA[
                     I am a banana.This text is untouched by Javascript.
@@ -27,10 +27,6 @@
             <![CDATA[
                 I am a banana.
 <div id="asdf">This text is untouched by Javascript.</div>
-<script>// <![CDATA[
-  asdf = document.getElementById('asdf')
-  asdf.innerHTML = '<h>jAvAsCriPt WaS HeRe</h>'
-// ]]></script>
             ]]>
         </content>
     </entry>
