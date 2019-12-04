@@ -3,32 +3,101 @@
     <title>Presbyterian Music Camp</title>
     <link href="https://presbyterian-music-camp.github.io/website/feed.xml" rel="self" />
     <link href="https://presbyterian-music-camp.github.io/website" />
-    <updated>2019-12-03T20:21:13-05:00</updated>
+    <updated>2019-12-03T21:36:12-05:00</updated>
     <author>
         <name>Dan</name>
     </author>
     <id>https://presbyterian-music-camp.github.io/website</id>
 
     <entry>
-        <title>hello</title>
+        <title>Register!</title>
         <author>
             <name>Dan</name>
         </author>
-        <link href="https://presbyterian-music-camp.github.io/website/hello.html"/>
-        <id>https://presbyterian-music-camp.github.io/website/hello.html</id>
+        <link href="https://presbyterian-music-camp.github.io/website/register.html"/>
+        <id>https://presbyterian-music-camp.github.io/website/register.html</id>
 
-        <updated>2019-12-01T23:01:08-05:00</updated>
+        <updated>2019-12-03T21:36:06-05:00</updated>
             <summary>
                 <![CDATA[
-                    I am a banana.This text is untouched by Javascript. how do you make paragraphs
+                    Registering is quick and easy! Click here to Register If you have mobility, health, or&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2 id="mcetoc_1dr2b5e540">I am a banana.</h2>
-<div id="asdf">This text is untouched by Javascript.</div>
-<div> </div>
-<p>how do you make paragraphs</p>
+                <p>Registering is quick and easy!</p>
+<p id="mcetoc_1dr78andb0" class="align-center"><a href="http://pcc.formstack.com/forms/musiccamp">Click here to Register</a></p>
+<p>If you have mobility, health, or dietary needs please be <em>very specific</em> so that we can ensure you are placed in accommodations that will suit your needs.</p>
+<h2 id="mcetoc_1dr78q3ug1">Fees</h2>
+<table>
+<tbody>
+<tr>
+<td> </td>
+<td>Before May 15</td>
+<td>Before Aug 15</td>
+<td>Later</td>
+<td>Daily Fee*</td>
+</tr>
+<tr>
+<td>Adult (13+)</td>
+<td>$465</td>
+<td>$485</td>
+<td>$515</td>
+<td>$75</td>
+</tr>
+<tr>
+<td>Youth (4-12)</td>
+<td>$300</td>
+<td>$320</td>
+<td>$340</td>
+<td>$70</td>
+</tr>
+</tbody>
+</table>
+<p>*Daily fee applies to stays of 3 days or less.</p>
+<p>Children 3 and under are free.</p>
+<h2 id="mcetoc_1dr78qin74">Deposit</h2>
+<p>A non-refundable deposit of $100 per camper is required upon registration in order to complete your registration. Please make all cheques payable to Presbyterian Music Camp.</p>
+<h2 id="mcetoc_1dr78t2ct6">Family Discount</h2>
+<p>A family discount is offered to families based on the number of children and their ages. The table below shows the discount per child, starting with the oldest.</p>
+<table>
+<tbody>
+<tr>
+<td> </td>
+<td>1 (oldest)</td>
+<td>2</td>
+<td>3</td>
+<td>4 (youngest)</td>
+</tr>
+<tr>
+<td>Teen (13-18)</td>
+<td>$39</td>
+<td>$58.50</td>
+<td>$78</td>
+<td>$97.50</td>
+</tr>
+<tr>
+<td>Youth (4-12)</td>
+<td>$25</td>
+<td>$37.50</td>
+<td>$50</td>
+<td>$62.50</td>
+</tr>
+</tbody>
+</table>
+<p>The family discount will be applied to an adult or adults coming to camp with multiple children.</p>
+<h2 id="mcetoc_1dr79rdv07">Financial Assistance</h2>
+<p>PMC has a few funds, each with a unique purpose.</p>
+<h3 id="mcetoc_1dr7a5fj79">Alison Stewart-Patterson fund</h3>
+<p>The ASP fund provides bursaries for individuals or families who need financial assistance with camp fees.</p>
+<h3 id="mcetoc_1dr7ae5sca">Gladys E. Montgomery fund</h3>
+<p>The GEM fund provides support for campers with special needs in the form of a stipend for an assistant or caregiver.</p>
+<h3 id="mcetoc_1dr7afoeab">Moncrieff Memorial fund</h3>
+<p>The Moncrieff Memorial fund provides resources to purchase musical instruments for the camp, with a particular focus on rhythm instruments for younger campers. For inquiries, please contact the treasurer at <a href="mailto:pmctreasurer@gmail.com">pmctreasurer@gmail.com</a>.</p>
+<h3 id="mcetoc_1dr7aktj0c">Tom Gemmell fund</h3>
+<p>The Tom Gemmell fund provide bursaries to cover the cost of attending PMC for one member of the clergy or certified student, and one music director.</p>
+<h2 id="mcetoc_1dr7a3lt68">Questions</h2>
+<p>If you have any questions, please send an email to our registrar at <a href="mailto:pmcregistrar@gmail.com">pmcregistrar@gmail.com</a>.</p>
             ]]>
         </content>
     </entry>
