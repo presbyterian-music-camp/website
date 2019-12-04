@@ -37,9 +37,20 @@ p {
 }
 
 table {
-  width: 100%;
+  width: calc(100% - 2rem);
   table-layout: fixed;
-  margin: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 2px solid black;
+  border-radius: .25rem;
+}
+
+tr:first-child {
+  vertical-align: top;
+}
+
+td:not(:first-child) {
+  text-align: center;
 }
 
 
