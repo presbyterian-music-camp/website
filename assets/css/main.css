@@ -37,7 +37,7 @@ p {
 }
 
 table {
-  width: calc(100% - 2rem);
+  width: 100%;
   table-layout: fixed;
   margin-top: 1rem;
   margin-bottom: 1rem;
