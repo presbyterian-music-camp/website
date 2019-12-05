@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://presbyterian-music-camp.github.io/website/pic-test.html",
+            "url": "https://presbyterian-music-camp.github.io/website/pic-test.html",
+            "title": "pic test",
+            "summary": "this is my captionkasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas.",
+            "content_html": "<figure class=\"post__image post__image--left\" ><img src=\"https://presbyterian-music-camp.github.io/website/media/posts/3/group.JPG\" alt=\"humans\" width=\"300\" height=\"200\">\n<figcaption >this is my caption</figcaption>\n</figure>\n<p>kasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas. dckasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas. dckasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas. dckasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas. dckasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas. dckasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas. dckasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas. dckasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas. dckasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas. dckasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas. dckasjld</p>\n<p>kasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas. dc</p>\n<p>kasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas. dckasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas. dckasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas. dckasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas. dckasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas. dckasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas. dckasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas. dckasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas. dc</p>\n<p>kasjldc ksd jclksd cjsldk cjsldk csjdl cksjd lcksjd clkj asl;dkcja sldkcj asdcas. dc</p>",
+            "author": {
+                "name": "Dan"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-12-04T23:13:46-05:00",
+            "date_modified": "2019-12-05T00:11:23-05:00"
+        },
+        {
             "id": "https://presbyterian-music-camp.github.io/website/register.html",
             "url": "https://presbyterian-music-camp.github.io/website/register.html",
             "title": "Register!",
