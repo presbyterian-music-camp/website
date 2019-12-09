@@ -3,12 +3,69 @@
     <title>Presbyterian Music Camp</title>
     <link href="https://presbyterian-music-camp.github.io/website/feed.xml" rel="self" />
     <link href="https://presbyterian-music-camp.github.io/website" />
-    <updated>2019-12-08T21:27:31-05:00</updated>
+    <updated>2019-12-08T22:16:34-05:00</updated>
     <author>
         <name>Daniel Eisner</name>
     </author>
     <id>https://presbyterian-music-camp.github.io/website</id>
 
+    <entry>
+        <title>Tom Gemmell Bursary Application</title>
+        <author>
+            <name>Daniel Eisner</name>
+        </author>
+        <link href="https://presbyterian-music-camp.github.io/website/tom-gemmell-bursary-application.html"/>
+        <id>https://presbyterian-music-camp.github.io/website/tom-gemmell-bursary-application.html</id>
+
+        <updated>2019-12-08T21:52:02-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>ASP Bursary Application</title>
+        <author>
+            <name>Daniel Eisner</name>
+        </author>
+        <link href="https://presbyterian-music-camp.github.io/website/asp-bursary-application.html"/>
+        <id>https://presbyterian-music-camp.github.io/website/asp-bursary-application.html</id>
+
+        <updated>2019-12-08T21:46:53-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Applications for the ASP fund must be received by May 15th to be considered. Applications&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Applications for the ASP fund must be received by May 15th to be considered. Applications received after that date will be considered if funds are still available.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Fund Info</title>
+        <author>
+            <name>Daniel Eisner</name>
+        </author>
+        <link href="https://presbyterian-music-camp.github.io/website/fund-histories.html"/>
+        <id>https://presbyterian-music-camp.github.io/website/fund-histories.html</id>
+
+        <updated>2019-12-08T22:16:30-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Alison Stewart-Patterson FundThis fund was set up many years ago to honour Alison Stewart-Patterson, the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="mcetoc_1drk8hcmo1">Alison Stewart-Patterson Fund</h2>
+<p>This fund was set up many years ago to honour Alison Stewart-Patterson, the founder of music camp. The ASP Fund provides bursaries for individuals or families who need financial assistance with camp fees. Revenue for the fund comes from earmarked donations, the Sunday worship offering (unless otherwise specified by the donor), tuck profits, and merchandise profits.</p>
+<h2 id="mcetoc_1drk9519d0">Moncrieff Memorial Fund</h2>
+<p>The Moncrieff Memorial fund originated several years ago to honour Wilf Moncrieff, a former music camper and dean. The Moncrieff fund provides resources to purchase musical instruments for the camp, with a particular focus on rhythm instruments for younger campers. Revenue for the fund comes from earmarked donations.</p>
+<h2 id="mcetoc_1drk9st5r0">Tom Gemmell Fund</h2>
+<p>Established in grateful memory of The Rev. Dr. Thomas Gemmell, who passed away on May 13, 2012. Tom was a devoted Presbyterian, having served congregations in Whitehorse, Oshawa, St-Laurent, Ajax, and Ottawa. Tom had a deep love of music, and Tom’s family and the Presbyterian Music Camp Committee are convinced that the Tom Gemmell Fund would be an appropriate way to remember Tom and to encourage more people to experience the joy and Christian community life of Presbyterian Music Camp.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Living and Rejoicing in Christian Community</title>
         <author>
@@ -140,7 +197,7 @@
         <link href="https://presbyterian-music-camp.github.io/website/register.html"/>
         <id>https://presbyterian-music-camp.github.io/website/register.html</id>
 
-        <updated>2019-12-03T22:12:34-05:00</updated>
+        <updated>2019-12-08T21:59:56-05:00</updated>
             <summary>
                 <![CDATA[
                     Registering is quick and easy! Click here to Register If you have mobility, health, or&hellip;
@@ -210,15 +267,15 @@
 </table>
 <p>The family discount will be applied to an adult or adults coming to camp with multiple children.</p>
 <h2 id="mcetoc_1dr79rdv07">Financial Assistance</h2>
-<p>PMC has a few funds, each with a unique purpose.</p>
-<h3 id="mcetoc_1dr7a5fj79">Alison Stewart-Patterson fund</h3>
-<p>The ASP fund provides bursaries for individuals or families who need financial assistance with camp fees.</p>
-<h3 id="mcetoc_1dr7ae5sca">Gladys E. Montgomery fund</h3>
-<p>The GEM fund provides support for campers with special needs in the form of a stipend for an assistant or caregiver.</p>
-<h3 id="mcetoc_1dr7afoeab">Moncrieff Memorial fund</h3>
-<p>The Moncrieff Memorial fund provides resources to purchase musical instruments for the camp, with a particular focus on rhythm instruments for younger campers. For inquiries, please contact the treasurer at <a href="mailto:pmctreasurer@gmail.com">pmctreasurer@gmail.com</a>.</p>
-<h3 id="mcetoc_1dr7aktj0c">Tom Gemmell fund</h3>
-<p>The Tom Gemmell fund provide bursaries to cover the cost of attending PMC for one member of the clergy or certified student, and one music director.</p>
+<p>PMC has a few funds, each with a unique purpose. More background information on them is available <a href="https://presbyterian-music-camp.github.io/website/fund-histories.html">here</a>.</p>
+<h3 id="mcetoc_1dr7a5fj79">Alison Stewart-Patterson Fund</h3>
+<p>The ASP Fund provides bursaries for individuals or families who need financial assistance with camp fees. More information is available <a href="https://presbyterian-music-camp.github.io/website/asp-bursary-application.html">here</a>.</p>
+<h3 id="mcetoc_1dr7ae5sca">Gladys E. Montgomery Fund</h3>
+<p>The GEM Fund provides support for campers with special needs in the form of a stipend for an assistant or caregiver. For inquiries, please contact the registrar at <a href="mailto:pmcregistrar@gmail.com">pmcregistrar@gmail.com</a>.</p>
+<h3 id="mcetoc_1dr7afoeab">Moncrieff Memorial Fund</h3>
+<p>The Moncrieff Memorial Fund provides resources to purchase musical instruments for the camp, with a particular focus on rhythm instruments for younger campers. For inquiries, please contact the registrar at <a href="mailto:pmcregistrar@gmail.com">pmcregistrar@gmail.com</a>.</p>
+<h3 id="mcetoc_1dr7aktj0c">Tom Gemmell Fund</h3>
+<p>The Tom Gemmell Fund provides bursaries to cover the cost of attending PMC for one member of the clergy or certified student, and one music director. More information is available <a href="https://presbyterian-music-camp.github.io/website/tom-gemmell-bursary-application.html">here</a>.</p>
 <h2 id="mcetoc_1dr7a3lt68">Questions</h2>
 <p>If you have any questions, please send an email to our registrar at <a href="mailto:pmcregistrar@gmail.com">pmcregistrar@gmail.com</a>.</p>
             ]]>
