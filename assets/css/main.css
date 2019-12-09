@@ -34,6 +34,11 @@
   margin-bottom: .5rem;
 }
 
+.author {
+  text-size: 80%;
+  text-align: center;
+}
+
 h2, h3, h4, h5, h6 {
   margin-bottom: 0.5em;
 }
@@ -63,8 +68,6 @@ td:not(:first-child) {
 hr {
   clear: both;
   opacity: 0;
-  padding-top: 1em;
-  padding-bottom: 1em;
 }
 
 
@@ -112,11 +115,14 @@ figure.post__image--left img {
 figure img {
   max-width: 45vw;
   height: auto;
+  width: unset;
+  height: unset;
 }
 
 figcaption {
   text-align: center;
   font-style: italic;
+  line-height: 2em;
 }
 
 
