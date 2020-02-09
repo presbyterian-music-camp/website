@@ -18,7 +18,7 @@
   padding-bottom: 2rem;
   margin-bottom: 8rem;
   border-radius: .25rem;
-  font-size: calc(1em + 2vh);
+  font-size: calc(1em + 1vh);
 }
 
 .active {
