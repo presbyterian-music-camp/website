@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://presbyterian-music-camp.github.io/website/thanks-for-registering.html",
+            "url": "https://presbyterian-music-camp.github.io/website/thanks-for-registering.html",
+            "title": "Thanks for registering!",
+            "summary": "See you soon!",
+            "content_html": "<p class=\"align-center\">See you soon!</p>",
+            "author": {
+                "name": "Daniel Eisner"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-17T19:01:26-05:00",
+            "date_modified": "2020-02-17T19:01:26-05:00"
+        },
+        {
             "id": "https://presbyterian-music-camp.github.io/website/frequently-asked-questions.html",
             "url": "https://presbyterian-music-camp.github.io/website/frequently-asked-questions.html",
             "title": "Frequently Asked Questions",
@@ -135,20 +149,6 @@
             ],
             "date_published": "2019-12-08T21:52:02-05:00",
             "date_modified": "2020-01-07T18:02:01-05:00"
-        },
-        {
-            "id": "https://presbyterian-music-camp.github.io/website/asp-bursary-application.html",
-            "url": "https://presbyterian-music-camp.github.io/website/asp-bursary-application.html",
-            "title": "ASP Bursary Application Process",
-            "summary": "Register for camp.Complete an ASP application form.Send the ASP application and your deposit for camp&hellip;",
-            "content_html": "<ol>\n<li><a href=\"https://presbyterian-music-camp.github.io/website/register.html\">Register</a> for camp.</li>\n<li>Complete an <a href=\"ASP_application.doc\">ASP application form</a>.</li>\n<li>Send the ASP application and your deposit for camp fees to the <a href=\"https://presbyterian-music-camp.github.io/website/contact.html\">treasurer</a>. We cannot consider your bursary request unless you have registered and paid the deposit. If you are unable to pay the deposit, please see below for exceptional circumstances.</li>\n<li>On <strong>May 15th</strong> the ASP subcommittee will anonymously review all the ASP bursary requests we received up to that date, and allocate funds. You should hear from us about funding by May 31st. Your camp fees will not increase from the date that you register, even if the fees have gone up by the time we tell you about your funding.</li>\n<li>The maximum amount of a bursary is ½ the early bird registration fee for the appropriate age category, unless there are exceptional circumstances (see below).</li>\n<li><strong>Exceptional Circumstances</strong>: If you believe that you might qualify for more funding (including funding of the deposit if necessary) because of exceptional circumstances, please send an email to <a href=\"mailto:pmcregistrar@gmail.com\">pmcregistrar@gmail.com</a> to explain your exceptional circumstances and the amount you are requesting. Your request will be considered anonymously by the ASP subcommittee.</li>\n<li>The registrar will tell you how much funding we can provide, the balance owing, and when you have to make your payment. You can post-date your cheque to August 1st if necessary.</li>\n<li>If you are unable to attend camp because of insufficient bursary funding, we will refund any fees that you paid, including the deposit.</li>\n<li>The ASP subcommittee will consider requests received after May 15th in the order in which we receive them. You will follow the procedure above (register and pay the deposit). You will pay the fee that applies at the time that you register.</li>\n</ol>\n<p>If you have any questions about ASP bursary funding, the application, or need to inform us of a change to your applications, please send an email to <a href=\"mailto:pmcregistrar@gmail.com\">pmcregistrar@gmail.com</a>.</p>",
-            "author": {
-                "name": "Daniel Eisner"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-12-08T21:46:35-05:00",
-            "date_modified": "2020-01-07T17:55:58-05:00"
         }
     ]
 }
