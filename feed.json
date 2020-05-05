@@ -11,6 +11,34 @@
     },
     "items": [
         {
+            "id": "https://presbyterian-music-camp.github.io/website/committee-meeting-summary-may-2020.html",
+            "url": "https://presbyterian-music-camp.github.io/website/committee-meeting-summary-may-2020.html",
+            "title": "Committee Meeting Summary - May 2020",
+            "summary": "The PMC Committee spent time over the past 2 weeks creating a video! Check out&hellip;",
+            "content_html": "<p style=\"font-weight: 400;\">The PMC Committee spent time over the past 2 weeks creating a video! Check out our results at:</p>\n<p style=\"font-weight: 400;\"><a href=\"https://youtu.be/0ALK-clfcRA\" >https://youtu.be/0ALK-clfcRA</a></p>\n<p style=\"font-weight: 400;\">Virtual meetings continue as we plan for PMC 2020. We remain committed to providing the best possible PMC experience, and are in close contact with Camp Tamarack, Cairn, and the Ontario Camps Association as we navigate this strange new world.</p>\n<p style=\"font-weight: 400;\">You have recently received a request from our Deans, David Linderman and Hugh Donnelly, for volunteers for evening worship. If you are interested in leading an evening worship, please respond soon so David and Hugh can plan.</p>\n<p style=\"font-weight: 400;\">And we still work away at the administrative issues: the Constitution for PMC, Emergency Procedures, and the Wiki.</p>",
+            "author": {
+                "name": "Daniel Eisner"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-04T18:25:43-04:00",
+            "date_modified": "2020-05-04T18:25:43-04:00"
+        },
+        {
+            "id": "https://presbyterian-music-camp.github.io/website/committee-meeting-summary-march-2020.html",
+            "url": "https://presbyterian-music-camp.github.io/website/committee-meeting-summary-march-2020.html",
+            "title": "Committee Meeting Summary - March 2020",
+            "summary": "The PMC Committee has started to talk about the issues that COVID-19 presents. One thing that&hellip;",
+            "content_html": "<div>The PMC Committee has started to talk about the issues that COVID-19 presents.</div>\n<div> </div>\n<div>One thing that would help the PMC committee in our discussions is knowing if you would attend PMC 2020 if the situation allows. With that in mind:</div>\n<div>\n<ul>\n<li>If you intend to come to camp, please register right away so we will know our numbers</li>\n<li>Please do NOT pay now</li>\n<li>We are discussing our cancellation policy, and more information will be available soon</li>\n<li>We all know that this situation is ongoing and so are our discussions. Our guiding principles are:\n<ul>\n<li>we want everyone to be healthy and safe; </li>\n<li>we want to support our camp community during this time; </li>\n<li>we want to maximize flexibility for decision making for everyone – our committee, our campers; and Tamarack; </li>\n<li>we want Tamarack to make it through this; </li>\n<li>we don’t want campers to suffer undue financial hardship; </li>\n<li>we want PMC to survive and thrive.</li>\n</ul>\n</li>\n</ul>\n<div>\n<div>Your PMC Committee</div>\n</div>\n</div>",
+            "author": {
+                "name": "Daniel Eisner"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-04T18:16:23-04:00",
+            "date_modified": "2020-05-04T18:16:57-04:00"
+        },
+        {
             "id": "https://presbyterian-music-camp.github.io/website/committee-meeting-summary-april-2020.html",
             "url": "https://presbyterian-music-camp.github.io/website/committee-meeting-summary-april-2020.html",
             "title": "Committee Meeting Summary - April 2020",
@@ -113,42 +141,14 @@
             "url": "https://presbyterian-music-camp.github.io/website/blog.html",
             "title": "Blog",
             "summary": "We've recently started a community blog. A blog can have many valuable aspects, but our initial&hellip;",
-            "content_html": "<p>We've recently started a community blog. A blog can have many valuable aspects, but our initial focus is how it can serve potential campers. In particular, we want to give deeper insight into the community for people who are considering going to camp for the first time. A listing of blog posts follows.</p>\n<h2 id=\"mcetoc_1e1d2b6q20\">Experiences</h2>\n<p><a href=\"https://presbyterian-music-camp.github.io/website/my-experience-as-a-new-camper-at-presbyterian-music-camp.html\">My Experience as a New Camper - Cynthia McMinn</a></p>\n<p><a href=\"https://presbyterian-music-camp.github.io/website/musical-experiences.html\">20 Years of Musical Experiences - Bradley Audet</a></p>\n<p><a href=\"https://presbyterian-music-camp.github.io/website/living-and-rejoicing-in-christian-community.html\">Living and Rejoicing in Christian Community - Marilyn Broadhead</a></p>\n<h2 id=\"mcetoc_1e1d2bu5f1\">Committee Meeting Summmaries</h2>\n<p>2020: <a href=\"https://presbyterian-music-camp.github.io/website/committee-meeting-summary-april-2020.html\">Apr</a> <a href=\"https://presbyterian-music-camp.github.io/website/committee-meeting-summary-february-2020.html\">Feb</a> <a href=\"https://presbyterian-music-camp.github.io/website/committee-meeting-summary-january-2020.html\">Jan</a><a href=\"https://presbyterian-music-camp.github.io/website/committee-meeting-summary-january-2020.html\"></a></p>\n<p>2019: <a href=\"https://presbyterian-music-camp.github.io/website/committee-meeting-summary-november-2019.html\">Nov</a><a href=\"https://presbyterian-music-camp.github.io/website/committee-meeting-summary-november-2019.html\"></a> <a href=\"https://presbyterian-music-camp.github.io/website/committee-meeting-summary-september-2019.html\">Sep</a></p>",
+            "content_html": "<p>We've recently started a community blog. A blog can have many valuable aspects, but our initial focus is how it can serve potential campers. In particular, we want to give deeper insight into the community for people who are considering going to camp for the first time. A listing of blog posts follows.</p>\n<h2 id=\"mcetoc_1e1d2b6q20\">Experiences</h2>\n<p><a href=\"https://presbyterian-music-camp.github.io/website/my-experience-as-a-new-camper-at-presbyterian-music-camp.html\">My Experience as a New Camper - Cynthia McMinn</a></p>\n<p><a href=\"https://presbyterian-music-camp.github.io/website/musical-experiences.html\">20 Years of Musical Experiences - Bradley Audet</a></p>\n<p><a href=\"https://presbyterian-music-camp.github.io/website/living-and-rejoicing-in-christian-community.html\">Living and Rejoicing in Christian Community - Marilyn Broadhead</a></p>\n<h2 id=\"mcetoc_1e1d2bu5f1\">Committee Meeting Summmaries</h2>\n<p>2020: <a href=\"https://presbyterian-music-camp.github.io/website/committee-meeting-summary-may-2020.html\">May</a> <a href=\"https://presbyterian-music-camp.github.io/website/committee-meeting-summary-april-2020.html\">Apr</a> <a href=\"https://presbyterian-music-camp.github.io/website/committee-meeting-summary-march-2020.html\">Mar</a> <a href=\"https://presbyterian-music-camp.github.io/website/committee-meeting-summary-february-2020.html\">Feb</a> <a href=\"https://presbyterian-music-camp.github.io/website/committee-meeting-summary-january-2020.html\">Jan</a><a href=\"https://presbyterian-music-camp.github.io/website/committee-meeting-summary-january-2020.html\"></a></p>\n<p>2019: <a href=\"https://presbyterian-music-camp.github.io/website/committee-meeting-summary-november-2019.html\">Nov</a><a href=\"https://presbyterian-music-camp.github.io/website/committee-meeting-summary-november-2019.html\"></a> <a href=\"https://presbyterian-music-camp.github.io/website/committee-meeting-summary-september-2019.html\">Sep</a></p>",
             "author": {
                 "name": "Daniel Eisner"
             },
             "tags": [
             ],
             "date_published": "2020-01-08T15:47:13-05:00",
-            "date_modified": "2020-05-03T18:30:13-04:00"
-        },
-        {
-            "id": "https://presbyterian-music-camp.github.io/website/musical-experiences.html",
-            "url": "https://presbyterian-music-camp.github.io/website/musical-experiences.html",
-            "title": "20 Years of Musical Experiences",
-            "summary": "I’ve been coming to Presbyterian Music Camp (PMC) for 20 years. Given that I am&hellip;",
-            "content_html": "<p>I’ve been coming to Presbyterian Music Camp (PMC) for 20 years. Given that I am 21 years old, you might deduce that I’ve been coming to this wonderful place for my whole life. My non-camp friends often ask, “why do you keep going back?” After all, “summer camp” tends to carry a childish connotation and, by definition, I am no longer a child.  There are many reasons why I keep coming back to camp each year. I’ll just touch on one of them here.</p>\n<p>PMC is a fantastic place to grow as a musician, regardless of your age or playing ability. It is filled with the most supportive people I’ve ever met, and for that reason it’s a safe place to try new things without fear of failure and ridicule. My years at camp have been defined by a series of instances where I threw myself into something I knew nothing about and came out with a new passion. To my memory, the first of these instances was when I joined the concert band not one month after first picking up the flute. I could barely play a scale, but for some reason my 10-year-old self decided to join an ensemble comprising mostly of skilled musicians with several years’ (if not decades) experience on their instruments. However, before I could feel overwhelmed by the piece of music set before me, I was introduced to a much more talented flutist who I later learned was a music teacher by profession. She helped me get through my first week of concert band, and I left camp that year determined to come back the following year able to hold my own in the concert band.</p>\n<p>A couple of years later, as a teen, I joined the jazz band, where I was confronted with an equally daunting challenge: improvisation. Luckily, as with concert band, I wasn’t without guidance. Karl and Brennan, the workshop leaders, were both seemingly virtuosic in their improvisation skills and also incredibly patient as I came to understand concepts like the blues scale and the twelve-bar blues. Jazz band became a staple of my PMC experience for several years after, which made me a much more confident and creative musician. Also, I don’t know anyone else outside of music camp who has the opportunity to swap solos with professional jazz musicians, which is rad.</p>\n<p>Of course, there’s also an abundance of music that happens outside of daily workshops- music camp is an opportunity to try out any musical ideas that have come to you during the year. In recent years, some friends and I have formed a woodwind ensemble. It’s the only time in the year that I get to play classical and baroque chamber music, and I cherish it. Me and my older sister are even able to overcome our differences and sing together sometimes. Sometimes.</p>\n<p>My musical experiences at camp have been both incredibly unique and commonplace. They’ve been unique in the sense that there is no other place in the world where I have found such a compassionate and talented group of people who are willing to share their ideas and passion with you. They’ve been commonplace in the sense that when at camp, I see other people, young and old, Christian and atheist, sharing similar formative experiences.</p>",
-            "author": {
-                "name": "Daniel Eisner"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-01-08T15:40:40-05:00",
-            "date_modified": "2020-01-08T16:09:08-05:00"
-        },
-        {
-            "id": "https://presbyterian-music-camp.github.io/website/my-experience-as-a-new-camper-at-presbyterian-music-camp.html",
-            "url": "https://presbyterian-music-camp.github.io/website/my-experience-as-a-new-camper-at-presbyterian-music-camp.html",
-            "title": "My Experience as a New Camper",
-            "summary": "I first discovered Presbyterian Music Camp when my daughter attended with her best friend and&hellip;",
-            "content_html": "<div>I first discovered Presbyterian Music Camp when my daughter attended with her best friend and their family one summer. She came home with stories, pictures, and videos of musical variety night, final concert, and exploring in the woods. We didn’t immediately go back as a family, but a couple of years later three of us attended camp together. We stayed in a big cabin with our friends who had been going to camp for years. The children fit in right away with a group of other campers their ages and found workshops and activities they wanted to do or just hung out together.  </div>\n<div> </div>\n<div>It was intimidating for me at first. All those people! And everyone seemed to know everyone and had been at camp forever. Right away though, there was an icebreaker activity and the circle and flame ceremony to open the camp. People were really friendly and already I started to feel welcome.</div>\n<div> </div>\n<div>There were so many different workshops that it was hard to decide on which ones to attend. I found four that I wanted to try but kept one time slot free for some time for reflection and to get away from all the activity.</div>\n<div> </div>\n<div>I had a Guardian Angel who looked out for me as I found my way around camp, who introduced me to people and helped me get into the flow of camp. Up in the morning for breakfast, then gather up my things and head off to Holy Motion and Worship, and then on to the first workshop of the day. It was a bit intimidating the amount of musical talent around but then I realized that there was a huge range of abilities and everyone was welcoming and accepting of whatever talents people had.</div>\n<div> </div>\n<div>There were breaks during the day that made it possible to get from workshops to snack or lunch and provided a bit of time to relax or practice all the music we were learning. Just getting from one location to the next was great exercise. So much walking and an opportunity to talk to different people on the way.</div>\n<div> </div>\n<div>The approach to the workshops was not something I was used to. In many cases we were handed several pieces of music and we were expected to be able to perform them by the end of the week or sooner! In some cases I was learning new instruments like the ukulele as well. I have to admit that was pretty overwhelming but everyone seemed to take it in stride. And amazingly the performances happened and we were all pretty ready and they sounded good!</div>\n<div> </div>\n<div>Evenings were busy as well - there was a campfire sing along, variety night, coffee house and then generally people got together somewhere after to socialize. I did try to pace myself - I didn’t want to miss out on all the great activities during the day from being too tired!</div>\n<div> </div>\n<div>It was a whirlwind of a week and yet I came away relaxed, refreshed and happy. The combination of the setting, the people, the spirituality and the music is something extraordinary and worth going back every year to experience.</div>",
-            "author": {
-                "name": "Daniel Eisner"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-01-08T15:33:09-05:00",
-            "date_modified": "2020-01-08T16:11:54-05:00"
+            "date_modified": "2020-05-04T18:32:48-04:00"
         }
     ]
 }
