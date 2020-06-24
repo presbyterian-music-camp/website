@@ -3,12 +3,53 @@
     <title>Presbyterian Music Camp</title>
     <link href="https://presbyterian-music-camp.github.io/website/feed.xml" rel="self" />
     <link href="https://presbyterian-music-camp.github.io/website" />
-    <updated>2020-06-11T19:47:03-04:00</updated>
+    <updated>2020-06-23T20:45:33-04:00</updated>
     <author>
         <name>Daniel Eisner</name>
     </author>
     <id>https://presbyterian-music-camp.github.io/website</id>
 
+    <entry>
+        <title>Committee Meeting Summary - June 20 2020</title>
+        <author>
+            <name>Daniel Eisner</name>
+        </author>
+        <link href="https://presbyterian-music-camp.github.io/website/committee-meeting-summary-june-20-2020.html"/>
+        <id>https://presbyterian-music-camp.github.io/website/committee-meeting-summary-june-20-2020.html</id>
+
+        <updated>2020-06-23T20:45:29-04:00</updated>
+            <summary>
+                <![CDATA[
+                    We’ve started a draft schedule for Planet Music Camp, and we have so many great&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p style="font-weight: 400;">We’ve started a draft schedule for Planet Music Camp, and we have so many great ideas in development – things like:</p>
+<ul>
+<li>Videos that you can view anytime (Planet Music Camp selfies);</li>
+<li>Pre-recorded scheduled activities (Holy Motion, Storytime);</li>
+<li>Live events (Karaoke Night, Campfire, and hangouts);</li>
+<li>And of course, some musical workshops.</li>
+</ul>
+<p style="font-weight: 400;">There are <strong>4</strong> messages today:</p>
+<ul style="font-weight: 400;">
+<li>Dates for Planet Music Camp.</li>
+<li>More information on the PMC website soon.</li>
+<li>Some of the activities will use Zoom. We are still testing other platforms and will have more information soon.</li>
+<li>This year is a great opportunity for <u>OUTREACH</u>; no big commitment, and no expense.</li>
+</ul>
+<p style="font-weight: 400;">Things to do <strong><u>RIGHT NOW</u></strong>:</p>
+<ol style="font-weight: 400;">
+<li>Mark your calendar, update your phone, and create some sticky notes for Planet Music Camp, August 23-30.</li>
+<li>Find the new PMC Website and BOOKMARK it - <a href="https://www.presbyterianmusiccamp.ca/" >https://www.presbyterianmusiccamp.ca</a></li>
+<li>Try out Zoom. Have a Zoom meeting with a friend so you know the ropes. The basic version of Zoom is free to download and use. If you have trouble, ask the youngest person in your bubble for help. And if you’re still having trouble, reach out to the committee. We want to be sure that everyone can participate.</li>
+<li>Think about someone that you can share PMC with. This might be someone in your social circle, or a friend that you’ve wanted to invite to camp. Talk to that person about PMC and our plans for this year. (If you are feeling efficient, you can combine #3 and #4.)</li>
+</ol>
+<p style="font-weight: 400;">Your Planet Music Camp Planning Committee</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Committee Meeting Summary - June 6 2020</title>
         <author>
@@ -288,26 +329,6 @@
 <p><span style="font-weight: 400;">or just let the internet redirect you. We want the new website to be a better source of year-round information, in addition to the current year’s theme and registration.</span></p>
 <p><span style="font-weight: 400;">And you can register while you’re there!! It only takes a couple of minutes and you can cross it off your 'to do' list. Register before May 15 for early bird prices.</span></p>
 <p><span style="font-weight: 400;">Finally, you should be getting your receipts in the mail for donations made in 2018 and 2019. These will be from the Synod. </span></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Thanks for registering!</title>
-        <author>
-            <name>Daniel Eisner</name>
-        </author>
-        <link href="https://presbyterian-music-camp.github.io/website/thanks-for-registering.html"/>
-        <id>https://presbyterian-music-camp.github.io/website/thanks-for-registering.html</id>
-
-        <updated>2020-02-18T14:01:43-05:00</updated>
-            <summary>
-                <![CDATA[
-                    A confirmation email is on its way.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="align-center">A confirmation email is on its way.</p>
             ]]>
         </content>
     </entry>
