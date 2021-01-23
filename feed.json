@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://presbyterian-music-camp.github.io/website/committee-meeting-summary-nov-14-2020-2.html",
+            "url": "https://presbyterian-music-camp.github.io/website/committee-meeting-summary-nov-14-2020-2.html",
+            "title": "Committee Meeting Summary - Dec 19 2020",
+            "summary": "A brief (thanks to Taras) PMC board meeting on December 19 – here are the&hellip;",
+            "content_html": "<p>A brief (thanks to Taras) PMC board meeting on December 19 – here are the highlights…</p>\n<h3 id=\"mcetoc_1esnsjjk82\">Christmas Campfire Karaoke</h3>\n<p>If you missed this event, look for a message with the YouTube link.</p>\n<h3 id=\"mcetoc_1esnsjmqf3\">Camp 2021</h3>\n<p>2021 has to be better than 2020, right? With that hope, we are in the early stages of planning – for sure there will be something, just not sure yet what that might look like – and it will be a while before we know. More in the New Year.</p>\n<h3 id=\"mcetoc_1esnskjg45\">Final Summary for 2020</h3>\n<p>This will be the final summary for 2020. The Board wishes you a Merry Christmas and a Happy New Year!</p>\n<p>Your PMC Board</p>",
+            "author": {
+                "name": "Daniel Eisner"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-23T19:30:17-05:00",
+            "date_modified": "2021-01-23T10:11:42-05:00"
+        },
+        {
             "id": "https://presbyterian-music-camp.github.io/website/committee-meeting-summary-nov-14-2020.html",
             "url": "https://presbyterian-music-camp.github.io/website/committee-meeting-summary-nov-14-2020.html",
             "title": "Committee Meeting Summary - Nov 14 2020",
@@ -28,15 +42,15 @@
             "id": "https://presbyterian-music-camp.github.io/website/this-year-2.html",
             "url": "https://presbyterian-music-camp.github.io/website/this-year-2.html",
             "title": "This Year",
-            "summary": "We'll be doing a Christmas project this year. See the #christmas-project channel! PMC 2021 will&hellip;",
-            "content_html": "<p>We'll be doing a Christmas project this year. See the <a href=\"https://discord.com/channels/724391210696966216/767513996512985128\">#christmas-project</a> channel!</p>\n<p>PMC 2021 will be happening August 22-29. Stay tuned...</p>",
+            "summary": "PMC 2021 will be happening August 22-29. Stay tuned...",
+            "content_html": "<p>PMC 2021 will be happening August 22-29. Stay tuned...</p>",
             "author": {
                 "name": "Daniel Eisner"
             },
             "tags": [
             ],
             "date_published": "2020-10-18T22:28:25-04:00",
-            "date_modified": "2020-10-18T22:28:25-04:00"
+            "date_modified": "2020-12-23T19:28:47-05:00"
         },
         {
             "id": "https://presbyterian-music-camp.github.io/website/committee-meeting-summary-october-17-2020.html",
@@ -135,20 +149,6 @@
             ],
             "date_published": "2020-05-04T18:25:43-04:00",
             "date_modified": "2020-05-25T18:38:22-04:00"
-        },
-        {
-            "id": "https://presbyterian-music-camp.github.io/website/committee-meeting-summary-march-2020.html",
-            "url": "https://presbyterian-music-camp.github.io/website/committee-meeting-summary-march-2020.html",
-            "title": "Committee Meeting Summary - March 2020",
-            "summary": "The PMC Committee has started to talk about the issues that COVID-19 presents. One thing that&hellip;",
-            "content_html": "<div>The PMC Committee has started to talk about the issues that COVID-19 presents.</div>\n<div> </div>\n<div>One thing that would help the PMC committee in our discussions is knowing if you would attend PMC 2020 if the situation allows. With that in mind:</div>\n<div>\n<ul>\n<li>If you intend to come to camp, please register right away so we will know our numbers</li>\n<li>Please do NOT pay now</li>\n<li>We are discussing our cancellation policy, and more information will be available soon</li>\n<li>We all know that this situation is ongoing and so are our discussions. Our guiding principles are:\n<ul>\n<li>we want everyone to be healthy and safe; </li>\n<li>we want to support our camp community during this time; </li>\n<li>we want to maximize flexibility for decision making for everyone – our committee, our campers; and Tamarack; </li>\n<li>we want Tamarack to make it through this; </li>\n<li>we don’t want campers to suffer undue financial hardship; </li>\n<li>we want PMC to survive and thrive.</li>\n</ul>\n</li>\n</ul>\n<div>\n<div>Your PMC Committee</div>\n</div>\n</div>",
-            "author": {
-                "name": "Daniel Eisner"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-05-04T18:16:23-04:00",
-            "date_modified": "2020-05-04T18:16:57-04:00"
         }
     ]
 }
