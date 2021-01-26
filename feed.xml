@@ -3,21 +3,52 @@
     <title>Presbyterian Music Camp</title>
     <link href="https://presbyterian-music-camp.github.io/website/feed.xml" rel="self" />
     <link href="https://presbyterian-music-camp.github.io/website" />
-    <updated>2021-01-23T10:11:46-05:00</updated>
+    <updated>2021-01-25T21:58:46-05:00</updated>
     <author>
         <name>Daniel Eisner</name>
     </author>
     <id>https://presbyterian-music-camp.github.io/website</id>
 
     <entry>
-        <title>Committee Meeting Summary - Dec 19 2020</title>
+        <title>Board Meeting Summary - Jan 23 2021</title>
+        <author>
+            <name>Daniel Eisner</name>
+        </author>
+        <link href="https://presbyterian-music-camp.github.io/website/board-meeting-summary-2021-jan-23.html"/>
+        <id>https://presbyterian-music-camp.github.io/website/board-meeting-summary-2021-jan-23.html</id>
+
+        <updated>2021-01-25T21:57:43-05:00</updated>
+            <summary>
+                <![CDATA[
+                    New Year, New Ideas, New Enthusiasm! Your PMC Board has its first meeting of 2021&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>New Year, New Ideas, New Enthusiasm!</p>
+<p>Your PMC Board has its first meeting of 2021 on January 23 – by Zoom, of course. The meeting was well attended by people, cats, and parrots.</p>
+<p>Once again, here are the highlights…</p>
+<h3 id="mcetoc_1esu9ogan1">Planet Music Camp Survey</h3>
+<p>Many thanks to those who responded. We’ve considered how to incorporate your feedback into future camps.</p>
+<h3 id="mcetoc_1esu9paue3">HELP!</h3>
+<p>If you were a person who suggested a workshop or wanted to help on the Board, THANK YOU – but now we need to know who you are! Send a message to Cynthia McMinn (clmcminn1996@gmail.com).</p>
+<h3 id="mcetoc_1esu9qsbp5">Spring Event</h3>
+<p>We want to do another on-line event!! Yes you heard right; we are planning something for late April/early May, this time to showcase all the great things we’ve been doing musically this year. Start thinking about what you’d like to contribute – more details coming next month.</p>
+<h3 id="mcetoc_1esu9qps14">Camp 2021</h3>
+<p>We’ve done the first draft of a schedule for August 2021 – next up is some early staffing arrangements, based on 2020 to start. If you agree to do something in 2020, you will probably hear from…</p>
+<p>Your PMC Board</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Board Meeting Summary - Dec 19 2020</title>
         <author>
             <name>Daniel Eisner</name>
         </author>
         <link href="https://presbyterian-music-camp.github.io/website/committee-meeting-summary-nov-14-2020-2.html"/>
         <id>https://presbyterian-music-camp.github.io/website/committee-meeting-summary-nov-14-2020-2.html</id>
 
-        <updated>2021-01-23T10:11:42-05:00</updated>
+        <updated>2021-01-25T21:55:32-05:00</updated>
             <summary>
                 <![CDATA[
                     A brief (thanks to Taras) PMC board meeting on December 19 – here are the&hellip;
@@ -37,14 +68,14 @@
         </content>
     </entry>
     <entry>
-        <title>Committee Meeting Summary - Nov 14 2020</title>
+        <title>Board Meeting Summary - Nov 14 2020</title>
         <author>
             <name>Daniel Eisner</name>
         </author>
         <link href="https://presbyterian-music-camp.github.io/website/committee-meeting-summary-nov-14-2020.html"/>
         <id>https://presbyterian-music-camp.github.io/website/committee-meeting-summary-nov-14-2020.html</id>
 
-        <updated>2020-11-19T19:48:12-05:00</updated>
+        <updated>2021-01-25T21:56:06-05:00</updated>
             <summary>
                 <![CDATA[
                     We had another successful Zoom meeting on November 14 – here are the highlights… Christmas&hellip;
@@ -497,30 +528,6 @@
 </ul>
 <p>So, hold that time at the end of August, and watch for more news from us,</p>
 <p>Your PMC Committee</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Committee Meeting Summary - May 2 2020</title>
-        <author>
-            <name>Daniel Eisner</name>
-        </author>
-        <link href="https://presbyterian-music-camp.github.io/website/committee-meeting-summary-may-2020.html"/>
-        <id>https://presbyterian-music-camp.github.io/website/committee-meeting-summary-may-2020.html</id>
-
-        <updated>2020-05-25T18:38:22-04:00</updated>
-            <summary>
-                <![CDATA[
-                    The PMC Committee spent time over the past 2 weeks creating a video! Check out&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p style="font-weight: 400;">The PMC Committee spent time over the past 2 weeks creating a video! Check out our results at:</p>
-<p style="font-weight: 400;"><a href="https://youtu.be/0ALK-clfcRA" >https://youtu.be/0ALK-clfcRA</a></p>
-<p style="font-weight: 400;">Virtual meetings continue as we plan for PMC 2020. We remain committed to providing the best possible PMC experience, and are in close contact with Camp Tamarack, Cairn, and the Ontario Camps Association as we navigate this strange new world.</p>
-<p style="font-weight: 400;">You have recently received a request from our Deans, David Linderman and Hugh Donnelly, for volunteers for evening worship. If you are interested in leading an evening worship, please respond soon so David and Hugh can plan.</p>
-<p style="font-weight: 400;">And we still work away at the administrative issues: the Constitution for PMC, Emergency Procedures, and the Wiki.</p>
             ]]>
         </content>
     </entry>
