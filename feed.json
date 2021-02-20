@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://presbyterian-music-camp.github.io/website/board-meeting-summary-feb-20-2021.html",
+            "url": "https://presbyterian-music-camp.github.io/website/board-meeting-summary-feb-20-2021.html",
+            "title": "Board Meeting Summary - Feb 20 2021",
+            "summary": "Happy Belated Family Day!Your PMC Family had another great meeting on February 20. A couple&hellip;",
+            "content_html": "<h2 id=\"mcetoc_1ev0tdr4n0\">Happy Belated Family Day!</h2>\n<p id=\"mcetoc_1ev0tdr4n1\">Your PMC Family had another great meeting on February 20. A couple of things to tell you…</p>\n<h3 id=\"mcetoc_1ev0tgd5b4\">Summer of 2021</h3>\n<p>We are in the early stages of planning camp for 2021. We still don’t know if it will be an in-person camp or virtual, and we likely won’t know until later this spring. The Ontario Camps Association is holding a town hall meeting March 1, and we hope to have more information for you after this.</p>\n<h3 id=\"mcetoc_1ev0tg32g3\">Spring Event</h3>\n<p>This will be launched in the next few days – stay tuned…</p>\n<p>Your PMC Board</p>",
+            "author": {
+                "name": "Daniel Eisner"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-20T18:49:32-05:00",
+            "date_modified": "2021-02-20T18:49:32-05:00"
+        },
+        {
             "id": "https://presbyterian-music-camp.github.io/website/board-meeting-summary-2021-jan-23.html",
             "url": "https://presbyterian-music-camp.github.io/website/board-meeting-summary-2021-jan-23.html",
             "title": "Board Meeting Summary - Jan 23 2021",
@@ -135,20 +149,6 @@
             ],
             "date_published": "2020-06-11T19:40:50-04:00",
             "date_modified": "2020-06-11T19:42:57-04:00"
-        },
-        {
-            "id": "https://presbyterian-music-camp.github.io/website/committee-meeting-summary-may-23-2020.html",
-            "url": "https://presbyterian-music-camp.github.io/website/committee-meeting-summary-may-23-2020.html",
-            "title": "Committee Meeting Summary - May 23 2020",
-            "summary": "You have probably heard the sad news already… there will be no in-person music camp&hellip;",
-            "content_html": "<p>You have probably heard the sad news already… there will be no in-person music camp in 2020. This hard decision was taken out of our hands by the Government of Ontario. They understand the importance of summer camps, but this year it just wasn’t safe to go ahead.</p>\n<p>We have emailed all currently registered campers, and campers from 2017, 2018, and 2019, and also have a video message available:</p>\n<p><a href=\"https://www.presbyterianmusiccamp.ca/this-year.html\">https://www.presbyterianmusiccamp.ca/this-year.html</a></p>\n<p>We understand that this will be very hard for our camp community. PMC is seen by many as the end of one year and the start of the next. You may be feeling angry), incredulous), or even a bit depressed. The PMC Committee shares these feelings (and many more), and we are still working on accepting that “camp” will be a different sort of experience this year.</p>\n<p>However…there is a silver lining:</p>\n<ul>\n<li>Our friends at Camp Tamarack (Rick, Ellen, and Marc) are optimistic that they will<br>survive and thrive, and they are looking forward to hosting us again in 2021.</li>\n<li>The PMC Committee will continue to work on the administrative issues (constitution,<br>charitable status, emergency procedures, and more) so we will be in great shape for<br>camp in 2021.</li>\n<li>We have started thinking about some virtual activities for 2020 to keep our community<br>engaged and active. You’ll hear more about these as the plans develop.</li>\n</ul>\n<p>So, hold that time at the end of August, and watch for more news from us,</p>\n<p>Your PMC Committee</p>",
-            "author": {
-                "name": "Daniel Eisner"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-05-25T18:41:05-04:00",
-            "date_modified": "2020-05-25T18:41:05-04:00"
         }
     ]
 }
