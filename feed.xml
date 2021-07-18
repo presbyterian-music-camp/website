@@ -3,12 +3,32 @@
     <title>Presbyterian Music Camp</title>
     <link href="https://presbyterian-music-camp.github.io/website/feed.xml" rel="self" />
     <link href="https://presbyterian-music-camp.github.io/website" />
-    <updated>2021-07-02T20:52:33-04:00</updated>
+    <updated>2021-07-18T12:10:58-04:00</updated>
     <author>
         <name>Daniel Eisner</name>
     </author>
     <id>https://presbyterian-music-camp.github.io/website</id>
 
+    <entry>
+        <title>Purpose</title>
+        <author>
+            <name>Daniel Eisner</name>
+        </author>
+        <link href="https://presbyterian-music-camp.github.io/website/purpose.html"/>
+        <id>https://presbyterian-music-camp.github.io/website/purpose.html</id>
+
+        <updated>2021-07-18T12:09:52-04:00</updated>
+            <summary>
+                <![CDATA[
+                    At Presbyterian Music Camp, music is central to our celebration and praise of God. We&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <span class="im">At Presbyterian Music Camp, music is central to our celebration and praise of God. We welcome all families and individuals who come together to experience inclusive Christian community in a natural outdoor setting.</span>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title> Board Meeting Summary - June 12 2021</title>
         <author>
@@ -300,32 +320,6 @@
 <p>Our program of activities will be shared in the coming weeks. If you’d like a PMC sweatshirt or T-shirt please look for the email from Alison Cooper sent June 21st with the details – the deadline for ordering is July 11.</p>
 <p>To help cover our modest costs of preparing and presenting PMC Trinity, please consider making a goodwill offering of $10 per person or $20 per family. These goodwill offerings can be made by e-transfer to <a href="mailto:PMCTreasurer@gmail.com">PMCTreasurer@gmail.com</a>.</p>
 <p>More to come...</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title> Committee Meeting Summary - October 17 2020</title>
-        <author>
-            <name>Daniel Eisner</name>
-        </author>
-        <link href="https://presbyterian-music-camp.github.io/website/committee-meeting-summary-october-17-2020.html"/>
-        <id>https://presbyterian-music-camp.github.io/website/committee-meeting-summary-october-17-2020.html</id>
-
-        <updated>2020-10-18T22:19:02-04:00</updated>
-            <summary>
-                <![CDATA[
-                    THANK YOU EVERYONE, for making Planet Music Camp the success it was! We had some&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><span style="font-weight: 400;">THANK YOU EVERYONE, for making Planet Music Camp the success it was!</span></p>
-<p><span style="font-weight: 400;">We had some laughs, renewed some friendships, learned some new things, were reminded of some old things, and emerged refreshed for another year. We don’t know what the next 12 months holds for us, but we DO know that we are a community that can overcome great challenges together.</span></p>
-<p><span style="font-weight: 400;">It’s ironic that it’s called Discord when a) it brought people together, and b) we are a harmonic, musical family. We might be in the land of paradox here… But despite the name, it seemed that the more people engaged with Discord, the more like PMC it felt. I hope you all felt those moments when it really felt like the camp we love.</span></p>
-<p><span style="font-weight: 400;">After a well-deserved September off, the PMC Committee met via Zoom on October 17 to review Planet Music Camp, and start the process of planning for PMC 2021. The location and format of PMC 2021 is a big unknown right now, but the dates are set: August 22-29. So mark your calendars, because SOMETHING will happen.</span></p>
-<p><span style="font-weight: 400;">The PMC Committee spent a lot of time reviewing our beta-version of the Constitution and our newly accepted Terms of Reference. The next summary will detail the changes for you.</span></p>
-<p><span style="font-weight: 400;">In response to overwhelming positive feedback, we are going to use Discord through the year. It will be updated soon.</span></p>
-<p><span style="font-weight: 400;">And – breaking news – we are planning a Christmas celebration – watch Discord for details on how you can join in.</span></p>
             ]]>
         </content>
     </entry>
