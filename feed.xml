@@ -3,7 +3,7 @@
     <title>Presbyterian Music Camp</title>
     <link href="https://presbyterian-music-camp.github.io/website/feed.xml" rel="self" />
     <link href="https://presbyterian-music-camp.github.io/website" />
-    <updated>2022-05-14T13:23:18-04:00</updated>
+    <updated>2022-05-24T22:36:53-04:00</updated>
     <author>
         <name>Daniel Eisner</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://presbyterian-music-camp.github.io/website/50-years-of-harmony.html"/>
         <id>https://presbyterian-music-camp.github.io/website/50-years-of-harmony.html</id>
 
-        <updated>2022-05-14T13:22:54-04:00</updated>
+        <updated>2022-05-24T22:36:30-04:00</updated>
             <summary>
                 <![CDATA[
                      Angus Sutherland has written an article for the Presbyterian Connection on our 50 years.
@@ -25,7 +25,10 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p><img class="post__image" src="https://presbyterian-music-camp.github.io/website/media/posts/53/50yrs_Kitchen_Parties_Save_the_Date.jpg" alt="" width="1118" height="629"><img class="post__image" src="https://presbyterian-music-camp.github.io/website/media/posts/53/50yrs_auction.jpg" alt="" width="1118" height="629"></p>
+                <p><img class="post__image post__image--center" src="https://presbyterian-music-camp.github.io/website/media/posts/53/50yrs_Kitchen_Parties_Save_the_Date.jpg" width="1118" height="629"></p>
+<p><img class="post__image post__image--center" src="https://presbyterian-music-camp.github.io/website/media/posts/53/Kingston_Kitchen_Party_Details.001.jpeg" width="1118" height="629"></p>
+<p><img class="post__image post__image--center" src="https://presbyterian-music-camp.github.io/website/media/posts/53/50yrs_auction.jpg" width="1118" height="629"></p>
+<p><img class="post__image post__image--center" src="https://presbyterian-music-camp.github.io/website/media/posts/53/Auction_Items_1.001.jpeg" width="1118" height="629"></p>
 <p>Angus Sutherland has written an article for the Presbyterian Connection on our 50 years. The issue is available <a href="https://presbyterian.ca/downloads/66795/">here</a>, and the article is on page 38!</p>
             ]]>
         </content>
