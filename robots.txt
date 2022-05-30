@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://presbyterian-music-camp.github.io/website/sitemap.xml
