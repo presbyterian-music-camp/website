@@ -1,0 +1,154 @@
+<!DOCTYPE html><html><head><title>Presbyterian Music Camp</title><link rel="shortcut icon" type="image/png" href="https://presbyterian-music-camp.github.io/website/media/website/favicon3.png"><link rel="stylesheet" href="https://presbyterian-music-camp.github.io/website/assets/css/style.css?v=7a29cf183ff6cb580ca6c2f99c7c079c"><script type="text/javascript">window.heap = window.heap || [], heap.load = function(e, t) {
+        window.heap.appid = e, window.heap.config = t = t || {};
+        var r = t.forceSSL || "https:" === document.location.protocol, a = document.createElement("script");
+        a.type="text/javascript", a.async = !0, a.src = (r ? "https:" : "http:") + "//cdn.heapanalytics.com/js/heap-" + e + ".js";
+        var n = document.getElementsByTagName("script")[0];
+        n.parentNode.insertBefore(a, n);
+        for(
+          var
+            o = function(e) { return function() {
+              heap.push([e].concat(Array.prototype.slice.call(arguments, 0)))
+            }},
+            p = [
+              "addEventProperties",
+              "addUserProperties",
+              "clearEventProperties",
+              "identify",
+              "resetIdentity",
+              "removeEventProperty",
+              "setEventProperties",
+              "track",
+              "unsetEventProperty",
+            ],
+            c = 0;
+          c < p.length;
+          c++
+        ) heap[p[c]] = o(p[c])
+      };
+      heap.load("3446621055");</script></head><body style="margin: 0;
+    background-image: url(https://presbyterian-music-camp.github.io/website/media/website/bg3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #808080;
+    height: 100vh;
+    overflow-y: scroll;"><div style="display: flex; align-items: center;"><a href="https://presbyterian-music-camp.github.io/website/" style="text-decoration: none"><div style="text-align: center"><img src="https://presbyterian-music-camp.github.io/website/media/website/logo.png" style="height: 5rem; margin: 1rem; margin-bottom: 0"><p class="menu-item" style="font-weight: bold">HOME</p></div></a><ul style="margin: 0;
+          text-transform: uppercase;
+          font-weight: bold;
+          font-size: xx-large;
+          list-style-type: none;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-end;
+            margin-left: auto;"><li style="margin-top: 0.5rem;
+                margin-bottom: 0.5rem;
+                margin-left: 0;
+                margin-right: 2rem;
+              white-space: nowrap;"><a href="https://presbyterian-music-camp.github.io/website/this-year-2.html" class="menu-item" style="text-decoration: none;">this year</a></li><li style="margin-top: 0.5rem;
+                margin-bottom: 0.5rem;
+                margin-left: 0;
+                margin-right: 2rem;
+              white-space: nowrap;"><a href="https://presbyterian-music-camp.github.io/website/home.html" class="menu-item" style="text-decoration: none;">about</a></li><li style="margin-top: 0.5rem;
+                margin-bottom: 0.5rem;
+                margin-left: 0;
+                margin-right: 2rem;
+              white-space: nowrap;"><a href="https://presbyterian-music-camp.github.io/website/frequently-asked-questions.html" class="menu-item" style="text-decoration: none;">FAQ</a></li><li style="margin-top: 0.5rem;
+                margin-bottom: 0.5rem;
+                margin-left: 0;
+                margin-right: 2rem;
+              white-space: nowrap;"><a href="https://presbyterian-music-camp.github.io/website/blog.html" class="menu-item" style="text-decoration: none;">blog</a></li><li style="margin-top: 0.5rem;
+                margin-bottom: 0.5rem;
+                margin-left: 0;
+                margin-right: 2rem;
+              white-space: nowrap;"><a href="https://presbyterian-music-camp.github.io/website/contact.html" class="menu-item" style="text-decoration: none;">contact</a></li><li style="margin-top: 0.5rem;
+                margin-bottom: 0.5rem;
+                margin-left: 0;
+                margin-right: 2rem;
+              white-space: nowrap;"><a href="https://presbyterian-music-camp.github.io/website/register.html" class="menu-item" style="text-decoration: none;">register!</a></li></ul></div><style></style><div style="display: flex; flex-direction: column; align-items: center"><div class="page"><h1 class="align-center">PMC Schedule 2023</h1><div class="row mb-3"><div class="col-4"><ul style="list-style-type: none;"><li class="mb-3"><h5 class="m-0"><a href="#period-1" class="period-jump">Period 1</a></h5></li><li class="mb-3"><h5 class="m-0"><a href="#period-2" class="period-jump">Period 2</a></h5></li><li class="mb-3"><h5 class="m-0"><a href="#period-3" class="period-jump">Period 3</a></h5></li><li class="mb-3"><h5 class="m-0"><a href="#period-4" class="period-jump">Period 4</a></h5></li><li class="mb-3"><h5 class="m-0"><a href="#period-5" class="period-jump">Period 5</a></h5></li></ul></div></div><div class="d-flex pb-2" style="flex-wrap: wrap;"><div class="mr-3 mb-2">Filter:</div><button class="btn-dark mr-3 mb-2" data-button-day="all">All</button> <button class="outline-dark mr-3 mb-2" data-button-day="0">Monday</button> <button class="outline-dark mr-3 mb-2" data-button-day="1">Tuesday</button> <button class="outline-dark mr-3 mb-2" data-button-day="2">Wednesday</button> <button class="outline-dark mr-3 mb-2" data-button-day="3">Thursday</button></div><div id="disp"></div><p><template id="workshop-template"><div class="mb-5 w-wrapper"><div class="d-flex mb-1"><h3 class="w-name m-0"> </h3><div class="ml-auto w-location"> </div></div><div class="d-flex mb-1"><div class="w-ages"> </div><div class="ml-auto w-days"> </div></div><div class="mb-1 w-desc" style="font-size: 90%; white-space: pre-wrap;"> </div></div></template></p><p><script>const dayWords = ["Mon", "Tue", "Wed", "Thur", "Fri"]
+	const periodTimes = {
+		"1": "10:00 am - 11:00 am",
+		"2": "11:15 am - 12:15 pm",
+		"3": "1:30 pm - 2:30 pm",
+		"4": "3:00 pm - 4:00 pm",
+		"5": "4:15 pm - 5:15 pm",
+	}
+	function doDay(button) {
+		document.querySelectorAll('[data-button-day]').forEach(i => {
+			i.classList.remove('btn-dark')
+			i.classList.add('outline-dark')
+		})
+		button.classList.remove('outline-dark')
+		button.classList.add('btn-dark')
+		if (button.dataset.buttonDay == "all") {
+			document.querySelectorAll('.w-wrapper').forEach(i => i.classList.remove('d-none'))
+		}
+		else {
+			document.querySelectorAll('.w-wrapper').forEach(i => i.classList.add('d-none'))
+			document.querySelectorAll(`.w-wrapper.day-${button.dataset.buttonDay}`).forEach(i => i.classList.remove('d-none'))
+		}
+	}
+    document.querySelectorAll('[data-button-day]').forEach(i => {
+    	i.addEventListener('click', (e) => {
+    		e.preventDefault()
+    		doDay(i)
+    	})
+    })
+	document.querySelectorAll('.jump-period').forEach(i => {
+		i.addEventListener('click', (e) => {
+			e.preventDefault()
+			document.querySelector(this.getAttribute('href')).scrollIntoView({behavior: 'smooth'})
+		})
+	})
+	fetch('https://jmf.duckdns.org/static/schedule.json', {mode: "cors"})
+	.then(res => res.json())
+	.then(schedule => {
+		const disp = document.getElementById('disp')
+		const template = document.querySelector('#workshop-template')
+		disp.innerHTML = ''
+		schedule.sort((a,b) => a.period === b.period ? a.name.localeCompare(b.name) : parseInt(a.period) - parseInt(b.period))
+		const periods = [...new Set(schedule.map(a => a.period))]
+		periods.forEach(i => {
+			if (parseInt(i) > 1) {
+				let hr = document.createElement('hr')
+				hr.classList.add('mx-0', 'my-2')
+				disp.appendChild(hr)
+			}
+			let periodBlock = document.createElement('div')
+			let periodHolder = document.createElement('div')
+			periodHolder.classList.add('d-flex')
+			periodHolder.id = `period-${i}`
+			// comment these 3 lines out if you don't want sticky period headers
+			periodHolder.style.position = 'sticky'
+			periodHolder.style.top = '-1px'
+			periodHolder.style.backdropFilter = 'blur(20px)'
+
+			let periodHeader = document.createElement('h2')
+			periodHeader.innerText = `Period ${i}`
+			let periodTime = document.createElement('span')
+			periodTime.classList.add('ml-auto', 'text-italic')
+			periodTime.innerText = periodTimes[i]
+			periodHolder.appendChild(periodHeader)
+			periodHolder.appendChild(periodTime)
+			periodBlock.appendChild(periodHolder)
+			let periodWorkshops = document.createElement('div')
+			periodWorkshops.classList.add('container')
+			schedule.filter(b => b.period == i).forEach(j => {
+				let workshopEntry = template.content.cloneNode(true)
+				workshopEntry.querySelector('.w-name').textContent = j.name
+				workshopEntry.querySelector('.w-location').textContent = j.location
+				workshopEntry.querySelector('.w-ages').textContent = `Ages: ${j.age}`
+				workshopEntry.querySelector('.w-days').textContent = j.days.length == 4 ? 'Everyday' : j.days.map(z => dayWords[z]).join(', ')
+				workshopEntry.querySelector('.w-desc').textContent = j.desc
+				workshopEntry.querySelector('.w-wrapper').classList.add(...j.days.map(z => `day-${z}`))
+				periodWorkshops.appendChild(workshopEntry)
+			})
+			periodBlock.appendChild(periodWorkshops)
+			let backToTop = document.createElement('a')
+			backToTop.href = "#"
+			backToTop.innerText = "Back to top"
+			backToTop.classList.add('mb-3')
+			// backToTop.addEventListener('click', () => window.scrollTo({top: 0, behavior: 'smooth'}))
+			periodBlock.appendChild(backToTop)
+			disp.appendChild(periodBlock)
+		})
+		})</script></p></div></div></body></html>
