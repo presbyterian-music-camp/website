@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://presbyterian-music-camp.github.io/website/test.html",
+            "url": "https://presbyterian-music-camp.github.io/website/test.html",
+            "title": "test",
+            "summary": "Search",
+            "content_html": "<p><input id=\"search-term\" type=\"text\"> <button id=\"search-button\"> Search </button></p>\n<p>\n<script>\n\tconst button = document.getElementById('search-button');\n\tbutton.addEventListener('click', () => {\n\t\tconst term = encodeURIComponent(document.getElementById('search-term').value);\n\t\twindow.location.href = `https://www.google.com/search?q=site%3Apresbyterianmusiccamp.ca+${term}`;\n\t});\n</script>\n</p>",
+            "author": {
+                "name": "Daniel Eisner"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-04T20:56:39-04:00",
+            "date_modified": "2023-10-04T21:03:32-04:00"
+        },
+        {
             "id": "https://presbyterian-music-camp.github.io/website/this-year-5.html",
             "url": "https://presbyterian-music-camp.github.io/website/this-year-5.html",
             "title": "2023",
@@ -135,20 +149,6 @@
             ],
             "date_published": "2022-05-10T23:25:59-04:00",
             "date_modified": "2022-07-01T13:50:07-04:00"
-        },
-        {
-            "id": "https://presbyterian-music-camp.github.io/website/board-meeting-summary-mar-5-2022.html",
-            "url": "https://presbyterian-music-camp.github.io/website/board-meeting-summary-mar-5-2022.html",
-            "title": " Board Meeting Summary - Mar 5 2022",
-            "summary": "50 YEARS OF HARMONY Did you know? The first year of PMC was 1972, to&hellip;",
-            "content_html": "<h2>50 YEARS OF HARMONY</h2>\n<p><em>Did you know?</em></p>\n<p>The first year of PMC was 1972, to introduce the new (then) 1972 Presbyterian Hymn Book. We have planned lots of great stuff to celebrate, like...</p>\n<h3>Kitchen Parties</h3>\n<ul>\n<li>Toronto area: July 16</li>\n<li>Ottawa Valley: July 23 (with overnight!)</li>\n<li>Kingston: date TBD</li>\n</ul>\n<p>And maybe other locations, so stay tuned!!</p>\n<h3>Auction</h3>\n<p>Planning for this event is underway. It will be a live Zoom event sometime in June. To donate an item or service to be auctioned, please contact MJ at <a href=\"mailto:presbyterianmusiccamp@gmail.com\">presbyterianmusiccamp@gmail.com</a>. The plan is to deliver items at camp in August, to avoid shipping charges.</p>\n<h3>Camp History</h3>\n<ul>\n<li>What is your favourite Music Camp memory?</li>\n<li>What is your favourite aspect of Music Camp? [i.e., workshop, activity, sport, etc., and please be specific]</li>\n<li>What else would you like to say about PMC?</li>\n</ul>\n<p>Send your answers by email by <strong>the end of March</strong> to Angus at <a href=\"mailto:ajmacbagpipe@yahoo.com\">ajmacbagpipe@yahoo.com</a></p>\n<h3>Home Movies</h3>\n<p>The 50th anniversary committee would love to have a copy of your home movies to show at camp. Digital is preferred, but we aren’t picky. Contact MJ at <a href=\"mailto:presbyterianmusiccamp@gmail.com\">presbyterianmusiccamp@gmail.com</a>.</p>\n<h2>PMC 2022</h2>\n<p>Theme: <strong><em>The Long and Dusty Road: Life as a Pilgrimage.</em></strong></p>\n<p>Dates: <strong>August 21-28</strong></p>\n<p><strong>Registration</strong> is open! Register soon to take advantage of the early bird fee (adults $500, youth $300), and to give us an idea of numbers. Click <a href=\"https://form.jotform.com/220397312266050\">here</a> to go to the registration form.</p>\n<p>If you want to come but can’t quite commit, email the registrar (Cathy Whiteside, <a href=\"mailto:pmcregistrar@gmail.com\">pmcregistrar@gmail.com</a>) so we know about you.</p>\n<p>Refund policy is on the <a href=\"https://presbyterian-music-camp.github.io/website/register.html\">website registration page</a>.</p>\n<p><strong>Vaccination</strong> for Covid-19 <span style=\"text-decoration: underline;\">will be required</span> to attend PMC in 2022 (with medical exemptions, of course). <strong>Children under 5</strong> will not be required to be vaccinated (since they can’t be yet). If vaccination becomes available for this group before camp, we’ll figure out how it applies.</p>\n<p>The <strong>program and schedule</strong> for 2022 is taking shape. If you’d like to lead a workshop, and you haven’t heard from Jesse Fegelman or his helpers yet, contact Jesse at<br><a href=\"mailto:presbyterianmusiccamp@gmail.com\">presbyterianmusiccamp@gmail.com</a>.</p>\n<h2>PMC Wear</h2>\n<p>The deadline is May 1 for advance orders for PMC Wear. The logo on all items will be embroidered with the 50th anniversary logo, pictured above. Order ahead for guaranteed availability and size.</p>",
-            "author": {
-                "name": "Daniel Eisner"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-04-09T13:47:26-04:00",
-            "date_modified": "2022-04-09T13:47:26-04:00"
         }
     ]
 }

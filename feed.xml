@@ -3,12 +3,41 @@
     <title>Presbyterian Music Camp</title>
     <link href="https://presbyterian-music-camp.github.io/website/feed.xml" rel="self" />
     <link href="https://presbyterian-music-camp.github.io/website" />
-    <updated>2023-10-04T20:40:58-04:00</updated>
+    <updated>2023-10-04T21:03:32-04:00</updated>
     <author>
         <name>Daniel Eisner</name>
     </author>
     <id>https://presbyterian-music-camp.github.io/website</id>
 
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Daniel Eisner</name>
+        </author>
+        <link href="https://presbyterian-music-camp.github.io/website/test.html"/>
+        <id>https://presbyterian-music-camp.github.io/website/test.html</id>
+
+        <updated>2023-10-04T21:03:32-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Search
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><input id="search-term" type="text"> <button id="search-button"> Search </button></p>
+<p>
+<script>
+	const button = document.getElementById('search-button');
+	button.addEventListener('click', () => {
+		const term = encodeURIComponent(document.getElementById('search-term').value);
+		window.location.href = `https://www.google.com/search?q=site%3Apresbyterianmusiccamp.ca+${term}`;
+	});
+</script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>2023</title>
         <author>
@@ -513,56 +542,6 @@
 <p>We discovered (through a complicated series of events) that some folks aren’t getting these summaries via email. Check with your friends and family to see that they are getting the emails. If you have friends from past camps (or new prospects!), check with them – they can easily be added. And if your children have grown up too fast and want to get their own emails, let us know – we can add them too. Send an email to Alison Cooper.</p>
 <p>Keep<br>On<br>Scrolling<br>For<br>The<br>Best<br>Poster<br>Ever!</p>
 <figure class="post__image"> <img loading="lazy"  src="https://presbyterian-music-camp.github.io/website/media/posts/52/wanted-pmc-archives.jpg" alt="" width="597" height="847"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title> Board Meeting Summary - Mar 5 2022</title>
-        <author>
-            <name>Daniel Eisner</name>
-        </author>
-        <link href="https://presbyterian-music-camp.github.io/website/board-meeting-summary-mar-5-2022.html"/>
-        <id>https://presbyterian-music-camp.github.io/website/board-meeting-summary-mar-5-2022.html</id>
-
-        <updated>2022-04-09T13:47:26-04:00</updated>
-            <summary>
-                <![CDATA[
-                    50 YEARS OF HARMONY Did you know? The first year of PMC was 1972, to&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h2>50 YEARS OF HARMONY</h2>
-<p><em>Did you know?</em></p>
-<p>The first year of PMC was 1972, to introduce the new (then) 1972 Presbyterian Hymn Book. We have planned lots of great stuff to celebrate, like...</p>
-<h3>Kitchen Parties</h3>
-<ul>
-<li>Toronto area: July 16</li>
-<li>Ottawa Valley: July 23 (with overnight!)</li>
-<li>Kingston: date TBD</li>
-</ul>
-<p>And maybe other locations, so stay tuned!!</p>
-<h3>Auction</h3>
-<p>Planning for this event is underway. It will be a live Zoom event sometime in June. To donate an item or service to be auctioned, please contact MJ at <a href="mailto:presbyterianmusiccamp@gmail.com">presbyterianmusiccamp@gmail.com</a>. The plan is to deliver items at camp in August, to avoid shipping charges.</p>
-<h3>Camp History</h3>
-<ul>
-<li>What is your favourite Music Camp memory?</li>
-<li>What is your favourite aspect of Music Camp? [i.e., workshop, activity, sport, etc., and please be specific]</li>
-<li>What else would you like to say about PMC?</li>
-</ul>
-<p>Send your answers by email by <strong>the end of March</strong> to Angus at <a href="mailto:ajmacbagpipe@yahoo.com">ajmacbagpipe@yahoo.com</a></p>
-<h3>Home Movies</h3>
-<p>The 50th anniversary committee would love to have a copy of your home movies to show at camp. Digital is preferred, but we aren’t picky. Contact MJ at <a href="mailto:presbyterianmusiccamp@gmail.com">presbyterianmusiccamp@gmail.com</a>.</p>
-<h2>PMC 2022</h2>
-<p>Theme: <strong><em>The Long and Dusty Road: Life as a Pilgrimage.</em></strong></p>
-<p>Dates: <strong>August 21-28</strong></p>
-<p><strong>Registration</strong> is open! Register soon to take advantage of the early bird fee (adults $500, youth $300), and to give us an idea of numbers. Click <a href="https://form.jotform.com/220397312266050">here</a> to go to the registration form.</p>
-<p>If you want to come but can’t quite commit, email the registrar (Cathy Whiteside, <a href="mailto:pmcregistrar@gmail.com">pmcregistrar@gmail.com</a>) so we know about you.</p>
-<p>Refund policy is on the <a href="https://presbyterian-music-camp.github.io/website/register.html">website registration page</a>.</p>
-<p><strong>Vaccination</strong> for Covid-19 <span style="text-decoration: underline;">will be required</span> to attend PMC in 2022 (with medical exemptions, of course). <strong>Children under 5</strong> will not be required to be vaccinated (since they can’t be yet). If vaccination becomes available for this group before camp, we’ll figure out how it applies.</p>
-<p>The <strong>program and schedule</strong> for 2022 is taking shape. If you’d like to lead a workshop, and you haven’t heard from Jesse Fegelman or his helpers yet, contact Jesse at<br><a href="mailto:presbyterianmusiccamp@gmail.com">presbyterianmusiccamp@gmail.com</a>.</p>
-<h2>PMC Wear</h2>
-<p>The deadline is May 1 for advance orders for PMC Wear. The logo on all items will be embroidered with the 50th anniversary logo, pictured above. Order ahead for guaranteed availability and size.</p>
             ]]>
         </content>
     </entry>
