@@ -3,7 +3,7 @@
     <title>Presbyterian Music Camp</title>
     <link href="https://presbyterian-music-camp.github.io/website/feed.xml" rel="self" />
     <link href="https://presbyterian-music-camp.github.io/website" />
-    <updated>2023-10-04T20:37:59-04:00</updated>
+    <updated>2023-10-04T20:40:58-04:00</updated>
     <author>
         <name>Daniel Eisner</name>
     </author>
@@ -54,7 +54,7 @@
         <link href="https://presbyterian-music-camp.github.io/website/pmc-schedule-2023.html"/>
         <id>https://presbyterian-music-camp.github.io/website/pmc-schedule-2023.html</id>
 
-        <updated>2023-10-04T20:37:59-04:00</updated>
+        <updated>2023-10-04T20:40:58-04:00</updated>
             <summary>
                 <![CDATA[
                     Workshops are spread throughout the day into 5 periods. Workshops come and go from year&hellip;
@@ -138,7 +138,7 @@
 			document.querySelector(this.getAttribute('href')).scrollIntoView({behavior: 'smooth'})
 		})
 	})
-	fetch('https://presbyterian-music-camp.github.io/website/schedule-2023.json')
+	fetch('https://www.presbyterianmusiccamp.ca/schedule-2023.json', { mode: 'cors' })
 	.then(res => res.json())
 	.then(schedule => {
 		const disp = document.getElementById('disp')

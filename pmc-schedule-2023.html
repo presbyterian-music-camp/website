@@ -98,7 +98,7 @@
 			document.querySelector(this.getAttribute('href')).scrollIntoView({behavior: 'smooth'})
 		})
 	})
-	fetch('https://presbyterian-music-camp.github.io/website/schedule-2023.json')
+	fetch('https://www.presbyterianmusiccamp.ca/schedule-2023.json', { mode: 'cors' })
 	.then(res => res.json())
 	.then(schedule => {
 		const disp = document.getElementById('disp')
