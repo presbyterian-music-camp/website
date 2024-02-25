@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://presbyterian-music-camp.github.io/website/thank-you-for-your-donation.html",
+            "url": "https://presbyterian-music-camp.github.io/website/thank-you-for-your-donation.html",
+            "title": "Thank you for your donation!",
+            "summary": "The PMC Community appreciates your generosity. Your donation allows us to assist campers through our&hellip;",
+            "content_html": "<p>The PMC Community appreciates your generosity. Your donation allows us to assist campers through our bursary funds and to improve our programming for musical and other workshops.</p>\n<p>May God bless you as you have blessed us.</p>\n<p>Use the links at the top of this page to navigate to other pages on the PMC Website.</p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Daniel Eisner"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-25T17:20:02-05:00",
+            "date_modified": "2024-02-25T17:20:02-05:00"
+        },
+        {
             "id": "https://presbyterian-music-camp.github.io/website/test.html",
             "url": "https://presbyterian-music-camp.github.io/website/test.html",
             "title": "test",
@@ -135,20 +149,6 @@
             ],
             "date_published": "2022-05-10T23:33:51-04:00",
             "date_modified": "2022-06-27T22:55:37-04:00"
-        },
-        {
-            "id": "https://presbyterian-music-camp.github.io/website/board-meeting-summary-apr-9-2022.html",
-            "url": "https://presbyterian-music-camp.github.io/website/board-meeting-summary-apr-9-2022.html",
-            "title": "Board Meeting Summary - Apr 9 2022",
-            "summary": "PMC Wear – Last Chance!! The deadline is May 1 for advance orders for PMC&hellip;",
-            "content_html": "<h2>PMC Wear – Last Chance!!</h2>\n<p>The deadline is May 1 for advance orders for PMC Wear. The logo on all<br>items will be embroidered with the 50th anniversary logo, pictured above.<br>Order ahead for guaranteed availability and size. See the order form for<br>what you need to specify.</p>\n<h2>50 YEARS OF HARMONY</h2>\n<p>Did you know?</p>\n<p>PMC started at Golden Lake in 1972, and used that site until 1995. In 1996 we moved to Tamarack, where we have been ever since.</p>\n<h3>Kitchen Parties</h3>\n<p>Plan your summer around these confirmed dates! Details coming soon.<br>Kingston area: June 25<br>KW/Guelph/Cambridge area: July 9<br>Toronto area: July 16<br>Ottawa Valley: July 23 (with overnight!)</p>\n<h3>Auction</h3>\n<p>Confirmed date and time for this <strong>live Zoom</strong> event is <strong>June 16, 6:30 pm</strong> until the last item sells. Mark your calendar!</p>\n<p>Our auctioneer is practicing speed delivery.</p>\n<p>To donate an item or service to be auctioned, please contact MJ at <a href=\"mailto:presbyterianmusiccamp@gmail.com\">presbyterianmusiccamp@gmail.com</a>.</p>\n<p>Donated items: bring it to camp so we don’t have to<br>worry about shipping charges or damage.</p>\n<p>Donated services: (e.g., babysitting, dinner for 4, planting a garden) specify your radius of travel.</p>\n<h3>Camp History</h3>\n<ul>\n<li>What is your favourite Music Camp memory?</li>\n<li>What is your favourite aspect of Music Camp? [i.e., workshop, activity, sport, etc., and please be specific]</li>\n<li>What else would you like to say about PMC?</li>\n</ul>\n<p>It’s not too late to get your contribution into the history – send a message to Angus Sutherland - <a href=\"mailto:ajmacbagpipe@yahoo.com\">ajmacbagpipe@yahoo.com</a></p>\n<h3>Home Movies</h3>\n<p>The 50th anniversary committee is still looking for your home movies to show at camp. Digital is preferred, but we aren’t picky. Contact MJ at <a href=\"mailto:presbyterianmusiccamp@gmail.com\">presbyterianmusiccamp@gmail.com</a>.</p>\n<h3>Photos for Scanning</h3>\n<p>We’ll be scanning photos of past camps at camp this year. Please curate your photos – bring the best, leave the rest – and please make a note of who is in the photo (if you remember). Photos can be scanned and given back at camp, or scanned delivered to you after camp.</p>\n<h2>PMC 2022</h2>\n<p>Theme: <em><strong>The Long and Dusty Road: Life as a Pilgrimage</strong></em></p>\n<p>Dates: <strong>August 21-28</strong></p>\n<p>The <strong>deadline for a decision about camp </strong>this year is<strong> May 20.</strong><br><strong>PLEASE</strong><br>- If you know you are coming, register now. Click here to go to the registration form.<br>- If you’d like to come but aren’t quite sure, email the registrar (Cathy Whiteside, <a href=\"mailto:pmcregistrar@gmail.com\">pmcregistrar@gmail.com</a>) so we know about you.</p>\n<p><strong>Early bird</strong> deadline is <strong>May 15</strong>.</p>\n<p>Refund policy is on the website registration page.</p>\n<p>Vaccination for Covid-19 will be required to attend PMC in 2022 (with medical exemptions, of course). Children under 5 will not be required to be vaccinated (since they can’t be yet). If vaccination becomes available for this group before camp, we’ll figure out how it applies.</p>\n<h2>Meeting Summaries</h2>\n<p>We discovered (through a complicated series of events) that some folks aren’t getting these summaries via email. Check with your friends and family to see that they are getting the emails. If you have friends from past camps (or new prospects!), check with them – they can easily be added. And if your children have grown up too fast and want to get their own emails, let us know – we can add them too. Send an email to Alison Cooper.</p>\n<p>Keep<br>On<br>Scrolling<br>For<br>The<br>Best<br>Poster<br>Ever!</p>\n<figure class=\"post__image\"> <img loading=\"lazy\"  src=\"https://presbyterian-music-camp.github.io/website/media/posts/52/wanted-pmc-archives.jpg\" alt=\"\" width=\"597\" height=\"847\"></figure>",
-            "author": {
-                "name": "Daniel Eisner"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-05-10T23:25:59-04:00",
-            "date_modified": "2022-07-01T13:50:07-04:00"
         }
     ]
 }
