@@ -3,7 +3,7 @@
     <title>Presbyterian Music Camp</title>
     <link href="https://presbyterian-music-camp.github.io/website/feed.xml" rel="self" />
     <link href="https://presbyterian-music-camp.github.io/website" />
-    <updated>2024-02-25T17:22:29-05:00</updated>
+    <updated>2024-02-25T18:05:52-05:00</updated>
     <author>
         <name>Daniel Eisner</name>
     </author>
@@ -42,15 +42,15 @@
         <link href="https://presbyterian-music-camp.github.io/website/test.html"/>
         <id>https://presbyterian-music-camp.github.io/website/test.html</id>
 
-        <updated>2023-10-04T21:03:32-04:00</updated>
+        <updated>2024-02-25T18:05:52-05:00</updated>
             <summary>
                 <![CDATA[
-                    Search
+                    Searc
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><input id="search-term" type="text"> <button id="search-button"> Search </button></p>
+                <p><input id="search-term" type="text"> <button id="search-button"> Searc</button></p>
 <p>
 <script>
 	const button = document.getElementById('search-button');

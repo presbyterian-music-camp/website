@@ -28,15 +28,15 @@
             "id": "https://presbyterian-music-camp.github.io/website/test.html",
             "url": "https://presbyterian-music-camp.github.io/website/test.html",
             "title": "test",
-            "summary": "Search",
-            "content_html": "<p><input id=\"search-term\" type=\"text\"> <button id=\"search-button\"> Search </button></p>\n<p>\n<script>\n\tconst button = document.getElementById('search-button');\n\tbutton.addEventListener('click', () => {\n\t\tconst term = encodeURIComponent(document.getElementById('search-term').value);\n\t\twindow.location.href = `https://www.google.com/search?q=site%3Apresbyterianmusiccamp.ca+${term}`;\n\t});\n</script>\n</p>",
+            "summary": "Searc",
+            "content_html": "<p><input id=\"search-term\" type=\"text\"> <button id=\"search-button\"> Searc</button></p>\n<p>\n<script>\n\tconst button = document.getElementById('search-button');\n\tbutton.addEventListener('click', () => {\n\t\tconst term = encodeURIComponent(document.getElementById('search-term').value);\n\t\twindow.location.href = `https://www.google.com/search?q=site%3Apresbyterianmusiccamp.ca+${term}`;\n\t});\n</script>\n</p>",
             "author": {
                 "name": "Daniel Eisner"
             },
             "tags": [
             ],
             "date_published": "2023-10-04T20:56:39-04:00",
-            "date_modified": "2023-10-04T21:03:32-04:00"
+            "date_modified": "2024-02-25T18:05:52-05:00"
         },
         {
             "id": "https://presbyterian-music-camp.github.io/website/this-year-5.html",
