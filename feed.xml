@@ -1,14 +1,172 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Presbyterian Music Camp</title>
     <link href="https://presbyterian-music-camp.github.io/website/feed.xml" rel="self" />
     <link href="https://presbyterian-music-camp.github.io/website" />
-    <updated>2024-07-01T12:24:51-04:00</updated>
+    <updated>2024-07-15T22:33:54-04:00</updated>
     <author>
         <name>Daniel Eisner</name>
     </author>
     <id>https://presbyterian-music-camp.github.io/website</id>
 
+    <entry>
+        <title>PMC Schedule 2024</title>
+        <author>
+            <name>Daniel Eisner</name>
+        </author>
+        <link href="https://presbyterian-music-camp.github.io/website/pmc-schedule-2023-2.html"/>
+        <id>https://presbyterian-music-camp.github.io/website/pmc-schedule-2023-2.html</id>
+
+        <updated>2024-07-15T22:33:54-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Workshops are spread throughout the day into 5 periods. Workshops come and go from year&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="row mb-3">
+<div class="col-8">Workshops are spread throughout the day into 5 periods. Workshops come and go from year to year. They may be scheduled at in a different period than in previous years and will be in new locations at Kintail this year. Please keep in mind that workshops may change as we confirm workshop leaders.</div>
+<div class="col-4">
+<ul style="list-style-type: none;">
+<li class="mb-3">
+<h5 class="m-0"><a href="#period-1" class="period-jump">Period 1</a></h5>
+</li>
+<li class="mb-3">
+<h5 class="m-0"><a href="#period-2" class="period-jump">Period 2</a></h5>
+</li>
+<li class="mb-3">
+<h5 class="m-0"><a href="#period-3" class="period-jump">Period 3</a></h5>
+</li>
+<li class="mb-3">
+<h5 class="m-0"><a href="#period-4" class="period-jump">Period 4</a></h5>
+</li>
+<li class="mb-3">
+<h5 class="m-0"><a href="#period-5" class="period-jump">Period 5</a></h5>
+</li>
+<li class="mb-3">
+<h5 class="m-0"><a href="#period-other" class="period-jump">Other</a></h5>
+</li>
+</ul>
+</div>
+</div>
+<div class="d-flex pb-2" style="flex-wrap: wrap;">
+<div class="mr-3 mb-2">Filter:</div>
+<button class="btn-dark mr-3 mb-2" data-button-day="all">All</button> <button class="outline-dark mr-3 mb-2" data-button-day="0">Monday</button> <button class="outline-dark mr-3 mb-2" data-button-day="1">Tuesday</button> <button class="outline-dark mr-3 mb-2" data-button-day="2">Wednesday</button> <button class="outline-dark mr-3 mb-2" data-button-day="3">Thursday</button></div>
+<div id="disp"></div>
+<p><template id="workshop-template">
+<div class="mb-5 w-wrapper">
+<div class="d-flex mb-1">
+<h3 class="w-name m-0"> </h3>
+<div class="ml-auto w-location"> </div>
+</div>
+<div class="d-flex mb-1">
+<div class="w-ages"> </div>
+<div class="ml-auto w-days"> </div>
+</div>
+<div class="mb-1 w-desc" style="font-size: 90%; white-space: pre-wrap;"> </div>
+</div>
+</template></p>
+<p>
+<script>
+		const dayWords = ["Mon", "Tue", "Wed", "Thur", "Fri"]
+		const periodTimes = {
+			"1": "10:00 am - 11:00 am",
+			"2": "11:15 am - 12:15 pm",
+			"3": "1:30 pm - 2:30 pm",
+			"4": "3:00 pm - 4:00 pm",
+			"5": "4:15 pm - 5:15 pm",
+			"other": "varies",
+		}
+
+		function doDay(button) {
+			document.querySelectorAll('[data-button-day]').forEach(i => {
+				i.classList.remove('btn-dark')
+				i.classList.add('outline-dark')
+			})
+			button.classList.remove('outline-dark')
+			button.classList.add('btn-dark')
+			if (button.dataset.buttonDay == "all") {
+				document.querySelectorAll('.w-wrapper').forEach(i => i.classList.remove('d-none'))
+			} else {
+				document.querySelectorAll('.w-wrapper').forEach(i => i.classList.add('d-none'))
+				document.querySelectorAll(`.w-wrapper.day-${button.dataset.buttonDay}`).forEach(i => i.classList.remove('d-none'))
+			}
+		}
+		document.querySelectorAll('[data-button-day]').forEach(i => {
+			i.addEventListener('click', (e) => {
+				e.preventDefault()
+				doDay(i)
+			})
+		})
+		document.querySelectorAll('.jump-period').forEach(i => {
+			i.addEventListener('click', (e) => {
+				e.preventDefault()
+				document.querySelector(this.getAttribute('href')).scrollIntoView({
+					behavior: 'smooth'
+				})
+			})
+		})
+		fetch('https://jmf.duckdns.org/static/schedule.json', {
+				mode: 'cors'
+			})
+			.then(res => res.json())
+			.then(schedule => {
+				const disp = document.getElementById('disp')
+				const template = document.querySelector('#workshop-template')
+				disp.innerHTML = ''
+				schedule.sort((a, b) => a.period === b.period ? a.name.localeCompare(b.name) : (parseInt(a.period) || 6) - (parseInt(b.period) || 6))
+				const periods = [...new Set(schedule.map(a => a.period))]
+				periods.forEach(i => {
+					if (parseInt(i) > 1) {
+						let hr = document.createElement('hr')
+						hr.classList.add('mx-0', 'my-2')
+						disp.appendChild(hr)
+					}
+					let periodBlock = document.createElement('div')
+					let periodHolder = document.createElement('div')
+					periodHolder.classList.add('d-flex')
+					periodHolder.id = `period-${i}`
+					// comment these 3 lines out if you don't want sticky period headers
+					periodHolder.style.position = 'sticky'
+					periodHolder.style.top = '-1px'
+					periodHolder.style.backdropFilter = 'blur(20px)'
+
+					let periodHeader = document.createElement('h2')
+					periodHeader.innerText = i == "other" ? "Other" : `Period ${i}`
+					let periodTime = document.createElement('span')
+					periodTime.classList.add('ml-auto', 'text-italic')
+					periodTime.innerText = periodTimes[i]
+					periodHolder.appendChild(periodHeader)
+					periodHolder.appendChild(periodTime)
+					periodBlock.appendChild(periodHolder)
+					let periodWorkshops = document.createElement('div')
+					periodWorkshops.classList.add('container')
+					schedule.filter(b => b.period == i).forEach(j => {
+						let workshopEntry = template.content.cloneNode(true)
+						workshopEntry.querySelector('.w-name').textContent = j.name
+						workshopEntry.querySelector('.w-location').textContent = j.location
+						workshopEntry.querySelector('.w-ages').textContent = `Ages: ${j.age}`
+						workshopEntry.querySelector('.w-days').textContent = j.days.length == 4 ? 'Everyday' : j.days.map(z => dayWords[z]).join(', ')
+						workshopEntry.querySelector('.w-desc').textContent = j.desc
+						workshopEntry.querySelector('.w-wrapper').classList.add(...j.days.map(z => `day-${z}`))
+						periodWorkshops.appendChild(workshopEntry)
+					})
+					periodBlock.appendChild(periodWorkshops)
+					let backToTop = document.createElement('a')
+					backToTop.href = "#"
+					backToTop.innerText = "Back to top"
+					backToTop.classList.add('mb-3')
+					// backToTop.addEventListener('click', () => window.scrollTo({top: 0, behavior: 'smooth'}))
+					periodBlock.appendChild(backToTop)
+					disp.appendChild(periodBlock)
+				})
+			})
+	</script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Presbyterian Church in Canada 150th Anniversary</title>
         <author>
@@ -463,54 +621,6 @@
 <p>The 50<sup>th</sup> anniversary committee is still looking for your home movies to show at camp. Digital is preferred, but we aren’t picky. Contact MJ at <a href="mailto:presbyterianmusiccamp@gmail.com">presbyterianmusiccamp@gmail.com</a>.</p>
 <h2>Photos for Scanning</h2>
 <p>We’ll be scanning old camp photos at camp this year. Please curate your photos – bring the best, leave the rest – and please make a note of who is in the photo (if you remember). Photos can be scanned and given back at camp, or scann</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Board Meeting Summary - May 14, 2022</title>
-        <author>
-            <name>Daniel Eisner</name>
-        </author>
-        <link href="https://presbyterian-music-camp.github.io/website/board-meeting-summary-apr-9-2022-2.html"/>
-        <id>https://presbyterian-music-camp.github.io/website/board-meeting-summary-apr-9-2022-2.html</id>
-
-        <updated>2022-07-01T13:57:02-04:00</updated>
-            <summary>
-                <![CDATA[
-                    WE’RE BACK FOR PMC 2022!!! IT’S OFFICIAL – PMC 2022 will be IN PERSON (see&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h1><strong>WE’RE </strong><strong>BACK </strong><strong>FOR PMC 2022!!! </strong></h1>
-<p>IT’S OFFICIAL – PMC 2022 will be IN PERSON (see the fine print below)</p>
-<p>We have over 100 registered campers as of writing, with more expected. The program is shaping up well, and we are working on the finishing touches for a great experience.</p>
-<p>Dates: <strong>August 21-28</strong></p>
-<p>For information on the Theme, please see previous summaries.</p>
-<p>If you haven’t registered yet,<strong> what are you waiting for? </strong>Go directly to the<strong> </strong><a href="https://www.presbyterianmusiccamp.ca/register.html">website registration page</a>.</p>
-<p><strong>Vaccination</strong><strong> </strong>for Covid-19 <u>will be required</u> to attend PMC in 2022 (with medical exemptions, of course). Children under 5 will not be required to be vaccinated (since they can’t be yet). If vaccination becomes available for this group before camp, we’ll figure out how it applies.</p>
-<p>Discussions at the June meeting will focus on our Covid rules and restrictions. We’ll have more information about those in the next summary.<strong> </strong></p>
-<h1><strong>50 YEARS OF HARMONY</strong></h1>
-<p>Did you know?</p>
-<p>The Dean for the first PMC in 1972 was Dr. William Irwin McElwain.</p>
-<h2>Kitchen Parties</h2>
-<p>Here are the dates again, in case you missed them. Times and other details coming soon!</p>
-<p>Kingston area:                                     June 25</p>
-<p>KW/Guelph/Cambridge area:             July 9</p>
-<p>Toronto area:                                      July 16</p>
-<p>Ottawa Valley:                                    July 23 (with overnight!)</p>
-<h2>Live Auction</h2>
-<p>Confirmed date and time for this Zoom event is June 16, 6:30 pm until the last item sells.</p>
-<p>Auctioneer is Carrie Pilgrim!!</p>
-<p>Now we need auction items. They can be things you buy (Spruce beer, tickets, cars), things you make (jewellry, afghans, houses), or services you provide (babysitting for 4 hours, dinner for 6 people, grocery shopping for a year). Be creative. No reasonable offer refused.</p>
-<p>To donate an item or service to be auctioned, please contact MJ at <a href="mailto:presbyterianmusiccamp@gmail.com">presbyterianmusiccamp@gmail.com</a>.</p>
-<p>For donated things: bring it to camp so we don’t have to worry about shipping charges or damage.</p>
-<p>For donated services: (e.g., babysitting, dinner for 4, planting a garden) specify your radius of travel.</p>
-<h2>Home Movies</h2>
-<p>The 50<sup>th</sup> anniversary committee is still looking for your home movies to show at camp. Digital is preferred, but we aren’t picky. Contact MJ at <a href="mailto:presbyterianmusiccamp@gmail.com">presbyterianmusiccamp@gmail.com</a>.</p>
-<h2>Photos for Scanning</h2>
-<p>We’ll be scanning old camp photos at camp this year. Please curate your photos – bring the best, leave the rest – and please make a note of who is in the photo (if you remember). Photos can be scanned and given back at camp, or scanned and delivered to you after camp.</p>
-<p>The fine print – you  know that there could be a natural disaster or an act of God. We reserve the right to change our minds at any time and revert to the Refund Policy.</p>
             ]]>
         </content>
     </entry>
