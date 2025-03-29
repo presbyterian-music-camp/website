@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Presbyterian Music Camp</title>
-    <link href="https://presbyterian-music-camp.github.io/website/feed.xml" rel="self" />
-    <link href="https://presbyterian-music-camp.github.io/website" />
+    <link href="https://presbyterianmusiccamp.ca/feed.xml" rel="self" />
+    <link href="https://presbyterianmusiccamp.ca" />
     <updated>2024-10-01T10:31:48-04:00</updated>
     <author>
         <name>Daniel Eisner</name>
     </author>
-    <id>https://presbyterian-music-camp.github.io/website</id>
+    <id>https://presbyterianmusiccamp.ca</id>
 
     <entry>
         <title>2024</title>
         <author>
             <name>Daniel Eisner</name>
         </author>
-        <link href="https://presbyterian-music-camp.github.io/website/2024.html"/>
-        <id>https://presbyterian-music-camp.github.io/website/2024.html</id>
+        <link href="https://presbyterianmusiccamp.ca/2024.html"/>
+        <id>https://presbyterianmusiccamp.ca/2024.html</id>
 
-        <updated>2024-10-01T10:31:48-04:00</updated>
+        <updated>2024-10-01T09:25:12-04:00</updated>
             <summary>
                 <![CDATA[
                     August 18-23 at Camp Kintail! Deans Rae-Lynn Rosefield and Shannon Vanderstelt Theme: Come To The&hellip;
@@ -25,16 +25,16 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--center"><img loading="lazy"  src="https://presbyterian-music-camp.github.io/website/media/posts/65/PMC24-Final-1.jpg" alt="" width="3199" height="2324"></figure>
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://presbyterianmusiccamp.ca/media/posts/65/PMC24-Final-1.jpg" alt="" width="3199" height="2324"></figure>
 <p>August 18-23 at Camp Kintail!</p>
 <p>Deans Rae-Lynn Rosefield and Shannon Vanderstelt</p>
 <p>Theme: Come To The Banquet</p>
 <p>This week we invite you to come as you are into relationship with one another and with Christ. We want to explore the idea that all are welcome into this relationship and the life changing impact this can have. The final night there is a Banquet and Dance.</p>
-<p><a href="https://presbyterian-music-camp.github.io/website/2024_PMC_camper_guide_final.pdf" target="_blank" rel="noopener noreferrer">2024 Camper Guide</a></p>
-<p><a href="https://presbyterian-music-camp.github.io/website/packing_list_2024.doc" target="_blank" rel="noopener noreferrer"></a><a href="https://presbyterian-music-camp.github.io/website/packing_list_2024.doc" target="_blank" rel="noopener noreferrer">Packing List 2024</a></p>
-<p><a href="https://presbyterian-music-camp.github.io/website/pmc-schedule-2023-2.html" target="_blank" rel="noopener noreferrer">2024 Workshop Schedule</a></p>
-<p><a href="https://presbyterian-music-camp.github.io/website/PMC Week Schedule 2024.pdf" target="_blank" rel="noopener noreferrer">2024 Week Schedule</a></p>
-<p><a href="https://presbyterian-music-camp.github.io/website/Dean Email.docx">Dean's Letter</a></p>
+<p><a href="https://presbyterianmusiccamp.ca/2024_PMC_camper_guide_final.pdf" target="_blank" rel="noopener noreferrer">2024 Camper Guide</a></p>
+<p><a href="https://presbyterianmusiccamp.ca/packing_list_2024.doc" target="_blank" rel="noopener noreferrer"></a><a href="https://presbyterianmusiccamp.ca/packing_list_2024.doc" target="_blank" rel="noopener noreferrer">Packing List 2024</a></p>
+<p><a href="https://presbyterianmusiccamp.ca/pmc-schedule-2023-2.html" target="_blank" rel="noopener noreferrer">2024 Workshop Schedule</a></p>
+<p><a href="https://presbyterianmusiccamp.ca/PMC Week Schedule 2024.pdf" target="_blank" rel="noopener noreferrer">2024 Week Schedule</a></p>
+<p><a href="https://presbyterianmusiccamp.ca/Dean Email.docx">Dean's Letter</a></p>
             ]]>
         </content>
     </entry>
@@ -43,10 +43,10 @@
         <author>
             <name>Daniel Eisner</name>
         </author>
-        <link href="https://presbyterian-music-camp.github.io/website/pmc-schedule-2023-2.html"/>
-        <id>https://presbyterian-music-camp.github.io/website/pmc-schedule-2023-2.html</id>
+        <link href="https://presbyterianmusiccamp.ca/pmc-schedule-2023-2.html"/>
+        <id>https://presbyterianmusiccamp.ca/pmc-schedule-2023-2.html</id>
 
-        <updated>2024-07-15T22:33:54-04:00</updated>
+        <updated>2024-07-15T21:37:43-04:00</updated>
             <summary>
                 <![CDATA[
                     Workshops are spread throughout the day into 5 periods. Workshops come and go from year&hellip;
@@ -201,8 +201,8 @@
         <author>
             <name>Daniel Eisner</name>
         </author>
-        <link href="https://presbyterian-music-camp.github.io/website/presbyterian-church-in-canada-150th-anniversary.html"/>
-        <id>https://presbyterian-music-camp.github.io/website/presbyterian-church-in-canada-150th-anniversary.html</id>
+        <link href="https://presbyterianmusiccamp.ca/presbyterian-church-in-canada-150th-anniversary.html"/>
+        <id>https://presbyterianmusiccamp.ca/presbyterian-church-in-canada-150th-anniversary.html</id>
 
         <updated>2024-07-01T12:24:51-04:00</updated>
             <summary>
@@ -229,10 +229,10 @@
         <author>
             <name>Daniel Eisner</name>
         </author>
-        <link href="https://presbyterian-music-camp.github.io/website/thank-you-for-your-donation.html"/>
-        <id>https://presbyterian-music-camp.github.io/website/thank-you-for-your-donation.html</id>
+        <link href="https://presbyterianmusiccamp.ca/thank-you-for-your-donation.html"/>
+        <id>https://presbyterianmusiccamp.ca/thank-you-for-your-donation.html</id>
 
-        <updated>2024-02-25T17:22:29-05:00</updated>
+        <updated>2024-02-25T17:20:02-05:00</updated>
             <summary>
                 <![CDATA[
                     The PMC Community appreciates your generosity. Your donation allows us to assist campers through our&hellip;
@@ -254,10 +254,10 @@
         <author>
             <name>Daniel Eisner</name>
         </author>
-        <link href="https://presbyterian-music-camp.github.io/website/test.html"/>
-        <id>https://presbyterian-music-camp.github.io/website/test.html</id>
+        <link href="https://presbyterianmusiccamp.ca/test.html"/>
+        <id>https://presbyterianmusiccamp.ca/test.html</id>
 
-        <updated>2024-02-25T18:05:52-05:00</updated>
+        <updated>2023-10-04T20:56:39-04:00</updated>
             <summary>
                 <![CDATA[
                     Searc
@@ -283,10 +283,10 @@
         <author>
             <name>Daniel Eisner</name>
         </author>
-        <link href="https://presbyterian-music-camp.github.io/website/this-year-5.html"/>
-        <id>https://presbyterian-music-camp.github.io/website/this-year-5.html</id>
+        <link href="https://presbyterianmusiccamp.ca/this-year-5.html"/>
+        <id>https://presbyterianmusiccamp.ca/this-year-5.html</id>
 
-        <updated>2024-10-01T09:24:55-04:00</updated>
+        <updated>2023-10-04T20:20:22-04:00</updated>
             <summary>
                 <![CDATA[
                     (A shorter camp this year, packed with the things we LOVE.) Theme: "Jesus, the great&hellip;
@@ -294,15 +294,15 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <h5><strong><figure class="post__image post__image--full"><img loading="lazy"  src="https://presbyterian-music-camp.github.io/website/media/posts/60/PMC23-Poster.jpg" alt="" width="926" height="521"></figure></strong></h5>
+                <h5><strong><figure class="post__image post__image--full"><img loading="lazy"  src="https://presbyterianmusiccamp.ca/media/posts/60/PMC23-Poster.jpg" alt="" width="926" height="521"></figure></strong></h5>
 <h5>(A shorter camp this year, packed with the things we LOVE.)</h5>
 <h5 class="align-left"><strong>Theme: <em>"Jesus, the great storyteller"</em></strong>.</h5>
 <p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><em>“I’ve got a story for you…”</em> When we hear those words, we know we’re in for a ride! A good story has the power to transform: it can comfort, challenge, or inspire us. Jesus was a master storyteller; those who heard his stories left his presence as changed people. PMC 2023 will celebrate the gift of </span><i style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Story. </i><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">As a community, we will hear and share stories of past and present as we pray for a spirit-filled future. We will contemplate where the stories of Jesus intersect with our own. And we will leave camp as changed people. What’s your story?</span></p>
 <p><strong>Deans:</strong> Hugh Donnelly &amp; David Linderman</p>
-<p>Visit the <a href="https://www.campkintail.ca" target="_blank" rel="noopener noreferrer">Camp Kintail website</a> to see the new site. <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Read more about the new site </span><a href="https://presbyterian-music-camp.github.io/website/site-change-2023.html" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">here</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">.</span></p>
-<p>2023 PMC schedule is <a href="https://presbyterian-music-camp.github.io/website/pmc_week_schedule_2023_-_accepted_working_draft.pdf" target="_blank" rel="noopener noreferrer">here</a>!</p>
-<p>Workshop schedule can be seen <a href="https://presbyterian-music-camp.github.io/website/pmc-schedule-2023.html">here</a>!</p>
-<p>And the new Camper Guide for 2023, updated for the Camp Kintail site is located <a href="https://presbyterian-music-camp.github.io/website/2023_PMC_camper_guide.pdf" target="_blank" rel="noopener noreferrer">here</a>!</p>
+<p>Visit the <a href="https://www.campkintail.ca" target="_blank" rel="noopener noreferrer">Camp Kintail website</a> to see the new site. <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Read more about the new site </span><a href="https://presbyterianmusiccamp.ca/site-change-2023.html" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">here</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">.</span></p>
+<p>2023 PMC schedule is <a href="https://presbyterianmusiccamp.ca/pmc_week_schedule_2023_-_accepted_working_draft.pdf" target="_blank" rel="noopener noreferrer">here</a>!</p>
+<p>Workshop schedule can be seen <a href="https://presbyterianmusiccamp.ca/pmc-schedule-2023.html">here</a>!</p>
+<p>And the new Camper Guide for 2023, updated for the Camp Kintail site is located <a href="https://presbyterianmusiccamp.ca/2023_PMC_camper_guide.pdf" target="_blank" rel="noopener noreferrer">here</a>!</p>
 <div>
 <div class="gmail_signature" dir="ltr" data-smartmail="gmail_signature">
 <div dir="ltr">
@@ -320,10 +320,10 @@
         <author>
             <name>Daniel Eisner</name>
         </author>
-        <link href="https://presbyterian-music-camp.github.io/website/pmc-schedule-2023.html"/>
-        <id>https://presbyterian-music-camp.github.io/website/pmc-schedule-2023.html</id>
+        <link href="https://presbyterianmusiccamp.ca/pmc-schedule-2023.html"/>
+        <id>https://presbyterianmusiccamp.ca/pmc-schedule-2023.html</id>
 
-        <updated>2023-10-04T20:40:58-04:00</updated>
+        <updated>2023-06-11T21:52:40-04:00</updated>
             <summary>
                 <![CDATA[
                     Workshops are spread throughout the day into 5 periods. Workshops come and go from year&hellip;
@@ -470,10 +470,10 @@
         <author>
             <name>Daniel Eisner</name>
         </author>
-        <link href="https://presbyterian-music-camp.github.io/website/site-change-2023.html"/>
-        <id>https://presbyterian-music-camp.github.io/website/site-change-2023.html</id>
+        <link href="https://presbyterianmusiccamp.ca/site-change-2023.html"/>
+        <id>https://presbyterianmusiccamp.ca/site-change-2023.html</id>
 
-        <updated>2023-02-14T10:06:30-05:00</updated>
+        <updated>2022-11-26T18:43:26-05:00</updated>
             <summary>
                 <![CDATA[
                     The PMC board was notified near the end of October 2022 that Camp Tamarack was&hellip;
@@ -495,8 +495,8 @@
         <author>
             <name>Daniel Eisner</name>
         </author>
-        <link href="https://presbyterian-music-camp.github.io/website/board-meeting-summary-october-29-2022.html"/>
-        <id>https://presbyterian-music-camp.github.io/website/board-meeting-summary-october-29-2022.html</id>
+        <link href="https://presbyterianmusiccamp.ca/board-meeting-summary-october-29-2022.html"/>
+        <id>https://presbyterianmusiccamp.ca/board-meeting-summary-october-29-2022.html</id>
 
         <updated>2022-11-24T17:13:43-05:00</updated>
             <summary>
@@ -558,8 +558,8 @@
         <author>
             <name>Daniel Eisner</name>
         </author>
-        <link href="https://presbyterian-music-camp.github.io/website/this-year-4.html"/>
-        <id>https://presbyterian-music-camp.github.io/website/this-year-4.html</id>
+        <link href="https://presbyterianmusiccamp.ca/this-year-4.html"/>
+        <id>https://presbyterianmusiccamp.ca/this-year-4.html</id>
 
         <updated>2022-09-20T21:35:00-04:00</updated>
             <summary>
@@ -569,9 +569,9 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>PMC 2022 is booked at Tamarack from August 21-28. We are pulling out all the stops to make this an in-person, face-to-face, real live camp, because 2022 is the <a href="https://presbyterian-music-camp.github.io/website/50-years-of-harmony.html">50th anniversary</a> of PMC!<br><br>The theme of PMC 2022 theme is:</p>
+                <p>PMC 2022 is booked at Tamarack from August 21-28. We are pulling out all the stops to make this an in-person, face-to-face, real live camp, because 2022 is the <a href="https://presbyterianmusiccamp.ca/50-years-of-harmony.html">50th anniversary</a> of PMC!<br><br>The theme of PMC 2022 theme is:</p>
 <p class="align-center"><em>The Long and Dusty Road: Life as a Pilgrimage</em></p>
-<p>We would appreciate if you <a href="https://presbyterian-music-camp.github.io/website/register.html">register</a> sooner rather than later to give us an idea of numbers. Read on for everything we know so far that might help you decide if you can come this year or not. If you want to come but can’t quite commit, please email the registrar (Cathy Whiteside, <a href="mailto:pmcregistrar@gmail.com">pmcregistrar@gmail.com</a>) so we know about you.</p>
+<p>We would appreciate if you <a href="https://presbyterianmusiccamp.ca/register.html">register</a> sooner rather than later to give us an idea of numbers. Read on for everything we know so far that might help you decide if you can come this year or not. If you want to come but can’t quite commit, please email the registrar (Cathy Whiteside, <a href="mailto:pmcregistrar@gmail.com">pmcregistrar@gmail.com</a>) so we know about you.</p>
 <p>Vaccination for Covid-19 will be required for those aged 6 and up to attend PMC in 2022, except for those with medical exemptions. <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">We have made this decision so that we can provide a camp and program you are used to, and to protect our community, particularly those who cannot be vaccinated yet.</span></p>
 <p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">A vaccine is now available for children age 5 and under. A first dose is strongly encouraged, but is <span style="text-decoration: underline;">not</span> required (as it may not be possible for parents to schedule this before camp).</span></p>
 <p><span style="text-decoration: underline;"><strong>Visitors to PMC</strong></span></p>
@@ -585,7 +585,7 @@
 <p>Contact the registrar (Cathy Whiteside, <a href="mailto:pmcregistrar@gmail.com">pmcregistrar@gmail.com</a>), to make arrangements for your visit, especially if you will need accommodation, as space is limited.</p>
 <p>If possible, arrange to come on Saturday, so you can hear the concert, eat a delicious lunch, enjoy the birthday party, and spend your savings on the auction!</p>
 <p><span style="text-decoration: underline;">This Year's Schedule</span></p>
-<p>The schedule is almost done; you can find the almost final version <a href="https://presbyterian-music-camp.github.io/website/pmc week schedule 2022_combined_Aug10.pdf" target="_blank" rel="noopener noreferrer">here</a>. Further changes will be announced AT CAMP.</p>
+<p>The schedule is almost done; you can find the almost final version <a href="https://presbyterianmusiccamp.ca/pmc week schedule 2022_combined_Aug10.pdf" target="_blank" rel="noopener noreferrer">here</a>. Further changes will be announced AT CAMP.</p>
             ]]>
         </content>
     </entry>
