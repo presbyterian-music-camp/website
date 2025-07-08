@@ -1,0 +1,449 @@
+
+[
+	{
+		"name": "Banjo",
+		"leader": "Scott Cooper",
+		"location": "Beach Porch",
+		"age": "13+",
+		"desc": "This is a safe space for banjo players and enthusiasts to escape persecution and learn styles and techniques on a 5 string instrument.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "1"
+	},
+	{
+		"name": "Cherubs",
+		"leader": "James & Tori Vanderstelt",
+		"location": "The Nest - Basement",
+		"age": "up to 5",
+		"desc": "A fun place for toddlers and pre-schoolers to play and laugh while their parents do other workshops or just hang out with their kids and other parents.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "1"
+	},
+	{
+		"name": "Children's Choir",
+		"leader": "Paul Miller",
+		"location": "Harmony House",
+		"age": "6-12",
+		"desc": "A choir for children, aged 6-12.  Sing fun songs with your friends and see how much fun a choir can be!",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "1"
+	},
+	{
+		"name": "Concert Band",
+		"leader": "Jesse Fegelman",
+		"location": "Rec Hall",
+		"age": "13+",
+		"desc": "Instrumental music for woodwinds, brass & percussion – bring your own instrument, and a music stand if you have one.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "1"
+	},
+	{
+		"name": "Intermediate Guitar",
+		"leader": "Hugh Donnelly",
+		"location": "MacDonald Meeting Room",
+		"age": "13+",
+		"desc": "Learn some finger-picking and expand your guitar skills.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "1"
+	},
+	{
+		"name": "Mental Health Workshop (AM)",
+		"leader": "Tom Roes",
+		"location": "Nest 2F Meeting Room",
+		"age": "All",
+		"desc": "Discussion and insight with a mental health professional. Bring your questions about anxiety, depression, ADHD, self-harm, suicide, or any other mental health topics. Participate as much as you want, whatever works for you.\n\nTom will be available in the afternoon for individual appointments if you want private discussion.\n\nThe focus of the workshop will be adoption, but anyone can attend.\n\nSupported in part by a bequest to The Presbyterian Church in Canada.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "1"
+	},
+	{
+		"name": "Camp Choir",
+		"leader": "Margaret Moncrieff & David Melhorne-Boe",
+		"location": "Rec Hall",
+		"age": "13+",
+		"desc": "Four-part singing for campers of any musical ability. Music reading is not required.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "2"
+	},
+	{
+		"name": "Cherubs (continued)",
+		"leader": "James & Tori Vanderstelt",
+		"location": "The Nest - Basement",
+		"age": "up to 5",
+		"desc": "A fun place for toddlers and pre-schoolers to play and laugh while their parents do other workshops or just hang out with their kids and other parents.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "2"
+	},
+	{
+		"name": "Children's Games",
+		"leader": "Kintail Staff",
+		"location": "Harmony House/Various Outdoors",
+		"age": "5+",
+		"desc": "Games and outdoor activities taking advantage of what the site and staff have to offer.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "2"
+	},
+	{
+		"name": "Advanced Choir",
+		"leader": "Terry Duncan",
+		"location": "The Nest - Basement",
+		"age": "13+",
+		"desc": "Sing some challenging choral repertoire.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "3"
+	},
+	{
+		"name": "Crafts for Kids",
+		"leader": "Kintail Staff",
+		"location": "Harmony House",
+		"age": "All",
+		"desc": "Different crafts every day.\n\nChildren under the age of 7 need to be accompanied by an adult.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "3"
+	},
+	{
+		"name": "Dance-a-Day",
+		"leader": "Various",
+		"location": "Rec Hall",
+		"age": "TBD",
+		"desc": "Dance a new dance style each day.  Style will be announced at Lunch.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "3"
+	},
+	{
+		"name": "Intermediate Ukulele",
+		"leader": "Kat Brennan & Niki Broadhead",
+		"location": "Nest 2F Meeting Room",
+		"age": "10+",
+		"desc": "Take your ukulele playing to the next level!",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "3"
+	},
+	{
+		"name": "Songs of: Gordon Lightfoot",
+		"leader": "Martin Edwards & Scott Cooper",
+		"location": "Bluevale",
+		"age": "13+",
+		"desc": "A thoughtful overview of the catalogue of this Canadian legend with the goal of learning one song each day.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "3"
+	},
+	{
+		"name": "Sport of the Day",
+		"leader": "Kintail Staff",
+		"location": "Various Outdoors",
+		"age": "All",
+		"desc": "Sport and location will be announced at lunch.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "3"
+	},
+	{
+		"name": "Adult Crafts - 3D Needle Felting",
+		"leader": "Kristine Broadhead",
+		"location": "Nest 2F Meeting Room",
+		"age": "14+",
+		"desc": "Learn how to create a small sculpture through needle felting.  Basic animal project will be suitable for beginners.  Instructions on how to create a sculpture with an armature will allow more advanced students to try something more.  Students must be prepared to potentially prick themselves!\n\n12 attendees total.  Supplies will be provided.",
+		"days": [
+			"1",
+			"2"
+		],
+		"period": "4"
+	},
+	{
+		"name": "Beginner Guitar",
+		"leader": "David Linderman",
+		"location": "Bluevale",
+		"age": "10+",
+		"desc": "Learn your first guitar songs along with chords and strumming patterns.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "4"
+	},
+	{
+		"name": "Book Club",
+		"leader": "Lindsay Weidelich & Liz Gautreau",
+		"location": "Beach/Beach Patio",
+		"age": "13+",
+		"desc": "Fable, by Adrienne Young (YA/Fantasy)\nThe Seven Husbands of Evelyn Hugo, by Taylor Jenkins Reid (Contemporary Fiction)\nAnd The She Fell, by Alicia Elliott (Indigenous/Canadian)\nFinlay Donovan is Killing It, by Elle Cosimano (Thriller/Mystery)\nNote: The day's book being discussed will be announced at Lunch.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "4"
+	},
+	{
+		"name": "Jazz Ensemble",
+		"leader": "Dermot O'Halloran",
+		"location": "Rec Hall",
+		"age": "13+",
+		"desc": "Play through a selection of tunes from across the Jazz lexicon.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "4"
+	},
+	{
+		"name": "Kids' Camp Memories",
+		"leader": "Maya McLeod and Sarah Carmichael",
+		"location": "Harmony House",
+		"age": "5+",
+		"desc": "Scrapbooking and more!",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "4"
+	},
+	{
+		"name": "Strings",
+		"leader": "Marilyn Broadhead",
+		"location": "The Nest - Basement",
+		"age": "All",
+		"desc": "Dust off your violins, violas and cellos! This is a reading-based workshop for string ensemble. We will try to accommodate all ages and levels, but some playing and reading experience on your instrument is necessary. Feel free to bring music you'd like to play.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "4"
+	},
+	{
+		"name": "Beginner Chimes (Hand Bells)",
+		"leader": "Kaitlin Audet",
+		"location": "The Nest - \"Tern\" Room B01",
+		"age": "13+",
+		"desc": "An introduction to playing hand bells in a group.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "5"
+	},
+	{
+		"name": "Beginner Recorder + Ukulele",
+		"leader": "Sue Thompson + Sam Kendall & Sharon Hiebert",
+		"location": "MacDonald Meeting Room",
+		"age": "All/8+",
+		"desc": "You can bring your own recorder or use one provided at beginner recorder.  Younger children need to be accompanied by an adult.\nThe goal of beginner ukulele is to have fun.  We'll learn a little musicianship while we're singing familiar songs and practicing a handful of the most common ukulele chords.  No previous experience required.  Please bring a ukulele, but if you don't have one, we'll figure something out.  Workshops are only 30 minutes long.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "5"
+	},
+	{
+		"name": "Bible Study",
+		"leader": "Alex Jebson",
+		"location": "MacKay Hall",
+		"age": "13+",
+		"desc": "Daily discussion based on the theme for each day. This year, teen and adult bible study is combined.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "5"
+	},
+	{
+		"name": "Celtic Session",
+		"leader": "Dermot O'Halloran",
+		"location": "Bluevale",
+		"age": "13+",
+		"desc": "This workshop will focus on learning an Irish jig. Topics include learning by ear as well as adding traditional ornamentation. This is an instrumental workshop, most suited for wind or stringed instruments capable of playing a single melody line.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "5"
+	},
+	{
+		"name": "Drum Circle",
+		"leader": "Daniel Kendall",
+		"location": "Rec Hall",
+		"age": "8+",
+		"desc": "Learn the basics of hand drumming. Bring your djembes and other drums if you have them.  If not, we have a few loaners.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "5"
+	},
+	{
+		"name": "Youth Open-Mic",
+		"leader": "Alicia Pilgrim & Michael Broadhead",
+		"location": "The Nest - Basement",
+		"age": "13 - young adult",
+		"desc": "A workshop to try out open mic material in a welcoming environment, receive feedback, and learn how to make simple charts to teach your music to potential collaborators.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "5"
+	},
+	{
+		"name": "Mental Health One-on-One",
+		"leader": "Tom Roes",
+		"location": "By Appointment",
+		"age": "All",
+		"desc": "Discussion and insight with a mental health professional. Bring your questions about anxiety, depression, ADHD, self-harm, suicide, or any other mental health topics. Participate as much as you want, whatever works for you.\n\nThis time will be booked individual appointments if you want private discussion.\n\nSupported in part by a bequest to The Presbyterian Church in Canada.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "other"
+	},
+	{
+		"name": "Nature Exploration",
+		"leader": "Sarah and Natalie Dupont",
+		"location": "Outdoors, varies",
+		"age": "5+",
+		"desc": "Time and days may vary depending on the weather and activity.  Listen for announcements for when and where this will run.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "other"
+	},
+	{
+		"name": "Stargazing",
+		"leader": "Colin Brennan",
+		"location": "Outdoors",
+		"age": "13+",
+		"desc": "After dark one evening, take a guided look at the sky through telescopes.  Listen for announcements for time and location of this. ",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "other"
+	},
+	{
+		"name": "Swimming and Canoeing",
+		"leader": "Lifeguards",
+		"location": "The Beach",
+		"age": "All",
+		"desc": "Beach fun from 2:15 - 4:45!",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "other"
+	},
+	{
+		"name": "Adult Crafts - Caligraphy",
+		"leader": "Kenner Jackson",
+		"location": "Harmony House",
+		"age": "13+",
+		"desc": "4 days of learning the basics of calligraphy.",
+		"days": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"period": "5"
+	}
+]

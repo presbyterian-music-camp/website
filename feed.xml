@@ -3,7 +3,7 @@
     <title>Presbyterian Music Camp</title>
     <link href="https://www.presbyterianmusiccamp.ca/feed.xml" rel="self" />
     <link href="https://www.presbyterianmusiccamp.ca" />
-    <updated>2025-04-16T15:57:33-04:00</updated>
+    <updated>2025-07-08T17:41:51-04:00</updated>
     <author>
         <name>Daniel Eisner</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Daniel Eisner</name>
         </author>
-        <link href="https://www.presbyterianmusiccamp.ca/2024.html"/>
-        <id>https://www.presbyterianmusiccamp.ca/2024.html</id>
+        <link href="https://www.presbyterianmusiccamp.ca/pmc-2024.html"/>
+        <id>https://www.presbyterianmusiccamp.ca/pmc-2024.html</id>
 
         <updated>2024-10-01T09:25:12-04:00</updated>
             <summary>
@@ -32,7 +32,7 @@
 <p>This week we invite you to come as you are into relationship with one another and with Christ. We want to explore the idea that all are welcome into this relationship and the life changing impact this can have. The final night there is a Banquet and Dance.</p>
 <p><a href="https://www.presbyterianmusiccamp.ca/2024_PMC_camper_guide_final.pdf" target="_blank" rel="noopener noreferrer">2024 Camper Guide</a></p>
 <p><a href="https://www.presbyterianmusiccamp.ca/packing_list_2024.doc" target="_blank" rel="noopener noreferrer"></a><a href="https://www.presbyterianmusiccamp.ca/packing_list_2024.doc" target="_blank" rel="noopener noreferrer">Packing List 2024</a></p>
-<p><a href="https://www.presbyterianmusiccamp.ca/pmc-schedule-2023-2.html" target="_blank" rel="noopener noreferrer">2024 Workshop Schedule</a></p>
+<p><a href="https://www.presbyterianmusiccamp.ca/pmc-schedule-2024.html" target="_blank" rel="noopener noreferrer">2024 Workshop Schedule</a></p>
 <p><a href="https://www.presbyterianmusiccamp.ca/PMC Week Schedule 2024.pdf" target="_blank" rel="noopener noreferrer">2024 Week Schedule</a></p>
 <p><a href="https://www.presbyterianmusiccamp.ca/Dean Email.docx">Dean's Letter</a></p>
             ]]>
@@ -43,8 +43,8 @@
         <author>
             <name>Daniel Eisner</name>
         </author>
-        <link href="https://www.presbyterianmusiccamp.ca/pmc-schedule-2023-2.html"/>
-        <id>https://www.presbyterianmusiccamp.ca/pmc-schedule-2023-2.html</id>
+        <link href="https://www.presbyterianmusiccamp.ca/pmc-schedule-2024.html"/>
+        <id>https://www.presbyterianmusiccamp.ca/pmc-schedule-2024.html</id>
 
         <updated>2024-07-15T21:37:43-04:00</updated>
             <summary>
@@ -136,7 +136,7 @@
 				})
 			})
 		})
-		fetch('https://jmf.duckdns.org/static/schedule.json', {
+		fetch('https://www.presbyterianmusiccamp.ca/schedule-2024.json', {
 				mode: 'cors'
 			})
 			.then(res => res.json())
@@ -283,8 +283,8 @@
         <author>
             <name>Daniel Eisner</name>
         </author>
-        <link href="https://www.presbyterianmusiccamp.ca/this-year-5.html"/>
-        <id>https://www.presbyterianmusiccamp.ca/this-year-5.html</id>
+        <link href="https://www.presbyterianmusiccamp.ca/pmc-2023.html"/>
+        <id>https://www.presbyterianmusiccamp.ca/pmc-2023.html</id>
 
         <updated>2023-10-04T20:20:22-04:00</updated>
             <summary>
@@ -558,8 +558,8 @@
         <author>
             <name>Daniel Eisner</name>
         </author>
-        <link href="https://www.presbyterianmusiccamp.ca/this-year-4.html"/>
-        <id>https://www.presbyterianmusiccamp.ca/this-year-4.html</id>
+        <link href="https://www.presbyterianmusiccamp.ca/pmc-2022.html"/>
+        <id>https://www.presbyterianmusiccamp.ca/pmc-2022.html</id>
 
         <updated>2022-09-20T21:35:00-04:00</updated>
             <summary>
