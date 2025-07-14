@@ -49,6 +49,13 @@
     "period": "3"
   },
   {
+    "name": "Book Club",
+    "location": "MacDonald Meeting Room",
+    "age": "13+",
+    "desc": "Not in the morning",
+    "period": "3"
+  },
+  {
     "name": "Cherubs",
     "location": "The Nest Basement",
     "age": "up to 5",
@@ -68,20 +75,6 @@
     "age": "13+",
     "desc": "5 days of learning the basics of calligraphy.  Please bring your own pens [suggestion here].",
     "period": "4"
-  },
-  {
-    "name": "Strings",
-    "location": "The Nest Basement",
-    "age": "All",
-    "desc": "Dust off your violins, violas and cellos! This is a reading-based workshop for string ensemble. We will try to accommodate all ages and levels, but some playing and reading experience on your instrument is necessary. Feel free to bring music you'd like to play.",
-    "period": "4"
-  },
-  {
-    "name": "Adult Crafts - 3D Needle Felting",
-    "location": "The Nest 2F Meeting Room",
-    "age": "14+",
-    "desc": "Learn how to create a small sculpture through needle felting.  Basic animal project will be suitable for beginners.  Instructions on how to create a sculpture with an armature will allow more advanced students to try something more.  Students must be prepared to potentially prick themselves!\n\n12 attendees total.  Supplies will be provided.",
-    "period": "3"
   },
   {
     "name": "Bible Study",
@@ -140,13 +133,6 @@
     "period": "4"
   },
   {
-    "name": "Advanced Choir",
-    "location": "The Nest Basement",
-    "age": "13+",
-    "desc": "Sing some challenging choral repertoire.",
-    "period": "3"
-  },
-  {
     "name": "Swing Dance",
     "location": "Rec Hall",
     "age": "TBD",
@@ -166,20 +152,6 @@
     "age": "13+",
     "desc": "Expand your knowledge of chords and the guitar neck with accessible shapes and songs to play them.",
     "period": "3"
-  },
-  {
-    "name": "Beginner Recorder + Ukulele",
-    "location": "Bluevale Deck",
-    "age": "All/8+",
-    "desc": "You can bring your own recorder or use one provided at beginner recorder.  Younger children need to be accompanied by an adult.\nThe goal of beginner ukulele is to have fun.  We'll learn a little musicianship while we're singing familiar songs and practicing a handful of the most common ukulele chords.  No previous experience required.  Please bring a ukulele, but if you don't have one, we'll figure something out.  Workshops are only 30 minutes long.",
-    "period": "5"
-  },
-  {
-    "name": "Drum Circle",
-    "location": "Rec Hall",
-    "age": "8+",
-    "desc": "Learn the basics of hand drumming. Bring your djembes and other drums if you have them.  If not, we have a few loaners.",
-    "period": "5"
   },
   {
     "name": "Intermediate Hand Bells",
@@ -224,10 +196,45 @@
     "age": "13+"
   },
   {
-    "name": "Book Club",
-    "location": "MacDonald Meeting Room",
+    "name": "Stargazing",
+    "desc": "After dark one evening, join a session of amateur astronomy and admire the night sky through a telescope. Listen for announcements for time and location for this.",
+    "location": "Outdoors",
+    "period": "Evening",
+    "age": "13+"
+  },
+  {
+    "name": "Beginner/Early Recorder + Ukulele",
+    "location": "Bluevale Deck",
+    "age": "6+ (adult accompaniment required under age 6)",
+    "desc": "Beginner/Early Recorder (1st half hour) - You can bring your own recorder or use one provided at beginner recorder. Workshops are only 30 minutes long.\n\nBeginner Ukulele (2nd half hour) - The goal of beginner ukulele is to have fun. We'll learn a little musicianship while we're singing familiar songs and practicing a handful of the most common ukulele chords. No previous experience required. Please bring a ukulele, but if you don't have one we have some you can borrow. Workshops are only 30 minutes long.",
+    "period": "5"
+  },
+  {
+    "name": "Strings",
+    "location": "The Nest Basement",
+    "age": "All",
+    "desc": "Dust off your violins, violas and cellos! This is a reading-based workshop for string ensemble. We will try to accommodate all ages and levels, but some playing and reading experience on your instrument is necessary.",
+    "period": "4"
+  },
+  {
+    "name": "Drum Circle",
+    "location": "Rec Hall",
+    "age": "8+",
+    "desc": "Learn the basics of hand drumming. Bring your djembes and other drums if you have them.  If not, we have a few loaners.",
+    "period": "5"
+  },
+  {
+    "name": "Advanced Choir",
+    "location": "The Nest Basement",
     "age": "13+",
-    "desc": "Titles to follow",
+    "desc": "This year's Advanced Choir repertoire will include a spiritual from the Georgia Sea Islands, a reimagined setting of The Times They Are A-Changin' and more! Suitable for singers who read music.",
+    "period": "3"
+  },
+  {
+    "name": "Adult Crafts - 3D Needle Felting (M-Th)",
+    "location": "The Nest 2F Meeting Room",
+    "age": "14+",
+    "desc": "Learn how to create a small sculpture through needle felting.  Basic animal project will be suitable for beginners.  Instructions on how to create a sculpture with an armature will allow more advanced students to try something more.  Students must be prepared to potentially prick themselves!\n\n12 attendees total.  Supplies will be provided.",
     "period": "3"
   }
 ]
