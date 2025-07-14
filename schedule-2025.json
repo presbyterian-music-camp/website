@@ -1,0 +1,233 @@
+[
+  {
+    "name": "Swimming and Canoeing",
+    "location": "The Beach",
+    "age": "All",
+    "desc": "Beach fun from 2:15 - 4:45!",
+    "period": "2:15pm - 4:45pm"
+  },
+  {
+    "name": "Children's Games",
+    "location": "Harmony House",
+    "age": "5+",
+    "desc": "Games and outdoor activities taking advantage of what the site and staff have to offer.",
+    "period": "2"
+  },
+  {
+    "name": "Crafts for Kids",
+    "location": "Harmony House",
+    "age": "All",
+    "desc": "Different crafts every day.\n\nChildren under the age of 7 need to be accompanied by an adult.",
+    "period": "3"
+  },
+  {
+    "name": "Kids' Camp Memories",
+    "location": "Harmony House",
+    "age": "5+",
+    "desc": "Scrapbooking and more!",
+    "period": "5"
+  },
+  {
+    "name": "Banjo",
+    "location": "MacDonald Meeting Room",
+    "age": "13+",
+    "desc": "This is a safe space for banjo players and enthusiasts to escape persecution and learn styles and techniques on a 5 string instrument.",
+    "period": "1"
+  },
+  {
+    "name": "Children's Choir",
+    "location": "Harmony House",
+    "age": "6-12",
+    "desc": "A choir for children, aged 6-12.  Sing fun songs with your friends and see how much fun a choir can be!",
+    "period": "1"
+  },
+  {
+    "name": "Sport of the Day",
+    "location": "Various Outdoors",
+    "age": "All",
+    "desc": "Sport and location will be announced at lunch.",
+    "period": "3"
+  },
+  {
+    "name": "Cherubs",
+    "location": "The Nest Basement",
+    "age": "up to 5",
+    "desc": "A fun place for toddlers and pre-schoolers to play and laugh while their parents do Workshops in Other Locations or just hang out with their kids and other parents.",
+    "period": "1"
+  },
+  {
+    "name": "Cherubs (continued)",
+    "location": "The Nest Basement",
+    "age": "up to 5",
+    "desc": "A fun place for toddlers and pre-schoolers to play and laugh while their parents do Workshops in Other Locations or just hang out with their kids and other parents.",
+    "period": "2"
+  },
+  {
+    "name": "Adult Crafts - Caligraphy",
+    "location": "Harmony House",
+    "age": "13+",
+    "desc": "5 days of learning the basics of calligraphy.  Please bring your own pens [suggestion here].",
+    "period": "4"
+  },
+  {
+    "name": "Strings",
+    "location": "The Nest Basement",
+    "age": "All",
+    "desc": "Dust off your violins, violas and cellos! This is a reading-based workshop for string ensemble. We will try to accommodate all ages and levels, but some playing and reading experience on your instrument is necessary. Feel free to bring music you'd like to play.",
+    "period": "4"
+  },
+  {
+    "name": "Adult Crafts - 3D Needle Felting",
+    "location": "The Nest 2F Meeting Room",
+    "age": "14+",
+    "desc": "Learn how to create a small sculpture through needle felting.  Basic animal project will be suitable for beginners.  Instructions on how to create a sculpture with an armature will allow more advanced students to try something more.  Students must be prepared to potentially prick themselves!\n\n12 attendees total.  Supplies will be provided.",
+    "period": "3"
+  },
+  {
+    "name": "Bible Study",
+    "location": "The Nest 2F Meeting Room",
+    "age": "13+",
+    "desc": "Daily discussion based on the theme for each day. Could include hymns too?",
+    "period": "4"
+  },
+  {
+    "name": "Intermediate Ukulele",
+    "location": "The Nest 2F Meeting Room",
+    "age": "10+",
+    "desc": "Take your ukulele playing to the next level!",
+    "period": "5"
+  },
+  {
+    "name": "Beginner Guitar",
+    "location": "MacDonald Meeting Room",
+    "age": "10+",
+    "desc": "Learn your first guitar songs along with chords and strumming patterns.",
+    "period": "2"
+  },
+  {
+    "name": "Camp Choir",
+    "location": "Rec Hall",
+    "age": "13+",
+    "desc": "Four-part singing for campers of any musical ability. Music reading is not required.",
+    "period": "1"
+  },
+  {
+    "name": "Concert Band",
+    "location": "Rec Hall",
+    "age": "13+",
+    "desc": "Instrumental music for woodwinds, brass & percussion – bring your own instrument, and a music stand if you have one.",
+    "period": "2"
+  },
+  {
+    "name": "90s Garage Band",
+    "location": "Rec Hall",
+    "age": "13+",
+    "desc": "Get out your flannel and torn jeans, dye and spike your hair, or just come to jam out to some 90s tunes.",
+    "period": "4"
+  },
+  {
+    "name": "Beginner Hand Bells",
+    "location": "The Nest - \"Tern\" Room B01",
+    "age": "13+",
+    "desc": "An introduction to playing hand bells in a group.",
+    "period": "4"
+  },
+  {
+    "name": "Celtic Session",
+    "location": "Bluevale Deck",
+    "age": "13+",
+    "desc": "This workshop will focus on learning an Irish jig. Topics include learning by ear as well as adding traditional ornamentation. This is an instrumental workshop, most suited for wind or stringed instruments capable of playing a single melody line.",
+    "period": "4"
+  },
+  {
+    "name": "Advanced Choir",
+    "location": "The Nest Basement",
+    "age": "13+",
+    "desc": "Sing some challenging choral repertoire.",
+    "period": "3"
+  },
+  {
+    "name": "Swing Dance",
+    "location": "Rec Hall",
+    "age": "TBD",
+    "desc": "to follow",
+    "period": "3"
+  },
+  {
+    "name": "Polyphonic and Chant Choir",
+    "location": "The Nest Basement",
+    "age": "13 - young adult",
+    "desc": "Come explore the world of unaccompanied polyphony and sacred chant, with music from both eastern and western Christian traditions! Singers should be comfortable reading music and open to trying something new and probably esoteric.",
+    "period": "5"
+  },
+  {
+    "name": "Intermediate Guitar",
+    "location": "Bluevale Deck",
+    "age": "13+",
+    "desc": "Expand your knowledge of chords and the guitar neck with accessible shapes and songs to play them.",
+    "period": "3"
+  },
+  {
+    "name": "Beginner Recorder + Ukulele",
+    "location": "Bluevale Deck",
+    "age": "All/8+",
+    "desc": "You can bring your own recorder or use one provided at beginner recorder.  Younger children need to be accompanied by an adult.\nThe goal of beginner ukulele is to have fun.  We'll learn a little musicianship while we're singing familiar songs and practicing a handful of the most common ukulele chords.  No previous experience required.  Please bring a ukulele, but if you don't have one, we'll figure something out.  Workshops are only 30 minutes long.",
+    "period": "5"
+  },
+  {
+    "name": "Drum Circle",
+    "location": "Rec Hall",
+    "age": "8+",
+    "desc": "Learn the basics of hand drumming. Bring your djembes and other drums if you have them.  If not, we have a few loaners.",
+    "period": "5"
+  },
+  {
+    "name": "Intermediate Hand Bells",
+    "location": "The Nest - \"Tern\" Room B01",
+    "period": "5",
+    "age": "13+",
+    "desc": "TBD"
+  },
+  {
+    "name": "Late Night Jazz Jam",
+    "location": "The Nest Basement",
+    "period": "9pm (W/Th)",
+    "desc": "Play some Jazz tunes with the astounding PMC Jazz Collective.",
+    "age": "13+"
+  },
+  {
+    "name": "Mental Health Workshop (cont.)",
+    "location": "MacDonald Meeting Room",
+    "age": "13+",
+    "desc": "The continuation of Expressive Art Experience (M/W/F).  Workshop runs from 3:00pm - 4:40pm.",
+    "period": "5"
+  },
+  {
+    "name": "Mental Health Workshop",
+    "location": "MacDonald Meeting Room",
+    "age": "All",
+    "desc": "M/W/F  Therapeutic expressive art experience.  More detail to follow.  Note: limit of 15 campers at each session.\nSupported in part by a bequest to The Presbyterian Church in Canada.\n\nT/Th  Music in Occupational Therapy and Mental Health Hygiene.\n\n",
+    "period": "4"
+  },
+  {
+    "name": "Mindfulness / Relaxation",
+    "location": "The Nest 2F Meeting Room",
+    "period": "2",
+    "desc": "Mindfulness (M/W/F)  - This workshop is for the mind, body and spirit as we explore ways to calm the nervous system. As a group we will relax, share, breathe, walk, create, appreciate, learn, experience and connect with ourselves, with each other and with nature.\n\nRelaxation (T/Th) - Take some time for yourself and enjoy guided relaxations.",
+    "age": "13+"
+  },
+  {
+    "name": "Create & Relate",
+    "location": "Varies",
+    "period": "Varies",
+    "desc": "Less structured crafting & conversation.  Listen for an announcement at meal times or ask.",
+    "age": "13+"
+  },
+  {
+    "name": "Book Club",
+    "location": "MacDonald Meeting Room",
+    "age": "13+",
+    "desc": "Titles to follow",
+    "period": "3"
+  }
+]
