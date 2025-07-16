@@ -49,13 +49,6 @@
     "period": "3"
   },
   {
-    "name": "Book Club",
-    "location": "MacDonald Meeting Room",
-    "age": "13+",
-    "desc": "Not in the morning",
-    "period": "3"
-  },
-  {
     "name": "Cherubs",
     "location": "The Nest Basement",
     "age": "up to 5",
@@ -70,13 +63,6 @@
     "period": "2"
   },
   {
-    "name": "Adult Crafts - Caligraphy",
-    "location": "Harmony House",
-    "age": "13+",
-    "desc": "5 days of learning the basics of calligraphy.  Please bring your own pens [suggestion here].",
-    "period": "4"
-  },
-  {
     "name": "Bible Study",
     "location": "The Nest 2F Meeting Room",
     "age": "13+",
@@ -89,13 +75,6 @@
     "age": "10+",
     "desc": "Take your ukulele playing to the next level!",
     "period": "5"
-  },
-  {
-    "name": "Beginner Guitar",
-    "location": "MacDonald Meeting Room",
-    "age": "10+",
-    "desc": "Learn your first guitar songs along with chords and strumming patterns.",
-    "period": "2"
   },
   {
     "name": "Camp Choir",
@@ -133,25 +112,11 @@
     "period": "4"
   },
   {
-    "name": "Swing Dance",
-    "location": "Rec Hall",
-    "age": "TBD",
-    "desc": "to follow",
-    "period": "3"
-  },
-  {
     "name": "Polyphonic and Chant Choir",
     "location": "The Nest Basement",
     "age": "13 - young adult",
     "desc": "Come explore the world of unaccompanied polyphony and sacred chant, with music from both eastern and western Christian traditions! Singers should be comfortable reading music and open to trying something new and probably esoteric.",
     "period": "5"
-  },
-  {
-    "name": "Intermediate Guitar",
-    "location": "Bluevale Deck",
-    "age": "13+",
-    "desc": "Expand your knowledge of chords and the guitar neck with accessible shapes and songs to play them.",
-    "period": "3"
   },
   {
     "name": "Intermediate Hand Bells",
@@ -173,20 +138,6 @@
     "age": "13+",
     "desc": "The continuation of Expressive Art Experience (M/W/F).  Workshop runs from 3:00pm - 4:40pm.",
     "period": "5"
-  },
-  {
-    "name": "Mental Health Workshop",
-    "location": "MacDonald Meeting Room",
-    "age": "All",
-    "desc": "M/W/F  Therapeutic expressive art experience.  More detail to follow.  Note: limit of 15 campers at each session.\nSupported in part by a bequest to The Presbyterian Church in Canada.\n\nT/Th  Music in Occupational Therapy and Mental Health Hygiene.\n\n",
-    "period": "4"
-  },
-  {
-    "name": "Mindfulness / Relaxation",
-    "location": "The Nest 2F Meeting Room",
-    "period": "2",
-    "desc": "Mindfulness (M/W/F)  - This workshop is for the mind, body and spirit as we explore ways to calm the nervous system. As a group we will relax, share, breathe, walk, create, appreciate, learn, experience and connect with ourselves, with each other and with nature.\n\nRelaxation (T/Th) - Take some time for yourself and enjoy guided relaxations.",
-    "age": "13+"
   },
   {
     "name": "Create & Relate",
@@ -235,6 +186,55 @@
     "location": "The Nest 2F Meeting Room",
     "age": "14+",
     "desc": "Learn how to create a small sculpture through needle felting.  Basic animal project will be suitable for beginners.  Instructions on how to create a sculpture with an armature will allow more advanced students to try something more.  Students must be prepared to potentially prick themselves!\n\n12 attendees total.  Supplies will be provided.",
+    "period": "3"
+  },
+  {
+    "name": "Intermediate Guitar",
+    "location": "MacDonald Meeting Room",
+    "age": "13+",
+    "desc": "Expand your knowledge of chords and the guitar neck with accessible shapes and songs to play them.",
+    "period": "2"
+  },
+  {
+    "name": "Beginner Guitar",
+    "location": "Bluevale Deck",
+    "age": "10+",
+    "desc": "Learn your first guitar songs along with chords and strumming patterns.",
+    "period": "3"
+  },
+  {
+    "name": "Mindfulness / Relaxation",
+    "location": "The Nest 2F Meeting Room",
+    "period": "2",
+    "desc": "Mindfulness (3 days - weather dependent)  - This workshop is for the mind, body and spirit as we explore ways to calm the nervous system. As a group we will relax, share, breathe, walk, create, appreciate, learn, experience and connect with ourselves, with each other and with nature.  A yoga mat or blanket may be used on one or more days.\n\nRelaxation (2 days) - Take some time for yourself and enjoy guided relaxations.\n\nNote: Listen for an announcement at breakfast on which option will run on each day.",
+    "age": "18+"
+  },
+  {
+    "name": "Mental Health Workshop (M/W/F)",
+    "location": "MacDonald Meeting Room",
+    "age": "13+",
+    "desc": "Therapeutic expressive art experience.  More detail to follow.  Note: limit of 15 campers at each session.\nSupported in part by a bequest to The Presbyterian Church in Canada.\n",
+    "period": "4"
+  },
+  {
+    "name": "Adult Crafts - Calligraphy",
+    "location": "Harmony House",
+    "age": "13+",
+    "desc": "5 days of learning the basics of calligraphy.  Please bring your own pens [suggestion to follow].",
+    "period": "4"
+  },
+  {
+    "name": "Swing Dance",
+    "location": "Rec Hall",
+    "age": "TBD",
+    "desc": "Learn to dance to vintage jazz music from the 1930s and 40s! We'll be teaching the Lindy Hop -- a partnered dance that was popular back in that time and has seen a comeback in the past few decades. The focus will be on teaching basic moves and dance vocabulary to let you improvise and have fun on the social dance floor, rather than on preparing a choreographed routine. You don't need to bring a dance partner (you can if you want though), as we'll be rotating partners every few minutes during the workshop.",
+    "period": "3"
+  },
+  {
+    "name": "Book Club",
+    "location": "MacDonald Meeting Room",
+    "age": "13+",
+    "desc": "Book list to follow",
     "period": "3"
   }
 ]
