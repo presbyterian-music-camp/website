@@ -112,13 +112,6 @@
     "period": "4"
   },
   {
-    "name": "Polyphonic and Chant Choir",
-    "location": "The Nest Basement",
-    "age": "13 - young adult",
-    "desc": "Come explore the world of unaccompanied polyphony and sacred chant, with music from both eastern and western Christian traditions! Singers should be comfortable reading music and open to trying something new and probably esoteric.",
-    "period": "5"
-  },
-  {
     "name": "Intermediate Hand Bells",
     "location": "The Nest - \"Tern\" Room B01",
     "period": "5",
@@ -217,13 +210,6 @@
     "period": "4"
   },
   {
-    "name": "Adult Crafts - Calligraphy",
-    "location": "Harmony House",
-    "age": "13+",
-    "desc": "5 days of learning the basics of calligraphy.  Please bring your own pens [suggestion to follow].",
-    "period": "4"
-  },
-  {
     "name": "Swing Dance",
     "location": "Rec Hall",
     "age": "TBD",
@@ -236,5 +222,19 @@
     "age": "13+",
     "desc": "Book list to follow",
     "period": "3"
+  },
+  {
+    "name": "Polyphonic and Chant Choir",
+    "location": "The Nest Basement",
+    "age": "13+",
+    "desc": "Come explore the world of unaccompanied polyphony and sacred chant, with music from both eastern and western Christian traditions! Singers should be comfortable reading music and open to trying something new and probably esoteric.",
+    "period": "5"
+  },
+  {
+    "name": "Adult Crafts - Calligraphy",
+    "location": "Harmony House",
+    "age": "13+",
+    "desc": "5 days of learning the basics of calligraphy.  Please bring your own pens: a broad nibbed black marker or a refillable ink pen (such as a Sheaffer) for those with more experience.  Along with your pen, you should bring a pencil, eraser, and ruler.",
+    "period": "4"
   }
 ]
