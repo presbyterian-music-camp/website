@@ -217,13 +217,6 @@
     "period": "3"
   },
   {
-    "name": "Book Club",
-    "location": "MacDonald Meeting Room",
-    "age": "13+",
-    "desc": "Book list to follow",
-    "period": "3"
-  },
-  {
     "name": "Polyphonic and Chant Choir",
     "location": "The Nest Basement",
     "age": "13+",
@@ -236,5 +229,12 @@
     "age": "13+",
     "desc": "5 days of learning the basics of calligraphy.  Please bring your own pens: a broad nibbed black marker or a refillable ink pen (such as a Sheaffer) for those with more experience.  Along with your pen, you should bring a pencil, eraser, and ruler.",
     "period": "4"
+  },
+  {
+    "name": "Book Club",
+    "location": "MacDonald Meeting Room",
+    "age": "13+",
+    "desc": "Contemporary Fiction: The Briar Club, by Kate Quinn\nCanadian Author: Crow Lake, by Mary Lawson\nYA Fiction: The Siren, by Kiera Cass\nClassic: Pride and Prejudice, by Jane Austen\nFriday BYOB Bonus: Bring Your Own Book! Come share a bit about a favourite book that you always recommend to other readers, or chat about whatever you are currently reading!\n\nListen for an announcement at lunch for the book/category of the day.",
+    "period": "3"
   }
 ]
