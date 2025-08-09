@@ -126,13 +126,6 @@
     "age": "13+"
   },
   {
-    "name": "Mental Health Workshop (cont.)",
-    "location": "MacDonald Meeting Room",
-    "age": "13+",
-    "desc": "The continuation of Expressive Art Experience (M/W/F).  Workshop runs from 3:00pm - 4:40pm.",
-    "period": "5"
-  },
-  {
     "name": "Create & Relate",
     "location": "Varies",
     "period": "Varies",
@@ -203,13 +196,6 @@
     "age": "18+"
   },
   {
-    "name": "Mental Health Workshop (M/W/F)",
-    "location": "MacDonald Meeting Room",
-    "age": "13+",
-    "desc": "Therapeutic expressive art experience.  More detail to follow.  Note: limit of 15 campers at each session.\nSupported in part by a bequest to The Presbyterian Church in Canada.\n",
-    "period": "4"
-  },
-  {
     "name": "Swing Dance",
     "location": "Rec Hall",
     "age": "TBD",
@@ -236,5 +222,20 @@
     "age": "13+",
     "desc": "Contemporary Fiction: The Briar Club, by Kate Quinn\nCanadian Author: Crow Lake, by Mary Lawson\nYA Fiction: The Siren, by Kiera Cass\nClassic: Pride and Prejudice, by Jane Austen\nFriday BYOB Bonus: Bring Your Own Book! Come share a bit about a favourite book that you always recommend to other readers, or chat about whatever you are currently reading!\n\nListen for an announcement at lunch for the book/category of the day.",
     "period": "3"
-  }
+  },
+  {
+    "name": "Mental Health Workshop (cont.)",
+    "location": "MacDonald Meeting Room",
+    "age": "13+",
+    "desc": "The continuation of Expressive Art Experience (M/W/F).  Workshop runs from 3:15pm - 4:50pm.",
+    "period": "5"
+  },
+  {
+    "name": "Mental Health Workshop (M/W/F)",
+    "location": "MacDonald Meeting Room",
+    "age": "13+",
+    "desc": "Therapeutic expressive art experience.  More detail to follow.  Note: limit of 15 campers at each session.  The workshop will begin at 3:15pm and continue until 4:50pm.  A detailed description is available on the sign-up sheet in the dining hall.\n\nSupported in part by a bequest to The Presbyterian Church in Canada.\n",
+    "period": "4"
+  },
+  {}
 ]
