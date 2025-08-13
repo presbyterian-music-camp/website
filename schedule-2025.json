@@ -21,13 +21,6 @@
     "period": "3"
   },
   {
-    "name": "Kids' Camp Memories",
-    "location": "Harmony House",
-    "age": "5+",
-    "desc": "Scrapbooking and more!",
-    "period": "5"
-  },
-  {
     "name": "Banjo",
     "location": "MacDonald Meeting Room",
     "age": "13+",
@@ -112,13 +105,6 @@
     "period": "4"
   },
   {
-    "name": "Intermediate Hand Bells",
-    "location": "The Nest - \"Tern\" Room B01",
-    "period": "5",
-    "age": "13+",
-    "desc": "TBD"
-  },
-  {
     "name": "Late Night Jazz Jam",
     "location": "The Nest Basement",
     "period": "9pm (W/Th)",
@@ -165,13 +151,6 @@
     "location": "The Nest Basement",
     "age": "13+",
     "desc": "This year's Advanced Choir repertoire will include a spiritual from the Georgia Sea Islands, a reimagined setting of The Times They Are A-Changin' and more! Suitable for singers who read music.",
-    "period": "3"
-  },
-  {
-    "name": "Adult Crafts - 3D Needle Felting (M-Th)",
-    "location": "The Nest 2F Meeting Room",
-    "age": "14+",
-    "desc": "Learn how to create a small sculpture through needle felting.  Basic animal project will be suitable for beginners.  Instructions on how to create a sculpture with an armature will allow more advanced students to try something more.  Students must be prepared to potentially prick themselves!\n\n12 attendees total.  Supplies will be provided.",
     "period": "3"
   },
   {
@@ -224,17 +203,59 @@
     "period": "3"
   },
   {
-    "name": "Mental Health Workshop (cont.)",
+    "name": "Kids' Camp Memories",
+    "location": "Harmony House",
+    "age": "5+",
+    "desc": "Scrapbooking and more!",
+    "period": "5"
+  },
+  {
+    "name": "Adult Crafts - 3D Needle Felting (M-Th)",
+    "location": "The Nest 2F Meeting Room",
+    "age": "14+",
+    "desc": "Learn how to create a small sculpture through needle felting.  Basic animal project will be suitable for beginners.  Instructions on how to create a sculpture with an armature will allow more advanced students to try something more.  Students must be prepared to potentially prick themselves!  4 day workshop.\n\nLimit of 14 attendees.  Supplies will be provided.  Come with a project idea, preferably one that will make use of our supply of black yarn!\n12 attendees total.  Supplies will be provided.",
+    "period": "3"
+  },
+  {
+    "name": "Expressive Arts Therapy (M/W/F)",
+    "location": "MacDonald Meeting Room",
+    "age": "13+",
+    "desc": "Therapeutic expressive art experience.  More detail to follow.  Note: limit of 15 campers at each session.  The workshop will begin at 3:15pm and continue until 4:50pm.  A detailed description is available on the sign-up sheet in the dining hall.\n\nSupported in part by a bequest to The Presbyterian Church in Canada.\n",
+    "period": "4"
+  },
+  {
+    "name": "Expressive Arts Therapy (cont.)",
     "location": "MacDonald Meeting Room",
     "age": "13+",
     "desc": "The continuation of Expressive Art Experience (M/W/F).  Workshop runs from 3:15pm - 4:50pm.",
     "period": "5"
   },
   {
-    "name": "Mental Health Workshop (M/W/F)",
-    "location": "MacDonald Meeting Room",
-    "age": "13+",
-    "desc": "Therapeutic expressive art experience.  More detail to follow.  Note: limit of 15 campers at each session.  The workshop will begin at 3:15pm and continue until 4:50pm.  A detailed description is available on the sign-up sheet in the dining hall.\n\nSupported in part by a bequest to The Presbyterian Church in Canada.\n",
-    "period": "4"
+    "name": "Morning Prayer",
+    "age": "All",
+    "desc": "Sometimes prayer can feel like a monologue -- but it can be a real conversation. We'll be praying with Scripture as a way to bring our whole selves to God and as a way to listen for God's voice. Come and be with God with old friends and new, as we explore ways of prayer adapted from St. Ignatius of Loyola.",
+    "location": "outside covered area of Dining Hall",
+    "period": "7:00am - 7:20+am"
+  },
+  {
+    "name": "Intermediate Hand Bells",
+    "location": "The Nest - \"Tern\" Room B01",
+    "period": "5",
+    "age": "13-99",
+    "desc": "Requirements: either,\nA: Good sight reading and experience in a bell choir, or\nB: Proficiency in a musical instrument and strong sight reading skills.\n\nI have two really fun pieces by Jason Krug that combine bell and chime playing.  The first is a big, triumphant show piece, and incorporates mart lifts and thumb damps.  The second is a delicate arrangement of a gorgeous Korean melody.  We’ll get the notes down and then focus on dynamics and melodic line."
+  },
+  {
+    "name": "Chair Yoga",
+    "age": "All",
+    "desc": "Morning chair yoga, adaptable for every body and comfort level, gentle movements and meditations to greet the day and wake up the body and mind.\n\n(Harmony House rain location)",
+    "location": "Beach Deck",
+    "period": "7:00am - 7:30am"
+  },
+  {
+    "name": "Polar Bear Swim",
+    "desc": "\"Come in, the water's fine\"",
+    "location": "The Beach",
+    "period": "7:00am - 7:30am",
+    "age": "All"
   }
 ]
