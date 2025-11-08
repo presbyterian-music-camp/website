@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "https://www.presbyterianmusiccamp.ca/policies.html",
-            "url": "https://www.presbyterianmusiccamp.ca/policies.html",
+            "id": "https://www.presbyterianmusiccamp.ca/policy-statements.html",
+            "url": "https://www.presbyterianmusiccamp.ca/policy-statements.html",
             "title": "Policy Statements",
             "summary": "Welcome Statement Code of Conduct Anti-Harassment Policy Black Lives Matter Statement Camp Kintail (our Host&hellip;",
             "content_html": "<p><a href=\"https://www.presbyterianmusiccamp.ca/welcome-statement.html\" target=\"_blank\" rel=\"noopener noreferrer\">Welcome Statement</a></p>\n<p><a href=\"https://www.presbyterianmusiccamp.ca/covenant.html\" target=\"_blank\" rel=\"noopener noreferrer\">Code of Conduct</a></p>\n<p><a href=\"#INTERNAL_LINK#/post/null\"></a><a href=\"https://www.presbyterianmusiccamp.ca/anti-harassment-policy.html\" target=\"_blank\" rel=\"noopener noreferrer\">Anti-Harassment Policy</a></p>\n<p><a href=\"https://www.presbyterianmusiccamp.ca/black-lives-matter-statement.html\" target=\"_blank\" rel=\"noopener noreferrer\">Black Lives Matter Statement</a></p>\n<p><a href=\"https://www.campkintail.ca/about-us#territorialacknowledgement\" target=\"_blank\" rel=\"noopener noreferrer\">Camp Kintail (our Host Site) Territorial Acknowledgement</a></p>\n<p><a href=\"https://www.presbyterianmusiccamp.ca/merchandising-policy.html\" target=\"_blank\" rel=\"noopener noreferrer\">Merchanding Policy</a></p>",
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2025-11-08T11:58:38-05:00",
-            "date_modified": "2025-11-08T12:07:44-05:00"
+            "date_modified": "2025-11-08T12:13:46-05:00"
         },
         {
             "id": "https://www.presbyterianmusiccamp.ca/merchandising-policy.html",
