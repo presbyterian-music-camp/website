@@ -1,0 +1,152 @@
+<!DOCTYPE html><html><head><title>Presbyterian Music Camp</title><link rel="shortcut icon" type="image/png" href="https://www.presbyterianmusiccamp.ca/media/website/favicon3.png"><link rel="stylesheet" href="https://www.presbyterianmusiccamp.ca/assets/css/style.css?v=5505abf45a2f2a48745c136f760f54ef"><script type="text/javascript">window.heap = window.heap || [], heap.load = function(e, t) {
+        window.heap.appid = e, window.heap.config = t = t || {};
+        var r = t.forceSSL || "https:" === document.location.protocol, a = document.createElement("script");
+        a.type="text/javascript", a.async = !0, a.src = (r ? "https:" : "http:") + "//cdn.heapanalytics.com/js/heap-" + e + ".js";
+        var n = document.getElementsByTagName("script")[0];
+        n.parentNode.insertBefore(a, n);
+        for(
+          var
+            o = function(e) { return function() {
+              heap.push([e].concat(Array.prototype.slice.call(arguments, 0)))
+            }},
+            p = [
+              "addEventProperties",
+              "addUserProperties",
+              "clearEventProperties",
+              "identify",
+              "resetIdentity",
+              "removeEventProperty",
+              "setEventProperties",
+              "track",
+              "unsetEventProperty",
+            ],
+            c = 0;
+          c < p.length;
+          c++
+        ) heap[p[c]] = o(p[c])
+      };
+      heap.load("3446621055");</script></head><body style="margin: 0;
+    background-image: url(https://www.presbyterianmusiccamp.ca/media/website/beach-2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #808080;
+    height: 100vh;
+    overflow-y: scroll;"><div style="display: flex; align-items: center;"><a href="https://www.presbyterianmusiccamp.ca/" style="text-decoration: none"><div style="text-align: center"><img src="https://www.presbyterianmusiccamp.ca/media/website/logo.png" style="height: 5rem; margin: 1rem; margin-bottom: 0"><p class="menu-item" style="font-weight: bold">HOME</p></div></a><ul style="margin: 0;
+          text-transform: uppercase;
+          font-weight: bold;
+          font-size: xx-large;
+          list-style-type: none;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-end;
+            margin-left: auto;"><li style="margin-top: 0.5rem;
+                margin-bottom: 0.5rem;
+                margin-left: 0;
+                margin-right: 2rem;
+              white-space: nowrap;"><a href="https://www.presbyterianmusiccamp.ca/pmc-2026.html" class="menu-item" style="text-decoration: none;">this year</a></li><li style="margin-top: 0.5rem;
+                margin-bottom: 0.5rem;
+                margin-left: 0;
+                margin-right: 2rem;
+              white-space: nowrap;"><a href="https://www.presbyterianmusiccamp.ca/home.html" class="menu-item" style="text-decoration: none;">about</a></li><li style="margin-top: 0.5rem;
+                margin-bottom: 0.5rem;
+                margin-left: 0;
+                margin-right: 2rem;
+              white-space: nowrap;"><a href="https://www.presbyterianmusiccamp.ca/documents.html" class="menu-item" style="text-decoration: none;">documents</a></li><li style="margin-top: 0.5rem;
+                margin-bottom: 0.5rem;
+                margin-left: 0;
+                margin-right: 2rem;
+              white-space: nowrap;"><a href="https://www.presbyterianmusiccamp.ca/frequently-asked-questions.html" class="menu-item" style="text-decoration: none;">FAQ</a></li><li style="margin-top: 0.5rem;
+                margin-bottom: 0.5rem;
+                margin-left: 0;
+                margin-right: 2rem;
+              white-space: nowrap;"><a href="https://www.presbyterianmusiccamp.ca/contact.html" class="menu-item" style="text-decoration: none;">contact</a></li><li style="margin-top: 0.5rem;
+                margin-bottom: 0.5rem;
+                margin-left: 0;
+                margin-right: 2rem;
+              white-space: nowrap;"><a href="https://www.presbyterianmusiccamp.ca/register.html" class="menu-item" style="text-decoration: none;">register!</a></li></ul></div><style></style><div style="display: flex; flex-direction: column; align-items: center"><div class="page"><h1 class="align-center">PMC Schedule 2026</h1><div class="row mb-3"><div class="col-8">Workshops are spread throughout the day into 5 periods. Workshops may be scheduled in a different period or different location on site than in previous years. There are also new workshops this year, and there may be some workshops from previous years that are not available this year. Workshops are subject to change, so please check back here and at the camp to confirm your planned schedule for the week.</div><div class="col-4"><ul style="list-style-type: none;"><li class="mb-3"><h5 class="m-0"><a href="#period-1" class="period-jump">Period 1</a></h5></li><li class="mb-3"><h5 class="m-0"><a href="#period-2" class="period-jump">Period 2</a></h5></li><li class="mb-3"><h5 class="m-0"><a href="#period-3" class="period-jump">Period 3</a></h5></li><li class="mb-3"><h5 class="m-0"><a href="#period-4" class="period-jump">Period 4</a></h5></li><li class="mb-3"><h5 class="m-0"><a href="#period-other" class="period-jump">Other</a></h5></li></ul></div></div><div class="d-flex pb-2" style="flex-wrap: wrap;"><div id="disp"></div><p><template id="workshop-template"><div class="mb-5 w-wrapper"><div class="d-flex mb-1"><h3 class="w-name m-0"> </h3><div class="ml-auto w-location"> </div></div><div class="d-flex mb-1"><div class="w-ages"> </div><div class="ml-auto w-time"> </div></div><div class="mb-1 w-desc" style="font-size: 90%; white-space: pre-wrap;"> </div></div></template></p><p><script>const dayWords = ["Mon", "Tue", "Wed", "Thur", "Fri"]
+  const periodTimes = {
+    "1": "10:00 am - 11:00 am",
+    "2": "11:15 am - 12:15 pm",
+    "3": "1:30 pm - 2:30 pm",
+    "4": "3:00 pm - 4:00 pm",
+    "5": "4:15 pm - 5:15 pm",
+  }
+  function doDay(button) {
+    document.querySelectorAll('[data-button-day]').forEach(i => {
+      i.classList.remove('btn-dark')
+      i.classList.add('outline-dark')
+    })
+    button.classList.remove('outline-dark')
+    button.classList.add('btn-dark')
+    if (button.dataset.buttonDay == "all") {
+      document.querySelectorAll('.w-wrapper').forEach(i => i.classList.remove('d-none'))
+    }
+    else {
+      document.querySelectorAll('.w-wrapper').forEach(i => i.classList.add('d-none'))
+      document.querySelectorAll(`.w-wrapper.day-${button.dataset.buttonDay}`).forEach(i => i.classList.remove('d-none'))
+    }
+  }
+  document.querySelectorAll('.jump-period').forEach(i => {
+    i.addEventListener('click', (e) => {
+      e.preventDefault()
+      document.querySelector(this.getAttribute('href')).scrollIntoView({behavior: 'smooth'})
+    })
+  })
+    fetch('https://www.presbyterianmusiccamp.ca/schedule-2026.json')
+    .then(res => res.json())
+    .then(schedule => {
+      const disp = document.getElementById('disp')
+      const template = document.querySelector('#workshop-template')
+      disp.innerHTML = ''
+      schedule.sort((a, b) => a.period === b.period ? a.name.localeCompare(b.name) : parseInt(a.period) - parseInt(b.period))
+      const periods = [...new Set(schedule.filter(a => a.period.length == 1).map(a => a.period)), 'other']
+      periods.forEach(i => {
+        if (parseInt(i) > 1) {
+          let hr = document.createElement('hr')
+          hr.classList.add('mx-0', 'my-2')
+          disp.appendChild(hr)
+        }
+        let periodBlock = document.createElement('div')
+        let periodHolder = document.createElement('div')
+        periodHolder.classList.add('d-flex')
+        periodHolder.id = `period-${i}`
+        // comment these 3 lines out if you don't want sticky period headers
+        periodHolder.style.position = 'sticky'
+        periodHolder.style.top = '-1px'
+        periodHolder.style.backdropFilter = 'blur(20px)'
+
+        let periodHeader = document.createElement('h2')
+        periodHeader.innerText = i.length == 1 ? `Period ${i}` : "Other Activities"
+        periodHolder.appendChild(periodHeader)
+        if (i.length == 1) {
+          let periodTime = document.createElement('span')
+          periodTime.classList.add('ml-auto', 'text-italic')
+          periodTime.innerText = periodTimes[i]
+          periodHolder.appendChild(periodTime)
+        }
+        periodBlock.appendChild(periodHolder)
+        let periodWorkshops = document.createElement('div')
+        periodWorkshops.classList.add('container')
+        const filt = i.length == 1 ? b => (b.period == i || b.period == `Period ${i}`) : b => (b.period.length > 1 && !b.period.startsWith("Period"))
+        schedule.filter(filt).forEach(j => {
+          let workshopEntry = template.content.cloneNode(true)
+          workshopEntry.querySelector('.w-name').textContent = j.name
+          workshopEntry.querySelector('.w-location').textContent = j.location
+          workshopEntry.querySelector('.w-ages').textContent = `Ages: ${j.age}`
+          workshopEntry.querySelector('.w-desc').textContent = j.desc
+          if (i == "other") {
+            workshopEntry.querySelector('.w-time').textContent = j.period
+          }
+          periodWorkshops.appendChild(workshopEntry)
+        })
+        periodBlock.appendChild(periodWorkshops)
+        let backToTop = document.createElement('a')
+        backToTop.href = "#"
+        backToTop.innerText = "Back to top"
+        backToTop.classList.add('mb-3')
+        // backToTop.addEventListener('click', () => window.scrollTo({top: 0, behavior: 'smooth'}))
+        periodBlock.appendChild(backToTop)
+        disp.appendChild(periodBlock)
+      })
+    })</script></p></div></div></div></body></html>

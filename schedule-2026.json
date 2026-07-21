@@ -1,0 +1,38 @@
+[
+  {
+    "name": "More-Than-Human Voices - Seeking Spirit in Nature",
+    "location": "TBD",
+    "age": "All",
+    "desc": "Participants gather together on the land to:<ul><li>deepen awareness of and reverence for natural spaces</li><li>engage and sharpen their senses</li><li>explore with other seekers in safe, inclusive and respectful environments</li><li>expand personal and collective meaning</li></ul></div><div>These encounters wi=ll be facilitated by David Melhorn-Boe, but are intended to be shaped by al=l participants.",
+    "period": "TBD"
+  },
+  {
+    "name": "Camp Choir",
+    "location": "Rec Hall",
+    "age": "All",
+    "desc": "Four-part singing for campers of any musical ability. While all singers will receive copies of the sheet music, the director will help singers who don't read music to learn by rote.",
+    "period": "1"
+  },
+  {
+    "name": "Children's Beginner Ukulele",
+    "location": "TBD",
+    "age": "6+",
+    "desc": "The goal of beginner ukulele is to have fun. We'll learn a little musicianship while we're singing familiar songs and practicing a handful of the most common ukulele chords. No previous experience required. Please bring a ukulele, but if you don't have one we have some you can borrow.",
+    "period": "3"
+  },
+  {
+    "name": "Adult's Beginner Ukulele",
+    "location": "TBD",
+    "age": "13+",
+    "desc": "The goal of beginner ukulele is to have fun. We'll learn a little musicianship while we're singing familiar songs and practicing a handful of the most common ukulele chords. No previous experience required. Please bring a ukulele, but if you don't have one we have some you can borrow.",
+    "period": "4"
+  },
+  {
+    "name": "All Ages Intermediate Ukulele",
+    "location": "TBD",
+    "age": "All",
+    "desc": "Take your ukulele playing to the next level!",
+    "period": "4"
+  }
+
+]
