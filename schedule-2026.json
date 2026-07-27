@@ -4,7 +4,7 @@
     "location": "TBD",
     "age": "All",
     "desc": "Participants gather together on the land to:<ul><li>deepen awareness of and reverence for natural spaces</li><li>engage and sharpen their senses</li><li>explore with other seekers in safe, inclusive and respectful environments</li><li>expand personal and collective meaning</li></ul></div><div>These encounters will be facilitated by David Melhorn-Boe, but are intended to be shaped by all participants.",
-    "period": "TBD"
+    "period": "2:45pm - 3:45pm"
   },
   {
     "name": "Camp Choir",
@@ -33,6 +33,20 @@
     "age": "All",
     "desc": "Take your ukulele playing to the next level!",
     "period": "4"
+  },
+  {
+    "name": "Polar Bear Swim",
+    "desc": "\"Come in, the water's fine\"",
+    "location": "The Beach",
+    "period": "7:00am - 7:30am",
+    "age": "All"
+  },
+  {
+    "name": "Morning Prayer",
+    "age": "All",
+    "desc": "Sometimes prayer can feel like a monologue -- but it can be a real conversation. We'll be praying with Scripture as a way to bring our whole selves to God and as a way to listen for God's voice. Come and be with God with old friends and new, as we explore ways of prayer adapted from St. Ignatius of Loyola.",
+    "location": "outside covered area of Dining Hall",
+    "period": "7:00am - 7:20+am"
   }
 
 ]
