@@ -1,37 +1,156 @@
 [
   {
-    "name": "More-Than-Human Voices - Seeking Spirit in Nature",
-    "location": "TBD",
-    "age": "All",
-    "desc": "Participants gather together on the land to:<ul><li>deepen awareness of and reverence for natural spaces</li><li>engage and sharpen their senses</li><li>explore with other seekers in safe, inclusive and respectful environments</li><li>expand personal and collective meaning</li></ul></div><div>These encounters will be facilitated by David Melhorn-Boe, but are intended to be shaped by all participants.",
-    "period": "2:45pm - 3:45pm"
-  },
-  {
     "name": "Camp Choir",
     "location": "Rec Hall",
-    "age": "All",
+    "age": "13+",
     "desc": "Four-part singing for campers of any musical ability. While all singers will receive copies of the sheet music, the director will help singers who don't read music to learn by rote.",
     "period": "1"
   },
   {
-    "name": "Children's Beginner Ukulele",
-    "location": "TBD",
+    "name": "Children's Choir",
+    "location": "Harmony House",
+    "age": "6-12",
+    "desc": "A choir for children, aged 5*-12. Sing fun songs with your friends and see how much fun a choir can be! (*5 year-old welcome with an adult!)",
+    "period": "1"
+  },
+  {
+    "name": "Cherubs",
+    "location": "The Nest Basement",
+    "age": "Up to 5",
+    "desc": "A fun place for toddlers and pre-schoolers to play and laugh under the supervision of the PMC parents collective. Parents of Cherubs are invited to work together to decide on activities and leaders for each day",
+    "period": "1"
+  },
+  {
+    "name": "Cherubs",
+    "location": "The Nest Basement",
+    "age": "Up to 5",
+    "desc": "A fun place for toddlers and pre-schoolers to play and laugh under the supervision of the PMC parents collective. Parents of Cherubs are invited to work together to decide on activities and leaders for each day",
+    "period": "2"
+  },
+  {
+    "name": "Concert Band",
+    "location": "Rec Hall",
+    "age": "13+",
+    "desc": "Instrumental music for woodwinds, brass & percussion – bring your own instrument, and a music stand if you have one.",
+    "period": "2"
+  },
+  {
+    "name": "Theme & Hymn Study",
+    "location": "The Nest 2F Meeting Room",
+    "age": "13+",
+    "desc": "Daily discussions and music based on the theme for each day",
+    "period": "2"
+  },
+  {
+    "name": "Banjo",
+    "location": "MacDonald Lodge Meeting Room",
+    "age": "13+",
+    "desc": "This is a safe space for banjo players and enthusiasts to escape persecution and learn styles and techniques on a 5 string instrument",
+    "period": "2"
+  },
+  {
+    "name": "Yoga/Chair Yoga",
+    "location": "Bluevale Deck",
+    "age": "All",
+    "desc": "Open to people of all ability levels, gently wake up your body with some guided movement and stretching!",
+    "period": "2"
+  },
+  {
+    "name": "Children's Games",
+    "location": "Harmony House",
+    "age": "5+",
+    "desc": "Games and outdoor activities taking advantage of what the site and staff have to offer.",
+    "period": "2"
+  },
+  {
+    "name": "Ukulele - Beginner",
+    "location": "Harmony House",
     "age": "6+",
     "desc": "The goal of beginner ukulele is to have fun. We'll learn a little musicianship while we're singing familiar songs and practicing a handful of the most common ukulele chords. No previous experience required. Please bring a ukulele, but if you don't have one we have some you can borrow.",
     "period": "3"
   },
   {
-    "name": "Adult's Beginner Ukulele",
-    "location": "TBD",
+    "name": "Jazz Choir",
+    "location": "The Nest - 'Tern' Room B01",
     "age": "13+",
-    "desc": "The goal of beginner ukulele is to have fun. We'll learn a little musicianship while we're singing familiar songs and practicing a handful of the most common ukulele chords. No previous experience required. Please bring a ukulele, but if you don't have one we have some you can borrow.",
+    "desc": "This SAB vocal ensemble will explore jazz repertoire (swing, Latin, and more!) from the mid 20th century. These arrangements will feature colourful close-voice harmonies and complex syncopated rhythms- akin to groups like The Manhattan Transfer and New York Voices. Come on out and let’s have a swingin’ time!",
+    "period": "3"
+  },
+  {
+    "name": "Jazz Band",
+    "location": "Rec Hall",
+    "age": "13+",
+    "desc": "This group will explore jazz repertoire (swing, Latin, and more!) from the mid 20th century. Come on out and let’s have a swingin’ time!",
+    "period": "3"
+  },
+  {
+    "name": "Jazz Band & Jazz Choir Collaboration",
+    "location": "Rec Hall",
+    "age": "13+",
+    "desc": "Toward the end of the week, the Jazz Band & Jazz Choir work shops will collaborate to prepare a piece for the end-of-camp performance.",
+    "period": "3"
+  },
+  {
+    "name": "Swing Dance",
+    "location": "The Nest Basement",
+    "age": "13+",
+    "desc": "Learn to dance to vintage jazz music from the 1930s and 40s! We'll be teaching the Lindy Hop -- a partnered dance that was popular back in that time and has seen a comeback in the past few decades. The focus will be on teaching basic moves and dance vocabulary to let you improvise and have fun on the social dance floor, rather than on preparing a choreographed routine. You don't need to bring a dance partner (you can if you want though), as we'll be rotating partners every few minutes during the workshop.",
+    "period": "3"
+  },
+  {
+    "name": "Guitar - All Levels",
+    "location": "Bluevale Deck",
+    "age": "All",
+    "desc": "Whether this is your first time picking up a guitar or your thousandth, come and take your playing to the next level!",
+    "period": "3"
+  },
+  {
+    "name": "Adult Craft",
+    "location": "Craft Hall",
+    "age": "13+",
+    "desc": "Paper fun with Kenner and Dixie; junk journalling, card making, calligraphy all-in-one!",
+    "period": "3"
+  },
+  {
+    "name": "Garage Band",
+    "location": "Red Hall",
+    "age": "13+",
+    "desc": "This year garage band will be pushing the envelope in ways that may change music camp forever. With all the political violence and corruption that has been rampant as of late, it’s only natural that GarageBand this year make its evolution into: HARDCORE GARAGEBAND.<br/>Yes we’re doing it. And for those who are curious what I mean by hardcore, I’m specifically going to focus on the beginnings of American hardcore punk in the 80s. Like, old school hardcore. (Clean stuff, mom don’t worry)<br/>We're going to learn Rise Above by Black Flag. Looking for at least 5 people to fill the roles of lead singer, lead guitar, rhythm guitar, bass, and drums. Contact Michael if you want more info ahead of camp: michaelgbroadhead@gmail.com",
     "period": "4"
   },
   {
-    "name": "All Ages Intermediate Ukulele",
-    "location": "TBD",
+    "name": "Advanced Choir",
+    "location": "The Nest Basement",
+    "age": "13+",
+    "desc": "Advanced Choir is open to anyone who is interested in a moderate challenge. The pieces we will do have been chosen to explore the theme of \"Light\" as something we can be to redeem the darkness in the world and as something with us from the beginning, modelled in the beauty of creation and in the person of Jesus, beckoning, challenging, comforting and inspiring.<br/>Ability to read music is a definite asset as we will not learn every part by rote but that doesn't mean we won't go over the challenging bits so don't be scared off if you think a little challenge might be fun.",
+    "period": "4"
+  },
+  {
+    "name": "Strings",
+    "location": "The Nest 2F Meeting Room",
     "age": "All",
-    "desc": "Take your ukulele playing to the next level!",
+    "desc": "Dust off your violins, violas and cellos! This is a reading-based workshop for string ensemble. We will try to accommodate all ages and levels, but some playing and reading experience on your instrument is necessary. Bring a stand.",
+    "period": "4"
+  },
+  {
+    "name": "Ukulele - All Levels",
+    "location": "Bluevale Deck",
+    "age": "13+",
+    "desc": "Whether this is your first time picking up a ukulele or your thousandth, come and take your playing to the next level!",
+    "period": "4"
+  },
+  {
+    "name": "Expressive Arts Therapy (Monday/Tuesday)",
+    "location": "MacDonald Meeting Room",
+    "age": "18+",
+    "desc": "Theme: In keeping with our camp theme \"We are the light\" we will explore our very human stories of our inner light journeys through collage making, writing, movement and song. The songs I teach will be in the call and echo, community singing style of song circles. No singing experience is necessary. All voices welcome.<br/> Questions we will explore through collage and writing around our camp theme are: What does \"we are the light\" mean to you? When our light feels dim, what does it look like, how does it feel in the body, how does it move and how does it want to express? When our light is brightest, what does it look like, how does it feel in the body, how does it move, how does it show up in the world and want to express?<br/> Some guidelines for the group: Any stories shared in the group stay in the group. Please only share your own experience. All are welcome as you are. You can share as much or as little if anything in the sharing rounds. Emotions are welcome, not to be fixed, just held by the group and the art making. The beauty of the arts is that they can hold us however we are in each moment.<br/>Maximum 12 participants",
+    "period": "4"
+  },
+  {
+    "name": "Expressive Arts Therapy (Thursday/Friday)",
+    "location": "MacDonald Meeting Room",
+    "age": "13+",
+    "desc": "Theme: In keeping with our camp theme \"We are the light\" we will explore our very human stories of our inner light journeys through collage making, writing, movement and song. The songs I teach will be in the call and echo, community singing style of song circles. No singing experience is necessary. All voices welcome.<br/> Questions we will explore through collage and writing around our camp theme are: What does \"we are the light\" mean to you? When our light feels dim, what does it look like, how does it feel in the body, how does it move and how does it want to express? When our light is brightest, what does it look like, how does it feel in the body, how does it move, how does it show up in the world and want to express?<br/> Some guidelines for the group: Any stories shared in the group stay in the group. Please only share your own experience. All are welcome as you are. You can share as much or as little if anything in the sharing rounds. Emotions are welcome, not to be fixed, just held by the group and the art making. The beauty of the arts is that they can hold us however we are in each moment.<br/>Maximum 12 participants",
     "period": "4"
   },
   {
@@ -42,11 +161,60 @@
     "age": "All"
   },
   {
+    "name": "Tai Chi",
+    "desc": "Morning practice for beginners",
+    "location": "The Beach",
+    "period": "7:00am",
+    "age": "All"
+  },
+  {
     "name": "Morning Prayer",
-    "age": "All",
-    "desc": "Sometimes prayer can feel like a monologue -- but it can be a real conversation. We'll be praying with Scripture as a way to bring our whole selves to God and as a way to listen for God's voice. Come and be with God with old friends and new, as we explore ways of prayer adapted from St. Ignatius of Loyola.",
+    "desc": "Sometimes prayer can feel like a monologue -- but it can be a real conversation. We'll be praying with Scripture as a way to bring our whole selves to God and as a way to listen for God's voice. Come and be with God with old friends and new.",
     "location": "outside covered area of Dining Hall",
-    "period": "7:00am - 7:20+am"
+    "period": "7:30am",
+    "age": "All"
+  },
+  {
+    "name": "More-Than-Human Voices - Seeking Spirit in Nature",
+    "location": "Various (see announcements)",
+    "age": "All",
+    "desc": "Participants gather together on the land to:<ul><li>deepen awareness of and reverence for natural spaces</li><li>engage and sharpen their senses</li><li>explore with other seekers in safe, inclusive and respectful environments</li><li>expand personal and collective meaning</li></ul></div><div>These encounters will be facilitated by David Melhorn-Boe, but are intended to be shaped by all participants.<br/>These encounters will be facilitated by David Melhorn-Boe, but are intended to be shaped by all participants.",
+    "additional": "Facilitator: Margaret Moncrieff<br/>First Circle will take place after Monday's campfire.Listen to announcements for time and location of subsequent Circles.",
+    "period": "2:45pm - 3:45pm"
+  },
+  {
+    "name": "Song and Creation Sharing Circle",
+    "location": "Various (see announcements)",
+    "age": "All",
+    "desc": "Come and share your creative work with others in the circle. You can bring a song, poem, piece of music, art work, ideas or other creation. The work can be completed, in progress, or not yet started. You may ask for others to provide feedback, to listen without comment, or to participate in some way with your offering. You don’t even need to bring anything and can come to simply be inspired by the creative process.<br/>Facilitator: Margaret Moncrieff<br/>First Circle will take place after Monday's campfire.Listen to announcements for time and location of subsequent Circles.",
+    "period": "Various (see announcements)"
+  },
+  {
+    "name": "Swimming and Canoeing",
+    "location": "The Beach",
+    "age": "All",
+    "desc": "Beach fun in the afternoon!",
+    "period": "2:15pm - 3:45pm"
+  },
+  {
+    "name": "Crafts for Kids",
+    "location": "Craft Hall",
+    "age": "All",
+    "desc": "Different crafts every day. Children under the age of 7 need to be accompanied by an adult.",
+    "period": "2:45pm - 3:45pm"
+  },
+  {
+    "name": "Sport of the Day",
+    "location": "Various (see announcements)",
+    "age": "All",
+    "desc": "Sport and location will be announced on Basecamp and on the announcements screen.",
+    "period": "2:45pm - 3:45pm"
+  },
+  {
+    "name": "Stargazing",
+    "location": "Outdoors (see announcements)",
+    "age": "All",
+    "desc": "After dark one evening, join a session of amateur astronomy and admire the night sky through a telescope. Listen for announcements for time and location for this.",
+    "period": "Evening"
   }
-
 ]
