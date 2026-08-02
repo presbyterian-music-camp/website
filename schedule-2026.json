@@ -66,7 +66,7 @@
     "name": "Ukulele - Beginner",
     "location": "Harmony House",
     "age": "6+",
-    "desc": "The goal of beginner ukulele is to have fun. We'll learn a little musicianship while we're singing familiar songs and practicing a handful of the most common ukulele chords. No previous experience required. Please bring a ukulele, but if you don't have one we have some you can borrow.<br/><br/>Toward the end of the week we will collaborate with the PMC Jazz choir to prepare a piece for the end-of-camp performance.",
+    "desc": "The goal of beginner ukulele is to have fun. We'll learn a little musicianship while we're singing familiar songs and practicing a handful of the most common ukulele chords. No previous experience required. Please bring a ukulele, but if you don't have one we have some you can borrow.",
     "period": "3"
   },
   {
@@ -80,7 +80,7 @@
     "name": "Jazz Band",
     "location": "Rec Hall",
     "age": "13+",
-    "desc": "This group will explore jazz repertoire (swing, Latin, and more!) from the mid 20th century. Come on out and let’s have a swingin’ time!",
+    "desc": "This group will explore jazz repertoire (swing, Latin, and more!) from the mid 20th century. Come on out and let’s have a swingin’ time!<br/><br/>Toward the end of the week we will collaborate with the PMC Jazz choir to prepare a piece for the end-of-camp performance.",
     "period": "3"
   },
   {
@@ -193,14 +193,14 @@
     "location": "Craft Hall",
     "age": "All",
     "desc": "Different crafts every day. Children under the age of 7 need to be accompanied by an adult.",
-    "period": "2:45pm - 3:45pm"
+    "period": "4:45pm - 5:30pm"
   },
   {
     "name": "Sport of the Day",
     "location": "Locations will be announced",
     "age": "All",
     "desc": "Sport and location will be announced on Basecamp and on the announcements screen.",
-    "period": "2:45pm - 3:45pm"
+    "period": "4:45pm - 5:30pm"
   },
   {
     "name": "Stargazing",
