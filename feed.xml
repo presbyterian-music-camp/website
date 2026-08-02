@@ -3,12 +3,159 @@
     <title>Presbyterian Music Camp</title>
     <link href="https://www.presbyterianmusiccamp.ca/feed.xml" rel="self" />
     <link href="https://www.presbyterianmusiccamp.ca" />
-    <updated>2026-08-01T21:48:23-04:00</updated>
+    <updated>2026-08-01T22:16:32-04:00</updated>
     <author>
         <name>Daniel Eisner</name>
     </author>
     <id>https://www.presbyterianmusiccamp.ca</id>
 
+    <entry>
+        <title>Workshop Schedule 2026</title>
+        <author>
+            <name>Daniel Eisner</name>
+        </author>
+        <link href="https://www.presbyterianmusiccamp.ca/workshop_schedule_2026.html"/>
+        <id>https://www.presbyterianmusiccamp.ca/workshop_schedule_2026.html</id>
+
+        <updated>2026-08-01T22:13:19-04:00</updated>
+            <summary>
+                <![CDATA[
+                    This year workshops are spread throughout the day into 4 periods. Workshops may be scheduled&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="row mb-3">
+<div class="col-8">This year workshops are spread throughout the day into 4 periods. Workshops may be scheduled in a different period or different location on site than in previous years. There are also new workshops this year, and there may be some workshops from previous years that are not available this year. Workshops are subject to change, so please check back here and at the camp to confirm your planned schedule for the week.</div>
+<div class="col-4">
+<ul style="list-style-type: none;">
+<li class="mb-3">
+<h5 class="m-0"><a href="#period-1" class="period-jump">Period 1</a></h5>
+</li>
+<li class="mb-3">
+<h5 class="m-0"><a href="#period-2" class="period-jump">Period 2</a></h5>
+</li>
+<li class="mb-3">
+<h5 class="m-0"><a href="#period-3" class="period-jump">Period 3</a></h5>
+</li>
+<li class="mb-3">
+<h5 class="m-0"><a href="#period-4" class="period-jump">Period 4</a></h5>
+</li>
+<li class="mb-3">
+<h5 class="m-0"><a href="#period-other" class="period-jump">Other</a></h5>
+</li>
+</ul>
+</div>
+</div>
+<div class="d-flex pb-2" style="flex-wrap: wrap;">
+<div id="disp"></div>
+<p><template id="workshop-template">
+<div class="mb-5 w-wrapper">
+<div class="d-flex mb-1">
+<h3 class="w-name m-0"> </h3>
+<div class="ml-auto w-location"> </div>
+</div>
+<div class="d-flex mb-1">
+<div class="w-ages"> </div>
+<div class="ml-auto w-time"> </div>
+</div>
+<div class="mb-1 w-desc" style="font-size: 90%; white-space: pre-wrap;"> </div>
+</div>
+</template></p>
+<p>
+<script>
+  const dayWords = ["Mon", "Tue", "Wed", "Thur", "Fri"]
+  const periodTimes = {
+    "1": "10:00 am - 11:00 am",
+    "2": "11:15 am - 12:15 pm",
+    "3": "1:45 pm - 2:45 pm",
+    "4": "3:45 pm - 4:45 pm",
+  }
+  function doDay(button) {
+    document.querySelectorAll('[data-button-day]').forEach(i => {
+      i.classList.remove('btn-dark')
+      i.classList.add('outline-dark')
+    })
+    button.classList.remove('outline-dark')
+    button.classList.add('btn-dark')
+    if (button.dataset.buttonDay == "all") {
+      document.querySelectorAll('.w-wrapper').forEach(i => i.classList.remove('d-none'))
+    }
+    else {
+      document.querySelectorAll('.w-wrapper').forEach(i => i.classList.add('d-none'))
+      document.querySelectorAll(`.w-wrapper.day-${button.dataset.buttonDay}`).forEach(i => i.classList.remove('d-none'))
+    }
+  }
+  document.querySelectorAll('.jump-period').forEach(i => {
+    i.addEventListener('click', (e) => {
+      e.preventDefault()
+      document.querySelector(this.getAttribute('href')).scrollIntoView({behavior: 'smooth'})
+    })
+  })
+    fetch('https://www.presbyterianmusiccamp.ca/schedule-2026.json')
+    .then(res => res.json())
+    .then(schedule => {
+      const disp = document.getElementById('disp')
+      const template = document.querySelector('#workshop-template')
+      disp.innerHTML = ''
+      schedule.sort((a, b) => a.period === b.period ? a.name.localeCompare(b.name) : parseInt(a.period) - parseInt(b.period))
+      const periods = [...new Set(schedule.filter(a => a.period.length == 1).map(a => a.period)), 'other']
+      periods.forEach(i => {
+        if (parseInt(i) > 1) {
+          let hr = document.createElement('hr')
+          hr.classList.add('mx-0', 'my-2')
+          disp.appendChild(hr)
+        }
+        let periodBlock = document.createElement('div')
+        let periodHolder = document.createElement('div')
+        periodHolder.classList.add('d-flex')
+        periodHolder.id = `period-${i}`
+        // comment these 3 lines out if you don't want sticky period headers
+        periodHolder.style.position = 'sticky'
+        periodHolder.style.top = '-1px'
+        periodHolder.style.backdropFilter = 'blur(20px)'
+
+        let periodHeader = document.createElement('h2')
+        periodHeader.innerText = i.length == 1 ? `Period ${i}` : "Other Activities"
+        periodHolder.appendChild(periodHeader)
+        if (i.length == 1) {
+          let periodTime = document.createElement('span')
+          periodTime.classList.add('ml-auto', 'text-italic')
+          periodTime.innerText = periodTimes[i]
+          periodHolder.appendChild(periodTime)
+        }
+        periodBlock.appendChild(periodHolder)
+        let periodWorkshops = document.createElement('div')
+        periodWorkshops.classList.add('container')
+        const filt = i.length == 1 ? b => (b.period == i || b.period == `Period ${i}`) : b => (b.period.length > 1 && !b.period.startsWith("Period"))
+        schedule.filter(filt).forEach(j => {
+          let workshopEntry = template.content.cloneNode(true)
+          workshopEntry.querySelector('.w-name').textContent = j.name
+          workshopEntry.querySelector('.w-location').textContent = j.location
+          workshopEntry.querySelector('.w-ages').textContent = `Ages: ${j.age}`
+          workshopEntry.querySelector('.w-desc').innerHTML = j.desc
+          if (i == "other") {
+            workshopEntry.querySelector('.w-time').textContent = j.period
+          }
+          periodWorkshops.appendChild(workshopEntry)
+        })
+        periodBlock.appendChild(periodWorkshops)
+        let backToTop = document.createElement('a')
+        backToTop.href = "#"
+        backToTop.innerText = "Back to top"
+        backToTop.classList.add('mb-3')
+        // backToTop.addEventListener('click', () => window.scrollTo({top: 0, behavior: 'smooth'}))
+        periodBlock.appendChild(backToTop)
+        disp.appendChild(periodBlock)
+      })
+    })
+
+</script>
+</p>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>PMC Schedule 2026</title>
         <author>
@@ -175,7 +322,7 @@
                 <figure class="post__image post__image--full"><img loading="lazy"  src="https://www.presbyterianmusiccamp.ca/media/posts/72/pmc_2026_header.png" alt="We Are The Light - Sunday, August 23rd to Saturday, August 29th - Camp Kintail on Lake Huron" width="1600" height="608"></figure>
 <p>Images of light are found throughout scripture and songs.  Jesus told his followers that they are salt and light for the world and not to hide their light under a basket.  At PMC 2026 we will explore some of these images and what they mean to us in 2026 when we think about serving one another, sharing our light in inclusive ways, and stewarding our planet.</p>
 <p><a href="https://www.presbyterianmusiccamp.ca/theme_resources_2026.pdf" title="2026 Theme Resources" target="_blank" rel="noopener noreferrer">2026 Theme Resources</a></p>
-<p><a href="https://www.presbyterianmusiccamp.ca/pmc-schedule-2026.html" target="_blank" rel="noopener noreferrer">2026 Workshop Schedule</a></p>
+<p><a href="https://www.presbyterianmusiccamp.ca/workshop_schedule_2026.html" target="_blank" rel="noopener noreferrer">2026 Workshop Schedule</a></p>
 <p><a href="https://www.presbyterianmusiccamp.ca/week_schedule_2026.pdf" target="_blank" rel="noopener noreferrer">2026 Week Schedule</a></p>
 <p><a href="https://www.presbyterianmusiccamp.ca/camper_guide_2026.pdf" target="_blank" rel="noopener noreferrer">2026 Camper Guide</a></p>
 <p><a href="https://www.presbyterianmusiccamp.ca/packing_list_2024.doc" target="_blank" rel="noopener noreferrer"></a><a href="https://www.presbyterianmusiccamp.ca/packing_list_2026.pdf" target="_blank" rel="noopener noreferrer">2026 Packing List</a><a href="https://www.presbyterianmusiccamp.ca/PMC_week_schedule_2025.pdf" target="_blank" rel="noopener noreferrer"></a></p>
@@ -850,31 +997,6 @@
 			})
 	</script>
 </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Thank you for your donation!</title>
-        <author>
-            <name>Daniel Eisner</name>
-        </author>
-        <link href="https://www.presbyterianmusiccamp.ca/thank-you-for-your-donation.html"/>
-        <id>https://www.presbyterianmusiccamp.ca/thank-you-for-your-donation.html</id>
-
-        <updated>2024-02-25T17:20:02-05:00</updated>
-            <summary>
-                <![CDATA[
-                    The PMC Community appreciates your generosity. Your donation allows us to assist campers through our&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>The PMC Community appreciates your generosity. Your donation allows us to assist campers through our bursary funds and to improve our programming for musical and other workshops.</p>
-<p>May God bless you as you have blessed us.</p>
-<p>Use the links at the top of this page to navigate to other pages on the PMC Website.</p>
-<p> </p>
-<p> </p>
-<p> </p>
             ]]>
         </content>
     </entry>
