@@ -147,6 +147,13 @@
     "period": "4"
   },
   {
+    "name": "Beginner Chimes",
+    "location": "The Nest - 'Tern' Room B01",
+    "age": "8+",
+    "desc": "An introduction to playing chimes in a group.",
+    "period": "4"
+  },
+  {
     "name": "Polar Bear Swim",
     "desc": "\"Come in, the water's fine\"",
     "location": "The Beach",
